@@ -1,0 +1,21 @@
+html, body{
+    height: 100%;
+}
+.container-fluid{
+    height: 100%;
+}
+.row{
+    height: 100%
+}
+
+.left, .right{
+    height: 85%
+}
+.header{
+	height: 20%;
+}
+
+.map,.info{
+	height: 80%;
+}
+

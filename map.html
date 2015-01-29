@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=utf-8">
+    <title>Floor Map with bootstrap</title>
+
+
+    <!-- using the viewport meta tag to control layout on mobile browsers -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="ie_style.css" />
+    <![endif]-->
+    <!--
+    <link rel="stylesheet" type="text/css" href="svg floor plan style.css" /> -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="floor_plan.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="http://www.sju.edu" class="navbar-brand"><img alt="SJU Home" src="images/sjucircled.png"></a>
+                <a href="http://www.sju.edu/int/resources/libraries/drexel/index.html" class="navbar-brand">
+                    Library Home</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#">First Floor</a></li>
+                <li><a href="#" class="active">Second Floor</a></li>
+                <li><a href="#">Third Floor</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-9 bg-info">
+                <button onclick="getDocument();">Show SVG Document</button>
+                <br />
+                <object id="SVGDoc" type="image/svg+xml" data="images/library-floor-2.svg"></object>
+
+            </div>
+            <div class="col-sm-3 bg-success">
+                <p>info detail</p>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <a href="http://www.sju.edu/int/resources/libraries/drexel/index.html">
+                Drexel & Post Library
+            </a> | <a href="http://www.sju.edu/">Saint Joseph's University</a>
+        </div>
+    </footer>
+
+
+</body>
+</html>
