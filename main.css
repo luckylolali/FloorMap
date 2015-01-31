@@ -1,8 +1,8 @@
 html, body{
-    height: 100%;
+    //height: 100%;
 }
 .container-fluid{
-    height: 100%;
+    //height: 100%;
 }
 .row{
     height: 100%
@@ -15,7 +15,40 @@ html, body{
 	height: 20%;
 }
 
+.clean{
+    min-height: 50px;
+}
+
 .map,.info{
 	height: 80%;
 }
+
+footer.navbar{
+    margin-bottom: 0px;
+}
+
+
+/*
+@media screen and (min-width: 845px) and (max-width: 950px) {
+    svg{
+        width: 700px;
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 844px) {
+    svg{
+        width: 600px;
+        height: 330px;
+    }
+}
+
+
+@media screen and (min-width: 1001px) {
+    svg{
+        width: 900px;
+        height: 510px;
+    }
+}
+*/
 

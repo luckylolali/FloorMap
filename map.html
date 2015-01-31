@@ -8,11 +8,7 @@
     <!-- using the viewport meta tag to control layout on mobile browsers -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!--[if IE]>
-    <link rel="stylesheet" type="text/css" href="ie_style.css" />
-    <![endif]-->
-    <!--
-    <link rel="stylesheet" type="text/css" href="svg floor plan style.css" /> -->
+    <link rel="stylesheet" type="text/css" href="main.css" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="main.js"></script>
@@ -56,7 +52,8 @@
             <div class="col-sm-9 bg-info">
                 <button onclick="getDocument();">Show SVG Document</button>
                 <br />
-                <object id="SVGDoc" type="image/svg+xml" data="library_floor_2.svg"></object>
+                <div id="svgdata">Loading...</div>
+                <!--<object id="SVGDoc" type="image/svg+xml" data="library_floor_2.svg"></object>-->
 
             </div>
             <div class="col-sm-3 bg-success">
@@ -64,6 +61,7 @@
             </div>
         </div>
     </div>
+    <div class="clean"></div>
     <footer class="footer navbar navbar-default navbar-fixed-bottom">
         <div class="container">
             <ul class="nav nav-pills">
