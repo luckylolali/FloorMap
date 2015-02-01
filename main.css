@@ -1,18 +1,5 @@
-html, body{
-    //height: 100%;
-}
-.container-fluid{
-    //height: 100%;
-}
 .row{
     height: 100%
-}
-
-.left, .right{
-    height: 85%
-}
-.header{
-	height: 20%;
 }
 
 .clean{
@@ -23,9 +10,7 @@ html, body{
 	height: 80%;
 }
 
-footer.navbar{
-    margin-bottom: 0px;
-}
+
 
 
 /*

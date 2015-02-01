@@ -37,6 +37,6 @@ function loadSvg(filename){
 
 function getDocument()
 {
-    var svgDoc = document.getElementById("SVGDoc").getSVGDocument();
+    var svgDoc = $('#room_315');
     alert( svgDoc );
 }
