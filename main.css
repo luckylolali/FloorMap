@@ -10,7 +10,9 @@
 	height: 80%;
 }
 
-
+[id^=room]:hover{
+    fill:blue!important;
+}
 
 
 /*
