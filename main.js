@@ -1,33 +1,31 @@
 /**
  * Created by Elaine on 1/22/15.
  */
-var rooms = {
-    "room301":{
-        "description": "this is room 301",
-        "picture": "http://www.sju.edu/"
-    },
-    "room302":{
-        "description": "this is room 302",
-        "picture": "http://www.sju.edu/"
-    }
-};
+//load json data
+var json = (function () {
+    var json = null;
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': 'roomInfo.json',
+        'dataType': "json",
+        'success': function (result) {
+            json = result;
+        }
+    });
+    return json;
+})();
+
 $(document).ready(function(){
-    //$("#SVGDoc").attr("data","library_floor_2.svg");
+
+    //load default img
     loadSvg("floor_map_test.svg");
-    $("#second").click(function(){
-        //$("#SVGDoc").attr("data","library_floor_2.svg");
-        loadSvg("library_floor_2.svg");
-        return false;
-    });
 
-    $("#third").click(function(){
-        loadSvg("library_floor_3.svg");
-        return false;
-    });
+    $(".floor").on('click', function(event){
+        event.preventDefault();
+        loadSvg($(this).data('map'));
+    })
 
-    $(window).resize(function(){
-        $(".detail").height($("#svgdata").height());
-    });
 });
 
 function loadSvg(filename){
@@ -45,7 +43,7 @@ function loadSvg(filename){
 
         $("[id^=room]").hover(function(){
             $("#infoDetail").css("display", "block");
-            var room = rooms[this.id];
+            var room = json.rooms[this.id];
             if(room != undefined){
                 $("#roomName").text(this.id);
                 $("#roomDescription").text(room.description);
@@ -58,8 +56,3 @@ function loadSvg(filename){
 }
 
 
-function getDocument()
-{
-    var svgDoc = $('#room_315');
-    alert( svgDoc );
-}

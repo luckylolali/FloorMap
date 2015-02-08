@@ -31,16 +31,16 @@
                 <div class="tab-content clearfix">
                     <div id="pane1" class="tab-pane active">
                         <ul class="nav nav-pills">
-                            <li><a href="#">First Floor</a></li>
-                            <li><a href="#">Second Floor</a></li>
-                            <li><a href="#">Third Floor</a></li>
+                            <li><a href="#" class="floor">First Floor</a></li>
+                            <li><a href="#" class="floor">Second Floor</a></li>
+                            <li><a href="#" class="floor">Third Floor</a></li>
                         </ul>
                     </div>
                     <div id="pane2" class="tab-pane">
                         <ul class="nav nav-pills">
-                            <li><a id="first" href="#">First Floor</a></li>
-                            <li><a id="second" href="#">Second Floor</a></li>
-                            <li><a id="third" href="#">Third Floor</a></li>
+                            <li><a id="first" href="#" class="floor">First Floor</a></li>
+                            <li><a id="second" href="#" class="floor" data-map="library_floor_2.svg">Second Floor</a></li>
+                            <li><a id="third" href="#" class="floor" data-map="library_floor_3.svg">Third Floor</a></li>
                         </ul>
                     </div>
                 </div>
@@ -54,15 +54,14 @@
                 <!--<object id="SVGDoc" type="image/svg+xml" data="library_floor_2.svg"></object>-->
 
             </div>
-            <div class="col-sm-3 bg-success">
-                <div class="detail">
-                    <p>info detail</p>
-                    <div id="infoDetail" style="display: none">
+            <div class="col-sm-3">
+                <div class="panel panel-info detail">
+                    <div class="panel-heading">Info Detail</div>
+                    <div class="panel-body" id="infoDetail">
                         <div id="roomName">11</div>
                         <div id="roomDescription">11</div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
