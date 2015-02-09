@@ -2,6 +2,7 @@
  * Created by Elaine on 1/22/15.
  */
 //load json data
+/*
 var json = (function () {
     var json = null;
     $.ajax({
@@ -14,12 +15,19 @@ var json = (function () {
         }
     });
     return json;
-})();
+})();*/
+var json = null;
 
 $(document).ready(function(){
+    //load json data
+    $.getJSON('roomInfo.json',function(result){
+        json = result;
+    });
 
     //load default img
-    loadSvg("floor_map_test.svg");
+    loadSvg("library_floor_1.svg");
+
+
 
     $(".floor").on('click', function(event){
         event.preventDefault();
@@ -27,7 +35,7 @@ $(document).ready(function(){
     })
 
 });
-
+/*
 function loadSvg(filename){
     $.ajax({
         url: filename,
@@ -53,6 +61,26 @@ function loadSvg(filename){
         $(".detail").height($("#svgdata").height());
             //$("#svgdata").html(data);
         });
+}*/
+
+function loadSvg(filename){
+    var showDetail = function(){
+        var roomNum = $(this).attr('id');
+        var room = json.rooms[roomNum];
+        if(room != undefined){
+            $("#roomName").text(roomNum);
+            $("#roomDescription").text(room.description);
+        }
+    };
+
+    $.ajax(filename, {
+        dataType: "xml",
+        type: "GET",
+        success: function(result){
+            var data = $(result).find('svg');
+            $('#svgdata').empty().append(data);
+            $("[id^=room]").on('mouseenter',showDetail);
+            $(".detail").height($("#svgdata").height());
+        }
+    })
 }
-
-
