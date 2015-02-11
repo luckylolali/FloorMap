@@ -10,8 +10,18 @@
 	height: 80%;
 }
 
+[id^=room] {
+    fill-opacity: 0.2;
+}
+
 [id^=room]:hover{
-    fill:blue!important;
+    fill-opacity:0.8;
+    //fill:blue!important;
+}
+
+#roomPic > img{
+    width: 100%;
+    display: none;
 }
 
 
@@ -22,7 +32,7 @@
         height: 380px;
     }
 }
-
+l
 @media screen and (max-width: 844px) {
     svg{
         width: 600px;

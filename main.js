@@ -68,6 +68,9 @@ function loadSvg(filename){
         var roomNum = $(this).attr('id');
         var room = json.rooms[roomNum];
         if(room != undefined){
+            var detail = $('#infoDetail');
+            detail.find('p').hide();
+            detail.find('img').attr('src','images/' + room.picture).show();
             $("#roomName").text(roomNum);
             $("#roomDescription").text(room.description);
         }

@@ -2,11 +2,11 @@
     "rooms": {
         "room301":{
             "description": "this is room 301",
-            "picture": "http://www.sju.edu/"
+            "picture": "room1.jpg"
         },
         "room302":{
             "description": "this is room 302",
-            "picture": "http://www.sju.edu/"
+            "picture": "room2.jpg"
         }
     }
 }
