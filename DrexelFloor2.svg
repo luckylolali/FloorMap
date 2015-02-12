@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="885px" height="510px" viewBox="0 0 885 510" style="enable-background:new 0 0 885 510;" xml:space="preserve">
+<g id="bg" style="display:none;">
+	
+		<image style="display:inline;overflow:visible;" width="1776" height="1280" xlink:href="DrexelFloor2.png"  transform="matrix(0.5 0 0 0.5 -92 -71)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="1776" height="1280" xlink:href="DrexelFloor2.png"  transform="matrix(0.5 0 0 0.5 -92 -70)">
+	</image>
+	<path style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" d="M336.5,325.5"/>
+</g>
+<g id="active">
+	<rect id="room" x="430.5" y="382.5" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" width="53" height="45"/>
+	<polygon id="room_4_" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" points="353.5,296.5 336.5,296.5 309.5,296.5 
+		309.5,264.5 353.5,264.5 	"/>
+	<rect id="room_1_" x="380.5" y="342.5" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" width="50" height="66"/>
+	<rect id="room_2_" x="396.5" y="306.5" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" width="33" height="36"/>
+	<rect id="room_3_" x="396.5" y="264.5" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" width="33" height="42"/>
+	<polygon id="room_5_" style="fill:#5BC0DE;stroke:#000000;stroke-miterlimit:10;" points="353.5,265 396,264.5 396.5,342.5 
+		380.5,342.5 380.5,326 337,325.667 336.5,296.5 354,296.5 	"/>
+	<rect id="cm_center" x="483.5" y="263.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="93" height="164"/>
+	<rect x="576.5" y="263.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="46" height="163"/>
+	<rect id="collection" x="601.5" y="187.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="52" height="140"/>
+	<g id="shelf1" class="active">
+		<rect x="44.5" y="234.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="249.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="264.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="280.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="296.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="311.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="327.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="342.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="357.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="90" height="5"/>
+		<rect x="44.5" y="402.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="131" height="5"/>
+
+
+		<rect x="44.5" y="388.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+		<rect x="44.5" y="372.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+
+		<rect x="142.5" y="233.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="248.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="279.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="295.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="264.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="310.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="325.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="341.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="142.5" y="357.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="44" height="6"/>
+		<rect x="308.5" y="326.5" style="fill:none;stroke:#333333;stroke-miterlimit:10;" width="72" height="82"/>
+	</g>
+    <g id="shelf2" class="active">
+        <rect x="44.5" y="218.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+		<rect x="44.5" y="204.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+		<rect x="44.5" y="189.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+		<rect x="44.5" y="172.5" style="fill:#00FF00;stroke:#2E3192;stroke-miterlimit:10;" width="142" height="4"/>
+
+    </g>
+</g>
+<g id="outfit">
+	<rect id="stair" x="94.5" y="106.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="95" height="51"/>
+	<g id="&#x536B;&#x751F;&#x95F4;">
+		<g>
+			<rect x="329.188" y="347.468" style="fill:none;" width="33.292" height="39.834"/>
+			<g>
+				<path style="fill:#231815;" d="M362.48,381.018c0,3.466-2.353,6.284-5.25,6.284h-22.793c-2.898,0-5.25-2.818-5.25-6.284v-27.276
+					c0-3.465,2.351-6.273,5.25-6.273h22.793c2.896,0,5.25,2.809,5.25,6.273V381.018z"/>
+				<g>
+					<polygon style="fill:#FFFFFF;" points="345.291,350.441 345.291,382.627 332.967,382.627 332.967,357.507 					"/>
+					<polygon style="fill:#FFFFFF;" points="346.673,350.441 346.673,382.627 358.993,382.627 358.993,357.507 					"/>
+					<g>
+						<g>
+							<polygon style="fill:#231815;" points="337.517,360.356 340.97,360.356 344.128,369.656 343.5,370.164 340.864,364.321 
+								340.623,364.621 343.39,373.506 340.673,373.506 339.8,381.249 338.701,381.249 337.827,373.506 335.112,373.506 
+								337.92,364.8 337.636,364.321 335.006,370.164 334.37,369.656 							"/>
+							<path style="fill:#231815;" d="M341.137,357.412c0,1.304-0.887,2.361-1.973,2.361c-1.087,0-1.969-1.058-1.969-2.361
+								c0-1.294,0.881-2.356,1.969-2.356C340.25,355.056,341.137,356.118,341.137,357.412z"/>
+							<path style="fill:#231815;" d="M354.429,357.412c0,1.304-0.885,2.361-1.971,2.361c-1.092,0-1.976-1.058-1.976-2.361
+								c0-1.294,0.883-2.356,1.976-2.356C353.544,355.056,354.429,356.118,354.429,357.412z"/>
+						</g>
+						<polygon style="fill:#231815;" points="349.62,360.356 355.027,360.356 356.244,361.214 356.244,372.131 355.194,372.131 
+							355.194,364.524 354.348,364.524 354.348,381.249 352.992,381.249 352.588,374.865 352.135,374.865 351.771,381.249 
+							350.338,381.249 350.338,364.524 349.499,364.524 349.49,372.131 348.453,372.131 348.453,361.435 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="&#x513F;&#x7AE5;">
+			<g>
+				<g>
+					<g>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="375.876,168.398 372.191,176.472 374.092,176.436 
+							377.765,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="383.513,168.398 387.167,176.465 385.268,176.454 
+							381.624,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="377.06,180.647 377.06,168.592 382.321,168.592 
+							382.321,181.042 382.319,181.042 382.319,191.523 380.453,191.523 380.453,180.962 378.915,180.962 378.915,191.523 
+							377.05,191.523 377.05,180.647 						"/>
+						<g>
+							<ellipse style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" cx="379.762" cy="165.686" rx="2.272" ry="2.904"/>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="362.563,168.398 358.879,176.472 360.779,176.436 
+							364.452,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="370.2,168.398 373.875,176.449 371.965,176.477 
+							368.312,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="363.747,180.647 363.747,168.592 369.007,168.592 
+							369.007,181.042 369.006,181.042 369.006,191.523 367.14,191.523 367.14,180.962 365.603,180.962 365.603,191.523 
+							363.737,191.523 363.737,180.647 						"/>
+						<g>
+							<ellipse style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" cx="366.449" cy="165.686" rx="2.272" ry="2.904"/>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="388.868,168.398 385.473,176.431 387.378,176.436 
+							390.757,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="396.505,168.398 400.189,176.472 398.29,176.436 
+							394.616,168.649 						"/>
+						<polygon style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" points="390.052,180.647 390.052,168.592 395.313,168.592 
+							395.313,181.042 395.311,181.042 395.311,191.523 393.445,191.523 393.445,180.962 391.908,180.962 391.908,191.523 
+							390.042,191.523 390.042,180.647 						"/>
+						<g>
+							<ellipse style="fill:#231815;stroke:#FFFFFF;stroke-width:0.419;" cx="392.754" cy="165.686" rx="2.272" ry="2.904"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<rect x="358" y="162" style="fill:none;" width="43" height="31"/>
+		<g id="&#x7BAD;&#x5934;_30_1_">
+			<rect x="366.416" y="132.029" style="fill:none;" width="7.669" height="23.441"/>
+		</g>
+		<g id="&#x7BAD;&#x5934;_30">
+			<rect x="379.916" y="133.529" style="fill:none;" width="7.669" height="23.441"/>
+			<g>
+				<polygon style="fill:#231815;" points="382.164,142.304 379.916,142.303 383.75,156.97 387.585,142.304 385.338,142.304 
+					385.338,133.529 382.164,133.529 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#231815;" points="367.135,148.194 364.887,148.195 368.722,133.528 372.556,148.194 370.31,148.194 
+					370.31,156.969 367.135,156.969 				"/>
+			</g>
+			<rect x="358" y="162" style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;" width="42" height="30"/>
+		</g>
+	</g>
+	<rect id="stair_1_" x="624.5" y="14.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="48" height="88"/>
+	<rect x="622.5" y="327.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="31" height="100"/>
+	<rect x="428.5" y="154.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="114" height="35"/>
+	<rect x="226.5" y="250.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="34" height="96"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="94.667" y1="157" x2="34.667" y2="157.667"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="35" y1="157.333" x2="36.333" y2="431.334"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="35" y1="431.5" x2="231" y2="431.5"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="176.5" y1="106" x2="176.5" y2="14"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="176.333" y1="14.001" x2="625.666" y2="15.334"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="651.666" y1="101.667" x2="653.666" y2="187.501"/>
+	<polyline style="fill:#FF9C2E;stroke:#000000;stroke-miterlimit:10;" points="427.583,408.834 230.5,408 230.5,499 653.666,498 
+		653.5,427.5 430,427.5 430.5,408.5 	"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="653" y1="177.333" x2="762.333" y2="159.333"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="653" y1="112" x2="763" y2="101.333"/>
+</g>
+</svg>
