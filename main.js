@@ -82,7 +82,7 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             $('#svgdata').empty().append(data);
-            $("[id^=room]").on('mouseenter',showDetail);
+            $(".active").on('mouseenter',showDetail);
             $(".detail").height($("#svgdata").height());
         }
     })

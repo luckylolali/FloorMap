@@ -9,12 +9,11 @@
 .map,.info{
 	height: 80%;
 }
-
-[id^=room] {
+.active {
     fill-opacity: 0.2;
 }
 
-[id^=room]:hover{
+.active:hover{
     fill-opacity:0.8;
     //fill:blue!important;
 }
@@ -23,8 +22,30 @@
     width: 100%;
     display: none;
 }
+svg {
+    max-width: 100%;
+    min-width: 73%
+}
 
+.navbar-brand {
+    padding-top: 28px;
+}
 
+.navbar-header {
+    height: 60px;
+}
+
+a img {
+    margin-top: -10px;
+}
+
+#libHome{
+    padding-top: 36px;
+}
+
+div.col-sm-9{
+    border: 1px solid #bce8f1;
+}
 /*
 @media screen and (min-width: 845px) and (max-width: 950px) {
     svg{

@@ -8,8 +8,8 @@
     <!-- using the viewport meta tag to control layout on mobile browsers -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" type="text/css" href="main.css" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="main.css" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="main.js"></script>
 
@@ -19,7 +19,7 @@
         <div class="container">
             <div class="navbar-header">
                 <a href="http://www.sju.edu" class="navbar-brand"><img alt="SJU Home" src="images/sjucircled.png"></a>
-                <a href="http://www.sju.edu/int/resources/libraries/drexel/index.html" class="navbar-brand">
+                <a href="http://www.sju.edu/int/resources/libraries/drexel/index.html" class="navbar-brand" id="libHome">
                     Library Home</a>
             </div>
             <div class="tabbable navbar-right">
@@ -32,7 +32,7 @@
                     <div id="pane1" class="tab-pane active">
                         <ul class="nav nav-pills">
                             <li><a href="#" class="floor">First Floor</a></li>
-                            <li><a href="#" class="floor">Second Floor</a></li>
+                            <li><a href="#" class="floor" data-map="DrexelFloor2.svg">Second Floor</a></li>
                             <li><a href="#" class="floor" data-map="floor_map_test.svg">Third Floor</a></li>
                         </ul>
                     </div>
@@ -49,7 +49,7 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-9 bg-info">
+            <div class="col-sm-9">
                 <div id="svgdata">Loading...</div>
                 <!--<object id="SVGDoc" type="image/svg+xml" data="library_floor_2.svg"></object>-->
 
