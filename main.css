@@ -24,7 +24,8 @@
 }
 svg {
     max-width: 100%;
-    min-width: 73%
+    min-width: 73%;
+    min-height: 80%;
 }
 
 .navbar-brand {
@@ -46,6 +47,8 @@ a img {
 div.col-sm-9{
     border: 1px solid #bce8f1;
 }
+
+
 /*
 @media screen and (min-width: 845px) and (max-width: 950px) {
     svg{
