@@ -52,22 +52,13 @@
 		</g>
 	</g>
 </symbol>
-<g id="bg" style="display:none;">
-	<g style="display:inline;">
 
-			<image style="overflow:visible;enable-background:new    ;" width="560" height="752" xlink:href="post1floor.png"  transform="matrix(4.793269e-011 -0.9915 1.0676 5.161164e-011 59.7144 498.3561)">
-		</image>
-
-			<image style="overflow:visible;enable-background:new    ;" width="560" height="752" xlink:href="post1floor.png"  transform="matrix(4.793269e-011 -0.9915 1.0676 5.161164e-011 59.7144 498.3561)">
-		</image>
-	</g>
-</g>
 <g id="active">
-	<rect id="room141" x="104.5" y="147.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
-	<rect id="room140" x="165.5" y="129.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
-	<rect id="room143" x="104.5" y="81.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
-	<rect id="room142" x="104.5" y="114.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
-	<rect id="room144" x="165.5" y="96.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
+	<rect id="room141" class="active" x="104.5" y="147.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
+	<rect id="room140" class="active" x="165.5" y="129.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
+	<rect id="room143" class="active" x="104.5" y="81.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
+	<rect id="room142" class="active" x="104.5" y="114.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
+	<rect id="room144" class="active" x="165.5" y="96.5" style="fill:#29ABE2;stroke:#0B0B0B;stroke-miterlimit:10;" width="47" height="33"/>
 	<rect x="217" y="189" style="fill:#BDCCD4;stroke:#0B0B0B;stroke-miterlimit:10;" width="267" height="168"/>
 	<rect x="181.5" y="189.5" style="fill:none;stroke:#0B0B0B;stroke-miterlimit:10;" width="35" height="44"/>
 	<rect x="147.5" y="233.5" style="fill:none;stroke:#0B0B0B;stroke-miterlimit:10;" width="69" height="47"/>
@@ -77,7 +68,7 @@
 	<polygon style="fill:none;stroke:#0B0B0B;stroke-miterlimit:10;" points="147,326.5 217,326.5 217,357 266.5,357.5 266.5,427
 		147.5,425.667 	"/>
 	<path style="fill:none;stroke:#0B0B0B;stroke-miterlimit:10;" d="M375,357.5h54.5V425c0,0-23,1.5-54,1.5"/>
-	<rect id="newAC" x="560.378" y="270.5" style="fill:none;stroke:#0B0B0B;stroke-miterlimit:10;" width="7.122" height="44.5"/>
+	<rect id="newAC" class="active" x="560.378" y="270.5" style="fill:#FAAC58;stroke:#0B0B0B;stroke-miterlimit:10;" width="7.122" height="44.5"/>
 </g>
 <g id="Restrooms">
 	<g>

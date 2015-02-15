@@ -1,12 +1,28 @@
 {
     "rooms": {
-        "room301":{
-            "description": "this is room 301",
-            "picture": "room1.jpg"
+        "room140":{
+            "title": "Room 140",
+            "picture": "room140.jpg",
+            "detail": "This is a group study room at the first floor of Post Learning Commos.",
+            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
         },
-        "room302":{
-            "description": "this is room 302",
-            "picture": "room2.jpg"
+        "room142":{
+            "title": "Room 142",
+            "picture": "room142.jpg",
+            "detail": "This is a group study room at the first floor of Post Learning Commos.",
+            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
+        },
+        "room144":{
+            "title": "Room 144",
+            "picture": "room144.jpg",
+            "detail": "This is a group study room at the first floor of Post Learning Commos.",
+            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
+        },
+        "newAC":{
+            "title": "New Acquisitions",
+            "picture": "newAC.jpg",
+            "detail": "This shelf contains the new acquisition books."
         }
+
     }
 }

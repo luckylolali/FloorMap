@@ -1,21 +1,6 @@
 /**
  * Created by Elaine on 1/22/15.
  */
-//load json data
-/*
-var json = (function () {
-    var json = null;
-    $.ajax({
-        'async': false,
-        'global': false,
-        'url': 'roomInfo.json',
-        'dataType': "json",
-        'success': function (result) {
-            json = result;
-        }
-    });
-    return json;
-})();*/
 var json = null;
 
 $(document).ready(function(){
@@ -31,37 +16,17 @@ $(document).ready(function(){
 
     $(".floor").on('click', function(event){
         event.preventDefault();
+        var detail = $("#infoDetail");
+        //detail.hide();
+        detail.find("p").show();
+        detail.find("img").hide();
+        detail.find(".room").empty();
         loadSvg($(this).data('map'));
+
+
     })
 
 });
-/*
-function loadSvg(filename){
-    $.ajax({
-        url: filename,
-        settings:{
-            dataType: "xml",
-            type: "GET"
-        }
-
-    }).done(function(data){
-            $(data).find('svg').each(function(){
-                $("#svgdata").html($(this));
-            });
-
-        $("[id^=room]").hover(function(){
-            $("#infoDetail").css("display", "block");
-            var room = json.rooms[this.id];
-            if(room != undefined){
-                $("#roomName").text(this.id);
-                $("#roomDescription").text(room.description);
-            }
-        });
-
-        $(".detail").height($("#svgdata").height());
-            //$("#svgdata").html(data);
-        });
-}*/
 
 function loadSvg(filename){
     var showDetail = function(){
@@ -71,8 +36,15 @@ function loadSvg(filename){
             var detail = $('#infoDetail');
             detail.find('p').hide();
             detail.find('img').attr('src','images/' + room.picture).show();
-            $("#roomName").text(roomNum);
-            $("#roomDescription").text(room.description);
+            $("#roomTitle").text(room.title);
+            $("#roomDetail").text(room.detail);
+            var link = room.further;
+            if(link != undefined){
+                $("#roomLink").html(link);
+            } else {
+                $("#roomLink").empty();
+            }
+
         }
     };
 
@@ -82,7 +54,18 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             $('#svgdata').empty().append(data);
+            $(".active").on("click",function(){
+
+                $(".highlight").attr("class","active");
+                $(this).attr("class", "active highlight");
+                showDetail.call(this);
+            });
             $(".active").on('mouseenter',showDetail);
+
+            $(".active").on("mouseleave",function(){
+                showDetail.call($(".highlight"));
+            });
+
             $(".detail").height($("#svgdata").height());
         }
     })
