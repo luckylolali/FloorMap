@@ -66,7 +66,7 @@ function loadSvg(filename){
                 showDetail.call($(".highlight"));
             });
 
-            $(".detail").height($("#svgdata").height());
+            //$(".detail").height($("#svgdata").height());
         }
     })
 }
