@@ -3,7 +3,7 @@
 }
 
 .clean{
-    min-height: 50px;
+    min-height: 70px;
 }
 
 .map,.info{
@@ -48,6 +48,23 @@ a img {
 
 div.col-sm-9{
     border: 1px solid #bce8f1;
+}
+
+.main, .main > div[class*='col-']{
+    display: flex;
+}
+
+.main .detail{
+    margin-bottom: 0px;
+}
+
+html, body {
+   height: 100%;
+}
+
+.fill{
+    min-height: 510px;
+    height: calc(100% - 175px);
 }
 
 
