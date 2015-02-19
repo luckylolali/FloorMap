@@ -67,7 +67,26 @@ html, body {
     height: calc(100% - 175px);
 }
 
+@media screen and (max-width: 767px){
+   .main{
+	flex-direction: column;
+   }
 
+   .main div.col-sm-3{
+        padding: 0;
+   }
+
+   .main .detail{
+       margin-top: 20px;
+       width: 100%;
+   }
+}
+
+@media screen and (max-width: 400px){
+   .clean{
+    min-height: 100px;
+   } 
+}
 /*
 @media screen and (min-width: 845px) and (max-width: 950px) {
     svg{
