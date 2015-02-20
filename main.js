@@ -54,6 +54,7 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
+	    data.find("[id^=room]").attr("class", "active");
             $('#svgdata').empty().append(data);
             $(".main .active").on("click",function(){
 
