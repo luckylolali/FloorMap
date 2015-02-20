@@ -51,6 +51,10 @@ div.col-sm-9{
 }
 
 .main, .main > div[class*='col-']{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
 }
 
@@ -75,6 +79,7 @@ html, body {
 @media screen and (max-width: 767px){
    .main{
 	flex-direction: column;
+       -webkit-flex-direction: column;
    }
 
    .main div.col-sm-3{
