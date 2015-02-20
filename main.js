@@ -55,15 +55,15 @@ function loadSvg(filename){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
             $('#svgdata').empty().append(data);
-            $(".active").on("click",function(){
+            $(".main .active").on("click",function(){
 
                 $(".highlight").attr("class","active");
                 $(this).attr("class", "active highlight");
                 showDetail.call(this);
             });
-            $(".active").on('mouseenter',showDetail);
+            $(".main .active").on('mouseenter',showDetail);
 
-            $(".active").on("mouseleave",function(){
+            $(".main .active").on("mouseleave",function(){
                 showDetail.call($(".highlight"));
             });
 
