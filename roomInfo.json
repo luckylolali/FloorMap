@@ -22,7 +22,131 @@
             "title": "New Acquisitions",
             "picture": "newAC.jpg",
             "detail": "This shelf contains the new acquisition books."
+        },
+        "room120":{
+            "title":"Room 120",
+            "picture":"room120.JPG",
+            "detail":"This is a group study room at first floor of Drexel Library which contians a TV."
+        },
+        "room121":{
+            "title":"Room 121",
+            "picture":"room121.JPG",
+            "detail":"This is a group study room at first floor of Drexel Library."
+        },
+        "DrexelPrinter":{
+            "title":"Print Area",
+            "picture":"drexelPrinter.JPG",
+            "detail":"This area have printers and copy machines."
+        },
+        "newspaperIndex":{
+            "title":"Newspaper index shelfs",
+            "picture":"newspaperIndex.JPG",
+            "detail":"Check newspaper index here."
+        },
+        "atlases":{
+            "title":"Atlases Shelf",
+            "picture":"atlases.JPG",
+            "detail":"This shelf contains atlases."
+        },
+        "mediaCollection":{
+            "title":"Media Collection",
+            "picture":"mediaCollection.JPG",
+            "detail":"Video and audio collections"
+        },
+        "periodicals":{
+            "title":"Periodical Collection",
+            "picture":"periodicals.JPG",
+            "detail":"There are 4 shelves in this area have periodicals."
+        },
+        "mathAndCs":{
+            "title":"Math and Computer Science",
+            "picture":"math&cs.JPG",
+            "detail":"Math and Computer Science books."
+        },
+        "physics":{
+            "title":"Physics",
+            "picture":"physics.JPG",
+            "detail":"Physics books."
+        },
+        "chemistry":{
+            "title":"Chemistry",
+            "picture":"chemistry.JPG",
+            "detail":"Chemistry books"
+        },
+        "biology":{
+            "title":"Biology",
+            "picture":"biology.JPG",
+            "detail":"Biology books."
+        },
+        "s110":{
+            "title":"Botany",
+            "picture":"botany.JPG",
+            "detail":"Botany books."
+        },
+        "zoology":{
+            "title":"Zoology",
+            "picture":"botany.JPG",
+            "detail":"Zoology books."
+        },
+        "s113":{
+            "title":"Medicine",
+            "picture":"medicine.JPG",
+            "detail":"Shelf No. 113"
+        },
+        "s114":{
+            "title":"Medicine",
+            "picture":"medicine.JPG",
+            "detail":"Shelf No. 114"
+        },
+        "s115":{
+            "title":"Medicine",
+            "picture":"medicine.JPG",
+            "detail":"Shelf No. 115"
+        },
+        "s116":{
+            "title":"Medicine",
+            "picture":"medicine.JPG",
+            "detail":"Shelf No. 116"
+        },
+        "s117":{
+            "title":"Medicine",
+            "picture":"medicine.JPG",
+            "detail":"Shelf No. 117"
+        },
+        "s118":{
+            "title":"Health Care",
+            "picture":"healthCare.JPG",
+            "detail":"Shelf NO.118"
+        },
+        "s119":{
+            "title":"Health Care",
+            "picture":"healthCare.JPG",
+            "detail":"Shelf NO.119"
+        },
+        "s120":{
+            "title":"Health Care",
+            "picture":"healthCare.JPG",
+            "detail":"Shelf NO.120"
+        },
+        "s121":{
+            "title":"Health Care",
+            "picture":"healthCare.JPG",
+            "detail":"Shelf NO.121"
+        },
+        "s122":{
+            "title":"Technology & Environment",
+            "picture":"tech&enviro.JPG",
+            "detail":"TC774.B68 To TK7855.A1 \nTK7855.A1 To TS1.I5."
+        },
+        "s123":{
+            "title":"Manufacturing & Military",
+            "picture":"manu&library.JPG",
+            "detail":"TS23.M45 To UB250.I577\nUB250.M52 To Z671.L7"
+        },
+        "s124":{
+            "title":"Library Science",
+            "picture":"manu&library.JPG",
+            "detail":"Z927.P2 To ZA4226.H83"
         }
-
     }
 }
