@@ -9,8 +9,8 @@
 .map,.info{
 	height: 80%;
 }
-.active {
-    fill-opacity: 0.2;
+.main .active {
+    fill-opacity: 0.4;
 }
 
 .active:hover{
@@ -29,7 +29,9 @@ svg {
     min-width: 73%;
     min-height: 80%;
 }
-
+span {
+    display: block;
+}
 .navbar-brand {
     padding-top: 28px;
 }
