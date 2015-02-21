@@ -37,7 +37,7 @@ function loadSvg(filename){
             detail.find('p').hide();
             detail.find('img').attr('src','images/' + room.picture).show();
             $("#roomTitle").text(room.title);
-            $("#roomDetail").text(room.detail);
+            $("#roomDetail").html(room.detail);
             var link = room.further;
             if(link != undefined){
                 $("#roomLink").html(link);
@@ -54,7 +54,7 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
-	    data.find("[id=active]").find("[id]").attr("class", "active");
+	        data.find("[id=active]").find("[id]").attr("class", "active");
             $('#svgdata').empty().append(data);
             $(".main .active").on("click",function(){
 
