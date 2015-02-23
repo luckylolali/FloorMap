@@ -23,6 +23,11 @@
             "picture": "newAC.jpg",
             "detail": "This shelf contains the new acquisition books."
         },
+        "PostPrinter":{
+            "title":"Print Area",
+            "picture":"postPrinter.JPG",
+            "detail":"This area have 4 printers."
+        },
         "room120":{
             "title":"Room 120",
             "picture":"room120.JPG",
@@ -136,12 +141,12 @@
         "s122":{
             "title":"Technology & Environment",
             "picture":"tech&enviro.JPG",
-            "detail":"<span>TC774.B68 To TK7855.A1</span><span>TK7855.A1 To TS1.I5.</span>"
+            "detail":"TC774.B68 To TK7855.A1<br/>TK7855.A1 To TS1.I5."
         },
         "s123":{
             "title":"Manufacturing & Military",
             "picture":"manu&library.JPG",
-            "detail":"<sapn>TS23.M45 To UB250.I577</span><span>UB250.M52 To Z671.L7</span>"
+            "detail":"TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7"
         },
         "s124":{
             "title":"Library Science",

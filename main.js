@@ -54,17 +54,17 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
-	        data.find("[id=active]").find("[id]").attr("class", "active");
+	        data.find("[id=active]").find("[id]").attr("class", "act");
             $('#svgdata').empty().append(data);
-            $(".main .active").on("click",function(){
+            $(".act").on("click",function(){
 
-                $(".highlight").attr("class","active");
-                $(this).attr("class", "active highlight");
-                showDetail.call(this);
+                $(".highlight").attr("class","act");
+                $(this).attr("class", "act highlight");
+                showDetail.call($(this));
             });
-            $(".main .active").on('mouseenter',showDetail);
+            $(".act").on('mouseenter',showDetail);
 
-            $(".main .active").on("mouseleave",function(){
+            $(".act").on("mouseleave",function(){
                 showDetail.call($(".highlight"));
             });
 
