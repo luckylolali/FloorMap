@@ -12,13 +12,14 @@ $(document).ready(function(){
     //load default img
     loadSvg("library_floor_1.svg");
 
-
+    $("#roomPic").hide();
 
     $(".floor").on('click', function(event){
         event.preventDefault();
         var detail = $("#infoDetail");
         //detail.hide();
         detail.find("p").show();
+        detail.find("#roomPic").hide();
         detail.find("img").hide();
         detail.find(".room").empty();
         loadSvg($(this).data('map'));
@@ -35,6 +36,7 @@ function loadSvg(filename){
         if(room != undefined){
             var detail = $('#infoDetail');
             detail.find('p').hide();
+            detail.find('#roomPic').show();
             detail.find('img').attr('src','images/' + room.picture).show();
             $("#roomTitle").text(room.title);
             $("#roomDetail").html(room.detail);
