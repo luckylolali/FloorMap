@@ -16,12 +16,7 @@ $(document).ready(function(){
 
     $(".floor").on('click', function(event){
         event.preventDefault();
-        var detail = $("#infoDetail");
-        //detail.hide();
-        detail.find("p").show();
-        detail.find("#roomPic").hide();
-        detail.find("img").hide();
-        detail.find(".room").empty();
+        originInfo();
         loadSvg($(this).data('map'));
 
 
@@ -29,10 +24,22 @@ $(document).ready(function(){
 
 });
 
+/*This function can use the original information at the info detail pane. */
+function originInfo(){
+    var detail = $("#infoDetail");
+    //detail.hide();
+    detail.find("p").show();
+    detail.find("#roomPic").hide();
+    detail.find("img").hide();
+    detail.find(".room").empty();
+}
+
 function loadSvg(filename){
+    /*Show the detail infomation when a svg element is chosen. */
     var showDetail = function(){
         var roomNum = $(this).attr('id');
         var room = json.rooms[roomNum];
+        //if this room has detail information
         if(room != undefined){
             var detail = $('#infoDetail');
             detail.find('p').hide();
@@ -60,15 +67,39 @@ function loadSvg(filename){
             $('#svgdata').empty().append(data);
             $(".act").on("click",function(){
 
-                $(".highlight").attr("class","act");
-                $(this).attr("class", "act highlight");
-                showDetail.call($(this));
+                var highLight = $(".highlight");
+                if(highLight.length > 0) {
+                    //if this has a highlight class, remove it
+                    if(/(^|\s)highlight(\s|$)/.test($(this).attr("class"))){
+                        $(this).attr("class","act");
+                    } else {
+                        //remove highlight class from other element
+                        $(".highlight").attr("class","act");
+                        //add highlight class to this
+                        $(this).attr("class", "act highlight");
+                        showDetail.call($(this));
+                    }
+
+                } else {
+                    $(this).attr("class", "act highlight");
+                    showDetail.call($(this));
+                }
+
             });
             $(".act").on('mouseenter',showDetail);
 
             $(".act").on("mouseleave",function(){
-                showDetail.call($(".highlight"));
+                var highLight = $(".highlight");
+                if(highLight.length > 0) {
+                    showDetail.call($(".highlight"));
+                } else {
+                    originInfo();
+                }
+
             });
+
+
+
 
             //$(".detail").height($("#svgdata").height());
         }
