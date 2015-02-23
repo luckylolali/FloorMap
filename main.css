@@ -81,24 +81,39 @@ html, body {
 }
 
 @media screen and (max-width: 767px){
+   html, body {
+     height: initial;
+   }
    .main{
 	flex-direction: column;
        -webkit-flex-direction: column;
        -webkit-align-self: flex-start;
    }
-
+   .leftbar{
+     height:auto;
+     min-height: 300px;
+   }
    .fill{
-     min-height: 350px;
+     min-height: initial;
      height: calc(100% + 20px);
    }
 
-   .leftbar{
-     height:auto;
-     min-height: 180px;
+   #roomPic{
+	position: relative;
+        height: 160px;
+   }
+
+   #roomPic img{
+      height:150px;
+      width: auto;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, 0);
    }
 
    .main div.col-sm-3{
         padding: 0;
+        min-height: 150px;
    }
 
    .main .detail{
@@ -111,6 +126,15 @@ html, body {
    .clean{
     min-height: 100px;
    } 
+   .fill{
+     min-height: 350px;
+     height: calc(100% + 20px);
+   }
+
+   .leftbar{
+     height:auto;
+     min-height: 180px;
+   }
 }
 /*
 @media screen and (min-width: 845px) and (max-width: 950px) {
