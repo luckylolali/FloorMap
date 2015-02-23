@@ -78,10 +78,25 @@ html, body {
     height:100%;
 }
 
+.leftbar{
+    height:100%;
+}
+
 @media screen and (max-width: 767px){
    .main{
 	flex-direction: column;
        -webkit-flex-direction: column;
+       -webkit-align-self: flex-start;
+   }
+
+   .fill{
+     min-height: 350px;
+     height: calc(100% + 20px);
+   }
+
+   .leftbar{
+     height:auto;
+     min-height: 180px;
    }
 
    .main div.col-sm-3{
