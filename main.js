@@ -60,7 +60,7 @@ function loadSvg(filename){
 
                 $(".highlight").attr("class","act");
                 $(this).attr("class", "act highlight");
-                showDetail.call(this);
+                showDetail.call($(this));
             });
             $(".act").on('mouseenter',showDetail);
 

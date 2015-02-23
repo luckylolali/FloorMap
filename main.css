@@ -17,7 +17,7 @@
     fill-opacity:0.8;
     //fill:blue!important;
 }
-.highlight {
+.main .highlight {
     fill-opacity: 0.8;
 }
 #roomPic > img{
@@ -29,9 +29,7 @@ svg {
     min-width: 73%;
     min-height: 80%;
 }
-span {
-    display: block;
-}
+
 .navbar-brand {
     padding-top: 28px;
 }
