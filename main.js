@@ -63,7 +63,10 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
-	        data.find("[id=active]").find("[id]").attr("class", "act");
+	        data.find("[id=active]")
+                .find("[id]")
+                .attr("class", "act");
+
             $('#svgdata').empty().append(data);
             $(".act").on("click",function(){
 

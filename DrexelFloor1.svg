@@ -10,11 +10,11 @@
 	<rect id="office_1_" x="516.58" y="369.5" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.885" height="41"/>
 	<rect id="office_2_" x="630.992" y="258.5" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="43.688" height="50"/>
 
-		<rect id="DrexelPrinter" x="630.992" y="308.5" fill="#C47272" stroke="#000000" stroke-miterlimit="10" width="43.688" height="37"/>
+	<rect id="DrexelPrinter" x="630.992" y="308.5" fill="#C47272" stroke="#000000" stroke-miterlimit="10" width="43.688" height="37"/>
 
-		<rect id="LibraryInstructionLab" x="402.166" y="221.5" fill="none" stroke="#000000" stroke-miterlimit="10" width="184.102" height="98"/>
+	<rect id="LibraryInstructionLab" x="402.166" y="221.5" fill="none" stroke="#000000" stroke-miterlimit="10" width="184.102" height="98"/>
 	<rect x="586.268" y="263.5" fill="none" stroke="#000000" stroke-miterlimit="10" width="44.725" height="82"/>
-	<rect id="computerArea" x="673.639" y="221.5" fill="#45FFE2" width="160.178" height="189"/>
+	<rect id="computerArea" x="673.639" y="221.5" fill="none" width="160.178" height="189"/>
 	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="137.975,430.5 9,430.5 9,142.5 137.975,142.5 137.975,262.5
 			"/>
 	<g id="referenceBook">

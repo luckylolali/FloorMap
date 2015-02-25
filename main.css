@@ -79,7 +79,7 @@ html, body {
 .leftbar{
     height:100%;
 }
-
+/*reponsive design for tablet*/
 @media screen and (max-width: 767px){
    html, body {
      height: initial;
@@ -109,6 +109,7 @@ html, body {
       position: absolute;
       left: 50%;
       transform: translate(-50%, 0);
+       -webkit-transform: translate(-50%,0);
    }
 
    .main div.col-sm-3{
@@ -121,11 +122,14 @@ html, body {
        width: 100%;
    }
 }
-
+/*reponsive design for mobile phone*/
 @media screen and (max-width: 400px){
    .clean{
     min-height: 100px;
-   } 
+   }
+    #svgdata{
+        max-height: 250px;
+    }
    .fill{
      min-height: 350px;
      height: calc(100% + 20px);
