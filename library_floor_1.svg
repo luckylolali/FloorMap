@@ -5,7 +5,7 @@
 	 height="510px" viewBox="0 0 890 510" style="enable-background:new 0 0 890 510;" xml:space="preserve">
 
 
-<g id="&#x56FE;&#x5C42;_2">
+<g id="active">
 	<g id="active">
 		<rect id="room" x="692.5" y="50.5" style="fill:#25FFFF;stroke:#000000;stroke-miterlimit:10;" width="18" height="23"/>
 		<rect id="room_1_" x="710.5" y="50.5" style="fill:#25FFFF;stroke:#000000;stroke-miterlimit:10;" width="18" height="23"/>
@@ -17,7 +17,7 @@
 		<rect id="room_5_" x="352.5" y="373.5" style="fill:#25FFFF;stroke:#000000;stroke-miterlimit:10;" width="28" height="20"/>
 		<rect id="room_6_" x="352.5" y="352.5" style="fill:#25FFFF;stroke:#000000;stroke-miterlimit:10;" width="28" height="20"/>
 
-			<rect id="Library_Instruction_Lab" x="252.5" y="271.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="86" height="62"/>
+		<rect id="Library_Instruction_Lab" x="252.5" y="271.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="86" height="62"/>
 		<rect id="office" x="329.5" y="352.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="22" height="35"/>
 		<rect id="office_1_" x="305.5" y="367.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="23" height="26"/>
 		<rect x="319.5" y="144.5" style="fill:#BCBBBC;stroke:#000000;stroke-miterlimit:10;" width="113" height="69"/>
@@ -257,7 +257,8 @@
 			<text transform="matrix(1 0 0 1 269.3325 318.8008)" style="stroke:#000000;stroke-miterlimit:10; font-family:'AdobeSongStd-Light-GBpc-EUC-H'; font-size:12;">Lab</text>
 
 			<text transform="matrix(1 0 0 1 269.3325 318.8008)" style="fill:none;stroke:#000000; font-family:'AdobeSongStd-Light-GBpc-EUC-H'; font-size:12;">Lab</text>
-	</g>
+	    </g>
+
+        <text transform="matrix(1 0 0 1 600.5 266.167)" style="font-family:'AdobeSongStd-Light-GBpc-EUC-H'; font-size:12;">Cafe</text>
 </g>
-<text transform="matrix(1 0 0 1 600.5 266.167)" style="font-family:'AdobeSongStd-Light-GBpc-EUC-H'; font-size:12;">Cafe</text>
 </svg>
