@@ -4,19 +4,25 @@
             "title": "Room 140",
             "picture": "room140.JPG",
             "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
+            "further": {"website": "www.sju.edu",
+                        "click": "Book this room"
+            }
         },
         "room142":{
             "title": "Room 142",
             "picture": "room142.JPG",
             "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
+            "further": {"website": "www.sju.edu",
+                        "click": "Book this room"
+                        }
         },
         "room144":{
             "title": "Room 144",
             "picture": "room144.JPG",
             "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": "<a href=\"http://www.sju.edu\">Reserve this room</a>"
+            "further": {"website": "www.sju.edu",
+                        "click": "Book this room"
+            }
         },
         "newAC":{
             "title": "New Acquisitions",
@@ -141,7 +147,11 @@
         "s122":{
             "title":"Technology & Environment",
             "picture":"tech&enviro.JPG",
-            "detail":"TC774.B68 To TK7855.A1<br/>TK7855.A1 To TS1.I5."
+            "detail":"TC774.B68 To TK7855.A1<br/>TK7855.A1 To TS1.I5.",
+            "further":{
+                "website":"catalog.sju.edu/",
+                "click":"Search the catalog"
+            }
         },
         "s123":{
             "title":"Manufacturing & Military",
