@@ -5,15 +5,13 @@
 	 width="885px" height="510px" viewBox="0 0 885 510" enable-background="new 0 0 885 510" xml:space="preserve">
 <g id="active">
 	
-		<rect id="room340" x="95.156" y="127.217" fill="#3FA9F5" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
-	
-		<rect id="room341" x="6.762" y="148.078" fill="#3FA9F5" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
-	
-		<rect id="room342" x="6.762" y="106.354" fill="#3FA9F5" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
-	<rect id="room343" x="6.762" y="64.631" fill="#3FA9F5" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.723"/>
-	
-		<rect id="room344" x="95.156" y="85.492" fill="#3FA9F5" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.725"/>
-	<rect x="518.589" y="305.154" fill="none" stroke="#1A1A1A" stroke-miterlimit="10" width="146.847" height="62.588"/>
+	<rect id="room340" x="95.156" y="127.217" fill="#29ABE2" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
+	<rect id="room341" x="6.762" y="148.078" fill="#29ABE2" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
+    <rect id="room342" x="6.762" y="106.354" fill="#29ABE2" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.724"/>
+	<rect id="room343" x="6.762" y="64.631" fill="#29ABE2" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.723"/>
+	<rect id="room344" x="95.156" y="85.492" fill="#29ABE2" stroke="#1A1A1A" stroke-miterlimit="10" width="65.583" height="41.725"/>
+
+    <rect x="518.589" y="305.154" fill="none" stroke="#1A1A1A" stroke-miterlimit="10" width="146.847" height="62.588"/>
 	<path fill="none" stroke="#1A1A1A" stroke-miterlimit="10" d="M518.589,495.06c-5.831,0,134.168-11.56,146.847-16.872V368.354
 		l-146.847-0.61V495.06z"/>
 	<path fill="none" stroke="#1A1A1A" stroke-miterlimit="10" d="M223.468,305.154h294.407l0.357,189.903

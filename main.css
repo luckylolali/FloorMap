@@ -5,21 +5,23 @@
 .clean{
     min-height: 70px;
 }
-
+/*
 .map,.info{
 	height: 80%;
-}
+}*/
+
 .act {
     fill-opacity: 0.4;
 }
 
 .act:hover{
     fill-opacity:0.8;
-    //fill:blue!important;
 }
+
 .main .highlight {
     fill-opacity: 0.8;
 }
+
 #roomPic > img{
     width: 100%;
     display: none;
@@ -80,15 +82,16 @@ html, body {
 .leftbar{
     height:100%;
 }
-/*reponsive design for tablet*/
+
+/*responsive design for tablet*/
 @media screen and (max-width: 767px){
    html, body {
      height: initial;
    }
    .main{
 	flex-direction: column;
-       -webkit-flex-direction: column;
-       -webkit-align-self: flex-start;
+    -webkit-flex-direction: column;
+    -webkit-align-self: flex-start;
    }
    .leftbar{
      height:auto;
@@ -101,16 +104,20 @@ html, body {
 
    #roomPic{
 	position: relative;
-        height: 160px;
+    height: 190px;
    }
 
    #roomPic img{
-      height:150px;
+      height:180px;
       width: auto;
       position: absolute;
       left: 50%;
       transform: translate(-50%, 0);
-       -webkit-transform: translate(-50%,0);
+      -webkit-transform: translate(-50%,0);
+   }
+
+   #infoDetail h4, div {
+       text-align: center;
    }
 
    .main div.col-sm-3{
@@ -123,45 +130,22 @@ html, body {
        width: 100%;
    }
 }
-/*reponsive design for mobile phone*/
+/*responsive design for mobile phone*/
 @media screen and (max-width: 400px){
    .clean{
-    min-height: 100px;
+       min-height: 100px;
    }
     #svgdata{
-        max-height: 250px;
+       max-height: 250px;
     }
    .fill{
-     min-height: 350px;
-     height: calc(100% + 20px);
+       min-height: 350px;
+       height: calc(100% + 20px);
    }
 
    .leftbar{
-     height:auto;
-     min-height: 180px;
+       height:auto;
+       min-height: 180px;
    }
 }
-/*
-@media screen and (min-width: 845px) and (max-width: 950px) {
-    svg{
-        width: 700px;
-        height: 380px;
-    }
-}
-l
-@media screen and (max-width: 844px) {
-    svg{
-        width: 600px;
-        height: 330px;
-    }
-}
-
-
-@media screen and (min-width: 1001px) {
-    svg{
-        width: 900px;
-        height: 510px;
-    }
-}
-*/
 

@@ -10,37 +10,45 @@
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="main.css" />
-
+<!--    <script src="modernizr.custom.js"></script> -->
 
 </head>
 <body>
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
             <div class="navbar-header">
                 <a href="http://www.sju.edu" class="navbar-brand"><img alt="SJU Home" src="images/sjucircled.png"></a>
                 <a href="http://www.sju.edu/int/resources/libraries/drexel/index.html" class="navbar-brand" id="libHome">
                     Library Home</a>
             </div>
-            <div class="tabbable navbar-right">
-                <ul class="nav nav-tabs ">
-                    <li class="active"><a href="#pane1" data-toggle="tab">Drexel Library</a></li>
-                    <li><a href="#pane2" data-toggle="tab">Post Learning Commons</a> </li>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <div class="tabbable navbar-right">
+                    <ul class="nav nav-tabs ">
+                        <li class="active"><a href="#pane1" data-toggle="tab">Drexel Library</a></li>
+                        <li><a href="#pane2" data-toggle="tab">Post Learning Commons</a> </li>
 
-                </ul>
-                <div class="tab-content clearfix">
-                    <div id="pane1" class="tab-pane active">
-                        <ul class="nav nav-pills">
-                            <li><a href="#" class="floor" data-map="DrexelFloor1.svg">First Floor</a></li>
-                            <li><a href="#" class="floor" data-map="DrexelFloor2.svg">Second Floor</a></li>
-                            <li><a href="#" class="floor" data-map="DrexelFloor3.svg">Third Floor</a></li>
-                        </ul>
-                    </div>
-                    <div id="pane2" class="tab-pane">
-                        <ul class="nav nav-pills">
-                            <li><a href="#" class="floor" data-map="PostFloor1.svg">First Floor</a></li>
-                            <li><a href="#" class="floor" data-map="PostFloor2.svg">Second Floor</a></li>
-                            <li><a href="#" class="floor" data-map="PostFloor3.svg">Third Floor</a></li>
-                        </ul>
+                    </ul>
+                    <div class="tab-content clearfix">
+                        <div id="pane1" class="tab-pane active">
+                            <ul class="nav nav-pills">
+                                <li><a href="#" class="floor" data-map="DrexelFloor1.svg">First Floor</a></li>
+                                <li><a href="#" class="floor" data-map="DrexelFloor2.svg">Second Floor</a></li>
+                                <li><a href="#" class="floor" data-map="DrexelFloor3.svg">Third Floor</a></li>
+                            </ul>
+                        </div>
+                        <div id="pane2" class="tab-pane">
+                            <ul class="nav nav-pills">
+                                <li><a href="#" class="floor" data-map="PostFloor1.svg">First Floor</a></li>
+                                <li><a href="#" class="floor" data-map="PostFloor2.svg">Second Floor</a></li>
+                                <li><a href="#" class="floor" data-map="PostFloor3.svg">Third Floor</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -81,5 +89,10 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+ <!--   <script>
+        if(Modernizr.flexbox){
+            alert("we have flex box enable!");
+        }
+    </script> -->
 </body>
 </html>
