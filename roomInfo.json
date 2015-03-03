@@ -156,17 +156,26 @@
         "s123":{
             "title":"Manufacturing & Military",
             "picture":"manu&library.JPG",
-            "detail":"TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7"
+            "detail":"TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7",
+            "further":{
+                "website":"catalog.sju.edu/",
+                "click":"Search the catalog"
+            }
         },
         "s124":{
             "title":"Library Science",
             "picture":"manu&library.JPG",
-            "detail":"Z927.P2 To ZA4226.H83"
+            "detail":"Z927.P2 To ZA4226.H83",
+            "further":{
+                "website":"catalog.sju.edu/",
+                "click":"Search the catalog"
+            }
         },
         "scanner":{
             "title": "Scanner",
             "picture": "scanner.JPG",
             "detail": "There are 2 scanner machines for using."
+
         }
     }
 }
