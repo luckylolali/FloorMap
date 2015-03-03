@@ -53,11 +53,11 @@ div.col-sm-9{
 }
 
 .main, .main > div[class*='col-']{
-    display: -webkit-box;
-    display: -moz-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;    /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -webkit-flex;/* NEW - Chrome */
+    display: -ms-flexbox; /* TWEENER - IE 10 */
+    display: flex;        /* NEW, Spec - Opera 12.1, Firefox 20+ */
 }
 
 .main .detail{
@@ -90,7 +90,8 @@ html, body {
    }
    .main{
 	flex-direction: column;
-    -webkit-flex-direction: column;
+    -webkit-flex-direction: column; /* NEW CHROME */
+       -ms-flex-direction: column; /* TWEENER IE 10 */
     -webkit-align-self: flex-start;
    }
    .leftbar{
