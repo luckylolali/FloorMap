@@ -130,6 +130,10 @@ html, body {
        margin-top: 20px;
        width: 100%;
    }
+
+   svg {
+       height: 100%;
+   }
 }
 /*responsive design for mobile phone*/
 @media screen and (max-width: 400px){
