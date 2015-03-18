@@ -41,7 +41,7 @@
 	<rect x="586.3" y="263.5" fill="none" stroke="#000000" stroke-miterlimit="10" width="44.7" height="82"/>
 	<rect id="computerArea" x="738.6" y="221.5" fill="none" stroke="#000000" stroke-miterlimit="5" width="125.2" height="189"/>
 	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="138,430.5 9,430.5 9,142.5 138,142.5 138,262.5 	"/>
-	<g id="referenceBook">
+	<g id="referenceCollection">
 		<rect x="742.4" y="41.5" fill="#6A18B2" width="6.3" height="82"/>
 		<rect x="753" y="41.5" fill="#6A18B2" width="6.3" height="82"/>
 		<rect x="763.9" y="41.5" fill="#6A18B2" width="6.3" height="82"/>
@@ -61,7 +61,7 @@
 		<rect x="779.7" y="435.5" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="87.4" height="5"/>
 		<rect x="779.7" y="442.5" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="87.4" height="5"/>
 	</g>
-	<g id="quietArea">
+	<g id="quietStudyArea">
 		<rect x="673.4" y="447.5" fill="#32BAA6" width="83.3" height="49"/>
 		<rect x="566.3" y="447.5" fill="#32BAA6" width="83.3" height="49"/>
 		<rect x="780.8" y="447.5" fill="#32BAA6" width="83.3" height="49"/>
@@ -120,7 +120,7 @@
 	<rect id="s124" x="19.9" y="145.7" fill="#255C00" width="100.9" height="6"/>
 	<polygon id="microform" fill="none" stroke="#000000" stroke-miterlimit="10" points="278.4,405.5 240.9,405.5 240.9,431 
 		139,430.5 139,264.5 278.4,264.5 	"/>
-	<g id="computers">
+	<g id="Dcomputers">
 		<rect x="748.1" y="394" fill="#E6E700" width="8.8" height="12.5"/>
 		<rect x="748.1" y="358" fill="#E6E700" width="8.8" height="12.5"/>
 		<rect x="748.1" y="340" fill="#E6E700" width="8.8" height="12.5"/>
