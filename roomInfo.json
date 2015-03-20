@@ -1,5 +1,105 @@
 {
     "rooms": {
+        "room122":{
+            "title":"Group Study Room (Room 122)",
+            "picture":"room122.JPG",
+            "detail":"This group study room has a white board, VHS/DVD player, and monitor for collaborating on projects. "
+        },
+        "room121":{
+            "title":"Group Study Room (Room 121)",
+            "picture":"room121.JPG",
+            "detail":"This group study room has a white board for collaborating on projects."
+        },
+        "DrexelPrinter":{
+            "title":"Print Area",
+            "picture":"drexelPrinter.JPG",
+            "detail":"This area have printers and copy machines."
+        },
+        "room119":{
+            "title":"Conference Room",
+            "picture":"conferenceRoom.JPG",
+            "detail":"Conference room contains VHS/DVD player, and monitor for small group meeting."
+        },
+        "referenceCollection":{
+            "title":"Reference Collection",
+            "picture":"referenceCollection.JPG",
+            "detail":"to be filled..."
+        },
+        "newspaperIndex":{
+            "title": "Newspaper Index",
+            "picture":"newspaperIndex.JPG",
+            "detail":"to be filled..."
+        },
+        "periodicalNewspaper":{
+            "title":"Periodicals and Newspaper",
+            "picture":"periodical1.JPG",
+            "detail":"to be filled..."
+        },
+        "atlases":{
+            "title":"Atlases Shelf",
+            "picture":"atlases.JPG",
+            "detail":"This shelf contains atlases."
+        },
+        "mediaCollection":{
+            "title":"Media Collection",
+            "picture":"mediaCollection.JPG",
+            "detail":"Video and audio collections"
+        },
+        "quietArea1":{
+            "title":"Quiet Study Area",
+            "picture":"quietStudyArea.JPG",
+            "detail":"Quiet study area."
+        },
+        "periodicals":{
+            "title":"Periodical Collection",
+            "picture":"periodicals.JPG",
+            "detail":"There are 4 shelves in this area have periodicals."
+        },
+        "microfilm":{
+            "title":"Microfilm Workstation",
+            "picture":"microfilm.JPG",
+            "detail":"to be filled..."
+        },
+        "DComputer1":{
+            "title":"Computers",
+            "picture":"DComputer1.JPG",
+            "detail":"to be filled..."
+        },
+        "DVDPlayStation":{
+            "title":"DVD Playstation",
+            "picture":"DVDPlayStation.JPG",
+            "detail":"to be filled..."
+        },
+        "LibraryInstructionLab":{
+            "title":"Library Instruction Lab",
+            "picture":"LibraryInstructionLab.JPG",
+            "detail":"to be filled..."
+        },
+        "referenceDesk":{
+            "title":"Reference Desk",
+            "picture":"referenceDesk.JPG",
+            "detail":"to be filled..."
+        },
+        "circulationDesk":{
+            "title":"Circulation Desk",
+            "picture":"circulationDesk.JPG",
+            "detail":"to be filled..."
+        },
+        "studyStation":{
+            "title":"Study Station",
+            "picture":"studyStation.JPG",
+            "detail":"Tables for individual quiet study."
+        },
+        "studyStation1":{
+            "title":"Study Station",
+            "picture":"studyStation1.JPG",
+            "detail":"Tables for individual quiet study."
+        },
+        "Dcomputers":{
+            "title":"Computer Area",
+            "picture":"Dcomputers.JPG",
+            "detail":"to be filled..."
+        },
         "room140":{
             "title": "Room 140",
             "picture": "room140.JPG",
@@ -33,41 +133,6 @@
             "title":"Print Area",
             "picture":"postPrinter.JPG",
             "detail":"This area have 4 printers."
-        },
-        "room120":{
-            "title":"Room 120",
-            "picture":"room120.JPG",
-            "detail":"This is a group study room at first floor of Drexel Library which contians a TV."
-        },
-        "room121":{
-            "title":"Room 121",
-            "picture":"room121.JPG",
-            "detail":"This is a group study room at first floor of Drexel Library."
-        },
-        "DrexelPrinter":{
-            "title":"Print Area",
-            "picture":"drexelPrinter.JPG",
-            "detail":"This area have printers and copy machines."
-        },
-        "newspaperIndex":{
-            "title":"Newspaper index shelfs",
-            "picture":"newspaperIndex.JPG",
-            "detail":"Check newspaper index here."
-        },
-        "atlases":{
-            "title":"Atlases Shelf",
-            "picture":"atlases.JPG",
-            "detail":"This shelf contains atlases."
-        },
-        "mediaCollection":{
-            "title":"Media Collection",
-            "picture":"mediaCollection.JPG",
-            "detail":"Video and audio collections"
-        },
-        "periodicals":{
-            "title":"Periodical Collection",
-            "picture":"periodicals.JPG",
-            "detail":"There are 4 shelves in this area have periodicals."
         },
         "mathAndCs":{
             "title":"Math and Computer Science",
