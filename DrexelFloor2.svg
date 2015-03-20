@@ -84,9 +84,9 @@
 	<polygon id="room206" fill="#0071BC" stroke="#000000" stroke-miterlimit="10" points="444.5,294 444.5,321.5 509.93,321.5 
 		510.646,337.5 531.457,337.5 532.175,259.5 472.617,259.5 473.268,293.5 	"/>
 	
-		<rect id="CurriculumCenter" x="658.5" y="259.5" fill="#93278F" stroke="#000000" stroke-miterlimit="10" width="135" height="164"/>
+	<rect id="CurriculumCenter" x="658.5" y="259.5" fill="#93278F" stroke="#000000" stroke-miterlimit="10" width="135" height="164"/>
 	
-		<rect id="CampbellCollection" x="828.5" y="183.5" fill="#93278F" stroke="#000000" stroke-miterlimit="10" width="72" height="140"/>
+	<rect id="CampbellCollection" x="828.5" y="183.5" fill="#93278F" stroke="#000000" stroke-miterlimit="10" width="72" height="140"/>
 	<polygon id="quietArea2" fill="#E08B19" stroke="#000000" stroke-miterlimit="10" points="245.5,406 245.5,497.5 900.227,497.5 
 		901,423.5 582.72,423.5 583.004,405.5 	"/>
 </g>
