@@ -3,12 +3,12 @@
         "room122":{
             "title":"Group Study Room (Room 122)",
             "picture":"room122.JPG",
-            "detail":"This group study room has a white board, VHS/DVD player, and monitor for collaborating on projects. "
+            "detail":"This group study room has a white board, VHS/DVD player, and monitor for collaborating on projects.<br/>6 seats."
         },
         "room121":{
             "title":"Group Study Room (Room 121)",
             "picture":"room121.JPG",
-            "detail":"This group study room has a white board for collaborating on projects."
+            "detail":"This group study room has a white board for collaborating on projects.<br/>7 seats."
         },
         "DrexelPrinter":{
             "title":"Print Area",
@@ -100,29 +100,95 @@
             "picture":"Dcomputers.JPG",
             "detail":"to be filled..."
         },
+        "room214":{
+            "title":"Group Study Room (Room 214)",
+            "picture":"room214.JPG",
+            "detail":"This group study room has a white board for collaborating on projects.<br/>12 seats."
+        },
+        "room215":{
+            "title":"Thomas D. Marzik Study Room (Room 215)",
+            "picture":"room215.JPG",
+            "detail":"This group study room has a white board for collaborating on projects.<br/>10 seats.<br/>This is a gift of Linda and Randall M. Miller, Ph.D.."
+        },
+        "room216":{
+            "title":"Group Study Room (Room 216)",
+            "picture":"room216.JPG",
+            "detail":"This group study room has 5 seats for collaborating on projects."
+        },
+        "room217":{
+            "title":"Group Study Room (Room 217)",
+            "picture":"room216.JPG",
+            "detail":"This group study room has 5 seats for collaborating on projects."
+        },
+        "room219":{
+            "title":"Group Study Room (Room 219)",
+            "picture":"room216.JPG",
+            "detail":"This group study room has 6 seats for collaborating on projects."
+        },
+        "room220":{
+            "title":"Group Study Room (Room 220)",
+            "picture":"room220.JPG",
+            "detail":"This group study room has a white board and a monitor for collaborating on projects.<br/>10 seats."
+        },
+        "CMC":{
+            "title":"Curriculum Materials Center",
+            "picture":"CMC.JPG",
+            "detail":"to be filled..."
+        },
+        "CampbellCollection":{
+            "title":"Food Marketing Campbell Collection",
+            "picture":"CampbellCollection.JPG",
+            "detail":"to be filled..."
+        },
+        "quietArea2":{
+            "title":"Quiet Study Area",
+            "picture":"quietArea2.JPG",
+            "detail":"to be filled..."
+        },
+        "studyDesk":{
+            "title":"Study Desk",
+            "picture":"studyDesk.JPG",
+            "detail":"Round table between book shelves."
+        },
+        "studyArea2":{
+            "title":"Open Study Area",
+            "picture":"studyArea2.JPG",
+            "detail":"to be filled..."
+        },
         "room140":{
-            "title": "Room 140",
-            "picture": "room140.JPG",
-            "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": {"website": "www.sju.edu",
-                        "click": "Book this room"
-            }
+            "title": "Group Study Room (Room 140)",
+            "picture": "room144.JPG",
+            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats."
+        },
+        "room141":{
+            "title": "Group Study Room (Room 141)",
+            "picture": "room142.JPG",
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room142":{
-            "title": "Room 142",
+            "title": "Group study Room (Room 142)",
             "picture": "room142.JPG",
-            "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": {"website": "www.sju.edu",
-                        "click": "Book this room"
-                        }
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+        },
+        "room143":{
+            "title": "Group study Room (Room 143)",
+            "picture": "room142.JPG",
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room144":{
-            "title": "Room 144",
+            "title": "Group study Room (Room 144)",
             "picture": "room144.JPG",
-            "detail": "This is a group study room at the first floor of Post Learning Commos.",
-            "further": {"website": "www.sju.edu",
-                        "click": "Book this room"
-            }
+            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats"
+        },
+        "Win":{
+            "title":"Windows Computers",
+            "picture":"windows.JPG",
+            "detail":"to be filled..."
+        },
+        "Mac":{
+            "title":"iMacs",
+            "picture":"Mac.JPG",
+            "detail":"to be filled..."
         },
         "newAC":{
             "title": "New Acquisitions",
@@ -132,7 +198,92 @@
         "PostPrinter":{
             "title":"Print Area",
             "picture":"postPrinter.JPG",
-            "detail":"This area have 4 printers."
+            "detail":"This area has 4 printers."
+        },
+        "cafe":{
+            "title":"Café",
+            "picture":"café.JPG",
+            "detail":"to be filled..."
+        },
+        "saintJohnsBible":{
+            "title":"Saint John's Bible",
+            "picture":"saintJohnsBible.JPG",
+            "detail":"to be filled..."
+        },
+        "restArea":{
+            "title":"Rest Area",
+            "picture":"restArea.JPG",
+            "detail":"to be filled..."
+        },
+        "openStudyArea1":{
+            "title":"Open Study Area",
+            "picture":"openStudyArea1.JPG",
+            "detail":"to be filled..."
+        },
+        "helpDesk":{
+            "title":"Help Desk",
+            "picture":"helpDesk.JPG",
+            "detail":"to be filled..."
+        },
+        "digitMediaZone":{
+            "title":"Digital Media Zone",
+            "picture":"digitalMediaZone.png",
+            "detail":"to be filled..."
+        },
+        "openStudyArea2":{
+            "title":"Open study Area",
+            "picture":"openStudyArea2.JPG",
+            "detail":"to be filled..."
+        },
+        "lounge":{
+            "title":"Lounge",
+            "picture":"lounge2.JPG",
+            "detail":"to be filled..."
+        },
+        "room340":{
+            "title": "Group Study Room (Room 340)",
+            "picture": "room144.JPG",
+            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats."
+        },
+        "room341":{
+            "title": "Group Study Room (Room 341)",
+            "picture": "room142.JPG",
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>4 seats."
+        },
+        "room342":{
+            "title": "Group study Room (Room 342)",
+            "picture": "room142.JPG",
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+        },
+        "room343":{
+            "title": "Group study Room (Room 343)",
+            "picture": "room142.JPG",
+            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+        },
+        "room344":{
+            "title": "Group study Room (Room 344)",
+            "picture": "room144.JPG",
+            "detail": "This group study room has a white board for collaborating on projects.<br/>4 seats"
+        },
+        "GMHCollection":{
+            "title":"Gerard Manley Hopkins, S.J. Special Collection",
+            "picture":"GMHSpecialCollection.JPG",
+            "detail":"to be filled..."
+        },
+        "GSLounge":{
+            "title":"Griffiths Scholars Lounge",
+            "picture":"GScholarsLounge.JPG",
+            "detail":"to be filled..."
+        },
+        "DSCLounge":{
+            "title":"Durant Special Collection Lounge",
+            "picture":"DSCLounge.JPG",
+            "detail":"to be filled..."
+        },
+        "studyStation3":{
+            "title":"Study Station",
+            "picture":"studyStation3.JPG",
+            "detail":"to be filled..."
         },
         "mathAndCs":{
             "title":"Math and Computer Science",
@@ -240,7 +391,6 @@
             "title": "Scanner",
             "picture": "scanner.JPG",
             "detail": "There are 2 scanner machines for using."
-
         }
     }
 }
