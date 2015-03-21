@@ -228,7 +228,11 @@
         "digitMediaZone":{
             "title":"Digital Media Zone",
             "picture":"digitalMediaZone.png",
-            "detail":"to be filled..."
+            "detail":"The DMZ offers open space and privacy for students and faculty to engage in creative expression through teaching, learning, and collaborating. The DMZ is equipped with cutting-edge technologies and equipment for your audio, video, and graphics, 3D, and animation projects.",
+            "further":{
+                "link":"<a href=\"#DMZModal\" data-toggle=\"modal\" data-target=\"#DMZModal\"></a>",
+                "click":"Check the equipments and software"
+            }
         },
         "openStudyArea2":{
             "title":"Open study Area",
@@ -239,6 +243,61 @@
             "title":"Lounge",
             "picture":"lounge2.JPG",
             "detail":"to be filled..."
+        },
+        "room233":{
+            "title":"Media Production Suits",
+            "picture":"mediaCreation.png",
+            "detail":[
+                "The Media Production Suites provide faculty with the private space, equipment, and digital resources to create and produce creative multimedia content.",
+                "<h5>Types of Production</h5>",
+                "<ul>",
+                "<li>Creating online presentations</li>",
+                "<li>Video editing</li>",
+                "<li>Audio narrations, remixing, and editing</li>",
+                "<li>Blackboard collaborate</li>",
+                "<li>Podcast production</li>",
+                "</ul>"
+            ],
+            "further":{
+                "link":"<a href=\"#mediaCreationModal\" data-toggle=\"modal\" data-target=\"#mediaCreationModal\"></a>",
+                "click":"Check the equipment and software"
+            }
+        },
+        "room234":{
+            "title":"Presentation Capture Suits",
+            "picture":"presentationCaptureRoom.png",
+            "detail":[
+                "The Presentation Capture Room is a private area for practicing, displaying, and recording presentations.",
+                "<h5>Types of Production</h5>",
+                "<ul>",
+                "<li>Practicing and recording presentations</li>",
+                "<li>Creating digital lectures</li>",
+                "<li>Collaborative presentations</li>",
+                "</ul>"
+            ],
+            "further":{
+                "link":"<a href=\"#presentCaptureModal\" data-toggle=\"modal\" data-target=\"#presentCaptureModal\"></a>",
+                "click":"Check the equipment"
+            }
+        },
+        "room235":{
+            "title":"Media Production Suits",
+            "picture":"mediaCreation.png",
+            "detail":[
+                "The Media Production Suites provide faculty with the private space, equipment, and digital resources to create and produce creative multimedia content.",
+                "<h5>Types of Production</h5>",
+                "<ul>",
+                "<li>Creating online presentations</li>",
+                "<li>Video editing</li>",
+                "<li>Audio narrations, remixing, and editing</li>",
+                "<li>Blackboard collaborate</li>",
+                "<li>Podcast production</li>",
+                "</ul>"
+            ],
+            "further":{
+                "link":"<a href=\"#mediaCreationModal\" data-toggle=\"modal\" data-target=\"#mediaCreationModal\"></a>",
+                "click":"Check the equipment and software"
+            }
         },
         "room340":{
             "title": "Group Study Room (Room 340)",
@@ -365,7 +424,7 @@
             "picture":"tech&enviro.JPG",
             "detail":"TC774.B68 To TK7855.A1<br/>TK7855.A1 To TS1.I5.",
             "further":{
-                "website":"catalog.sju.edu/",
+                "link":"<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click":"Search the catalog"
             }
         },
@@ -374,7 +433,7 @@
             "picture":"manu&library.JPG",
             "detail":"TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7",
             "further":{
-                "website":"catalog.sju.edu/",
+                "link":"<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click":"Search the catalog"
             }
         },
@@ -383,7 +442,7 @@
             "picture":"manu&library.JPG",
             "detail":"Z927.P2 To ZA4226.H83",
             "further":{
-                "website":"catalog.sju.edu/",
+                "link":"<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click":"Search the catalog"
             }
         },

@@ -84,6 +84,11 @@ html, body {
     height:100%;
 }
 
+#roomLink > a{
+    text-decoration: none;
+}
+
+
 /*responsive design for tablet*/
 @media screen and (max-width: 767px){
    html, body {

@@ -49,9 +49,9 @@ function loadSvg(filename){
             $("#roomDetail").html(room.detail);
             var link = room.further;
             if(link != undefined){
-
-                var theLink = $("<a target=\"_blank\"></a>");
-                theLink.attr("href", "http://" + link.website);
+                var theLink = $(link.link);
+                //var theLink = $("<a target=\"_blank\"></a>");
+                //theLink.attr("href", "http://" + link.website);
                 theLink.text(link.click);
                 $("#roomLink").html(theLink);
             } else {
@@ -105,6 +105,9 @@ function loadSvg(filename){
 
             });
 
+            $( "#roomLink > a" ).on("click", function( event ) {
+                event.preventDefault();
+            });
 
 
 
