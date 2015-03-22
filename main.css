@@ -88,6 +88,10 @@ html, body {
     text-decoration: none;
 }
 
+#roomLink > a:focus{
+    outline:0;
+}
+
 
 /*responsive design for tablet*/
 @media screen and (max-width: 767px){
