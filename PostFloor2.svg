@@ -30,9 +30,9 @@
 								806.127,123.485 805.885,123.751 808.666,131.633 805.936,131.633 805.057,138.501 803.952,138.501 803.072,131.633 
 								800.343,131.633 803.166,123.911 802.879,123.485 800.236,128.668 799.597,128.218 							"/>
 							<path fill="#231F20" stroke="#333333" d="M806.402,117.355c0,1.156-0.896,2.095-1.985,2.095
-								c-1.094,0-1.979-0.939-1.979-2.095c0-1.148,0.888-2.09,1.979-2.09S806.402,116.208,806.402,117.355z"/>
+								c-1.094,0-1.979-0.939-1.979-2.095c0-1.148,0.889-2.09,1.979-2.09S806.402,116.208,806.402,117.355z"/>
 							<path fill="#231F20" stroke="#333333" d="M819.77,117.355c0,1.156-0.889,2.095-1.979,2.095c-1.099,0-1.988-0.939-1.988-2.095
-								c0-1.148,0.892-2.09,1.988-2.09C818.881,115.265,819.77,116.208,819.77,117.355z"/>
+								c0-1.148,0.893-2.09,1.988-2.09C818.881,115.265,819.77,116.208,819.77,117.355z"/>
 						</g>
 						<polygon fill="#231F20" stroke="#333333" points="814.933,119.968 820.372,119.968 821.595,120.729 821.595,130.414 
 							820.539,130.414 820.539,123.666 819.689,123.666 819.689,138.501 818.324,138.501 817.917,132.839 817.463,132.839 
@@ -119,13 +119,11 @@
 		<polygon points="833.144,32.05 860.333,35.189 833.144,38.305 833.144,36.44 759.137,36.44 759.137,34.188 833.144,34.188 		"/>
 		<polygon points="56.956,32.449 29.767,35.588 56.956,38.705 56.956,36.839 130.963,36.839 130.963,34.587 56.956,34.587 		"/>
 	</g>
-
-    <polygon points="660.697,434.243 664.302,434.243 659.761,405.64 655.213,434.243 658.817,434.243 658.818,451.36
-				660.698,451.36 			"/>
-    <polygon points="647.024,422.757 650.629,422.757 646.09,451.36 641.54,422.757 645.145,422.757 645.145,405.64 647.023,405.64
-							"/>
-    <text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
-
+	<polygon points="660.697,434.243 664.302,434.243 659.761,405.64 655.213,434.243 658.817,434.243 658.818,451.36 660.698,451.36 	
+		"/>
+	<polygon points="647.024,422.757 650.629,422.757 646.09,451.36 641.54,422.757 645.145,422.757 645.145,405.64 647.023,405.64 	
+		"/>
+	<text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
 </g>
 <g id="active">
 	<text transform="matrix(1 0 0 1 412 376.5)" font-family="'Avenir-Medium'" font-size="18">    Digital</text>
@@ -138,9 +136,18 @@
 	<text transform="matrix(1 0 0 1 530 266.2998)" font-family="'Avenir-Medium'" font-size="14">Creation</text>
 	<text transform="matrix(1 0 0 1 412 248.5)" font-family="'Avenir-Medium'" font-size="14">Presentation</text>
 	<text transform="matrix(1 0 0 1 412 265.2998)" font-family="'Avenir-Medium'" font-size="14">Capture Room</text>
-	<rect x="2" y="62.056" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="162.729" height="126.579"/>
-	<rect x="2" y="188.635" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="86.699" height="67.329"/>
-	<rect x="88.699" y="218.259" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="76.029" height="37.705"/>
+    <text transform="matrix(1 0 0 1 23 115.5)">
+        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="18">Wachterhauser</tspan>
+        <tspan x="0" y="21.6" font-family="'Avenir-Medium'" font-size="18">Seminar Room</tspan>
+    </text>
+    <text transform="matrix(1 0 0 1 24 222.5)">
+        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="14">Dowdell</tspan>
+        <tspan x="0" y="16.8" font-family="'Avenir-Medium'" font-size="14">Administrative Suite</tspan>
+    </text>
+
+	<rect id="wsRoom" x="2" y="62.056" fill="#AD1515" stroke="#333333" stroke-miterlimit="10" width="162.729" height="126.579"/>
+	<rect id="room231" x="2" y="188.635" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="86.699" height="67.329"/>
+	<rect id="room230" x="88.699" y="218.259" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="76.029" height="37.705"/>
 	<rect x="67.358" y="255.964" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="124.047" height="65.982"/>
 	<rect x="67.358" y="321.946" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="90.701" height="59.248"/>
 	<rect x="67.358" y="381.194" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="90.701" height="52.517"/>

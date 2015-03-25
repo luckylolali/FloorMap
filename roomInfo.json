@@ -25,6 +25,11 @@
             "picture":"referenceCollection.JPG",
             "detail":"to be filled..."
         },
+        "reference":{
+            "title":"Reference Books",
+            "picture":"reference.JPG",
+            "detail":"to be filled..."
+        },
         "newspaperIndex":{
             "title": "Newspaper Index",
             "picture":"newspaperIndex.JPG",
@@ -48,7 +53,7 @@
         "quietArea1":{
             "title":"Quiet Study Area",
             "picture":"quietStudyArea.JPG",
-            "detail":"Quiet study area."
+            "detail":"12 long tables, 141 chairs"
         },
         "periodicals":{
             "title":"Periodical Collection",
@@ -59,6 +64,44 @@
             "title":"Microfilm Workstation",
             "picture":"microfilm.JPG",
             "detail":"to be filled..."
+        },
+        "room120":{
+            "title":"Michael Brooks",
+            "picture":"michaelBrooks.jpg",
+            "detail":[
+                "Technology Support Coordinator<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:brooks@sju.edu\">brooks@sju.edu</a><br>",
+                "(610) 660-1908"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=35379\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
+        },
+        "room124":{
+            "title":"Cynthia Slater",
+            "picture":"cynthiaSlater.jpg",
+            "detail":[
+                "Business Reference Librarian<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:cslater@sju.edu\">cslater@sju.edu</a><br>",
+                "(610) 660-1139"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10789\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
+        },
+        "room123":{
+            "title":"Jimmy Chen",
+            "picture":"jimmyChen.jpg",
+            "detail":[
+                "Library Systems Manager<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:zchen@sju.edu\">zchen@sju.edu</a><br>",
+                "(610) 660-1914"
+            ]
         },
         "DComputer1":{
             "title":"Computers",
@@ -86,14 +129,14 @@
             "detail":"to be filled..."
         },
         "studyStation":{
-            "title":"Study Station",
+            "title":"Carrells",
             "picture":"studyStation.JPG",
-            "detail":"Tables for individual quiet study."
+            "detail":"Carrells for individual quiet study."
         },
         "studyStation1":{
-            "title":"Study Station",
+            "title":"Carrells",
             "picture":"studyStation1.JPG",
-            "detail":"Tables for individual quiet study."
+            "detail":"8 carrels, 8 chairs"
         },
         "Dcomputers":{
             "title":"Computer Area",
@@ -108,7 +151,12 @@
         "room215":{
             "title":"Thomas D. Marzik Study Room (Room 215)",
             "picture":"room215.JPG",
-            "detail":"This group study room has a white board for collaborating on projects.<br/>10 seats.<br/>This is a gift of Linda and Randall M. Miller, Ph.D.."
+            "detail":[
+                "This group study room has a white board for collaborating on projects.<br/>",
+                "10 seats.<br/>",
+                "GIFT OF<br>",
+                "Linda and Randall M. Miller, Ph.D."
+            ]
         },
         "room216":{
             "title":"Group Study Room (Room 216)",
@@ -133,17 +181,24 @@
         "CMC":{
             "title":"Curriculum Materials Center",
             "picture":"CMC.JPG",
-            "detail":"to be filled..."
+            "detail":"1 conference table, 4 small tables, 31 chairs"
         },
         "CampbellCollection":{
             "title":"Food Marketing Campbell Collection",
             "picture":"CampbellCollection.JPG",
-            "detail":"to be filled..."
+            "detail":[
+                "4 long tables, 32 chairs, 3 small tables, 12 chairs, various comfortable chairs<br>",
+                "17 workstations, 13 computers"
+            ],
+            "further": {
+                "link":"<a href=\"http://www.sju.edu/int/resources/libraries/campbell/index.html\" target=\"_blank\"></a>",
+                "click": "Further Info"
+            }
         },
         "quietArea2":{
             "title":"Quiet Study Area",
             "picture":"quietArea2.JPG",
-            "detail":"to be filled..."
+            "detail":"Long table and chairs."
         },
         "studyDesk":{
             "title":"Study Desk",
@@ -153,7 +208,7 @@
         "studyArea2":{
             "title":"Open Study Area",
             "picture":"studyArea2.JPG",
-            "detail":"to be filled..."
+            "detail":"Long tables and chairs."
         },
         "room140":{
             "title": "Group Study Room (Room 140)",
@@ -179,6 +234,62 @@
             "title": "Group study Room (Room 144)",
             "picture": "room144.JPG",
             "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats"
+        },
+        "room130":{
+            "title":"Naomi Cohen",
+            "picture":"NaomiCohen.jpg",
+            "detail":[
+                "Education Resources / Reference Librarian<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:ncohen@sju.edu\">ncohen@sju.edu</a><br>",
+                "(610) 660-1057"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=1393\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
+        },
+        "room131a":{
+            "title":"Elena Sisti",
+            "picture":"elenaSisti.jpg",
+            "detail":[
+                "Food Marketing Librarian<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:esisti@sju.edu\">esisti@sju.edu</a><br>",
+                "(610) 660-1195"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10800\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
+        },
+        "room131b":{
+            "title":"Catherine Collins",
+            "picture":"catherineCollins.jpg",
+            "detail":[
+                "Reference Librarian<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:ccollins@sju.edu\">ccollins@sju.edu</a><br>",
+                "(610) 660-1910"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10794\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
+        },
+        "room132":{
+            "title":"Stephanie Riley",
+            "picture":"stephanieRiley.jpg",
+            "detail":[
+                "Library Instruction and Outreach Specialist<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:sriley@sju.edu\">sriley@sju.edu</a><br>",
+                "(610) 660-1913"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10799\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
         },
         "Win":{
             "title":"Windows Computers",
@@ -211,14 +322,14 @@
             "detail":"to be filled..."
         },
         "restArea":{
-            "title":"Rest Area",
+            "title":"Popular Reading Lounge",
             "picture":"restArea.JPG",
             "detail":"to be filled..."
         },
         "openStudyArea1":{
             "title":"Open Study Area",
             "picture":"openStudyArea1.JPG",
-            "detail":"to be filled..."
+            "detail":"21 long tables, 12 chairs"
         },
         "helpDesk":{
             "title":"Help Desk",
@@ -237,18 +348,52 @@
         "openStudyArea2":{
             "title":"Open study Area",
             "picture":"openStudyArea2.JPG",
-            "detail":"to be filled..."
+            "detail":"24 tables, 112 chairs"
         },
         "lounge":{
             "title":"Lounge",
             "picture":"lounge2.JPG",
-            "detail":"to be filled..."
+            "detail":"Flexible soft seating"
+        },
+        "wsRoom":{
+            "title":"Wachterhauser Seminar Room",
+            "picture":"wsRoom.JPG",
+            "detail":[
+                "GIFT OF<br>",
+                "Mary V.Z. Wachterhauser, Esq.<br>",
+                "and<br>",
+                "Brice R. Wachterhauser, Ph.D."
+             ]
+        },
+        "room230":{
+            "title":"Marian Courtney",
+            "picture":"marianCourtney.jpg",
+            "detail":[
+                "Library Operations Manager<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:mcourtne@sju.edu\">mcourtne@sju.edu</a><br>",
+                "(610) 660-1905"
+            ]
+        },
+        "room231":{
+            "title":"Anne Krakow",
+            "picture":"anneKrakow.JPG",
+            "detail":[
+                "Library Director<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:akrakow@sju.edu\">akrakow@sju.edu</a><br>",
+                "(610) 660-1905"
+            ],
+            "further":{
+                "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10792\" target=\"_blank\"></a>",
+                "click":"About me"
+            }
         },
         "room233":{
-            "title":"Media Production Suits",
+            "title":"Media Creation",
             "picture":"mediaCreation.png",
             "detail":[
-                "The Media Production Suites provide faculty with the private space, equipment, and digital resources to create and produce creative multimedia content.",
+                "The Media Production Suites provide faculty with the private space, equipment, and digital resources to create and produce creative multimedia content.<br>",
                 "<h5>Types of Production</h5>",
                 "<ul>",
                 "<li>Creating online presentations</li>",
@@ -281,7 +426,7 @@
             }
         },
         "room235":{
-            "title":"Media Production Suits",
+            "title":"Media Creation",
             "picture":"mediaCreation.png",
             "detail":[
                 "The Media Production Suites provide faculty with the private space, equipment, and digital resources to create and produce creative multimedia content.",
@@ -340,9 +485,9 @@
             "detail":"to be filled..."
         },
         "studyStation3":{
-            "title":"Study Station",
+            "title":"Carrells",
             "picture":"studyStation3.JPG",
-            "detail":"to be filled..."
+            "detail":"Study station and chairs for individual study."
         },
         "mathAndCs":{
             "title":"Math and Computer Science",
@@ -431,7 +576,7 @@
         "s123":{
             "title":"Manufacturing & Military",
             "picture":"manu&library.JPG",
-            "detail":"TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7",
+            "detail":"Call No.</br>TS23.M45 To UB250.I577<br/>UB250.M52 To Z671.L7",
             "further":{
                 "link":"<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click":"Search the catalog"

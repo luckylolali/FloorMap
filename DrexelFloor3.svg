@@ -158,12 +158,13 @@
 </g>
 <g id="active">
 	<g id="studyStation">
-		<rect x="217.948" y="153.787" fill="#1AA3AD" width="11.935" height="117.712"/>
-		<rect x="217.948" y="336.552" fill="#1AA3AD" width="11.935" height="89.692"/>
-		<rect x="26.853" y="152.563" fill="#1AA3AD" width="175.702" height="11.934"/>
+        <rect x="14.5" y="153.231" fill="#1AA3AD" width="10" height="273.269"/>
+		<rect x="217.948" y="153.787" fill="#1AA3AD" width="10" height="117.712"/>
+		<rect x="217.948" y="336.552" fill="#1AA3AD" width="10" height="89.692"/>
+		<rect x="26.853" y="152.563" fill="#1AA3AD" width="175.702" height="10"/>
 		<rect x="26.853" y="414.623" fill="#1AA3AD" width="175.702" height="11.935"/>
-		<rect x="265.541" y="176.432" fill="#1AA3AD" width="142.628" height="11.935"/>
-		<rect x="242.502" y="95.5" fill="#1AA3AD" width="11.935" height="63.031"/>
+		<rect x="265.541" y="176.432" fill="#1AA3AD" width="142.628" height="10"/>
+		<rect x="242.502" y="95.5" fill="#1AA3AD" width="10" height="63.031"/>
 	</g>
 	<rect id="s45" x="817.508" y="21.284" fill="#B20D4C" width="7.957" height="137.246"/>
 	<rect id="s44" x="799.606" y="21.284" fill="#B20D4C" width="7.956" height="105.649"/>

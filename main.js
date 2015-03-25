@@ -10,7 +10,7 @@ $(document).ready(function(){
     });
 
     //load default img
-    loadSvg("library_floor_1.svg");
+    loadSvg("DrexelFloor1.svg");
 
     $("#roomPic").hide();
 
