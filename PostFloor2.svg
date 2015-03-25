@@ -137,8 +137,8 @@
 	<text transform="matrix(1 0 0 1 412 248.5)" font-family="'Avenir-Medium'" font-size="14">Presentation</text>
 	<text transform="matrix(1 0 0 1 412 265.2998)" font-family="'Avenir-Medium'" font-size="14">Capture Room</text>
     <text transform="matrix(1 0 0 1 23 115.5)">
-        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="18">Wachterhauser</tspan>
-        <tspan x="0" y="21.6" font-family="'Avenir-Medium'" font-size="18">Seminar Room</tspan>
+        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="16">Wachterhauser</tspan>
+        <tspan x="0" y="21.6" font-family="'Avenir-Medium'" font-size="16">Seminar Room</tspan>
     </text>
     <text transform="matrix(1 0 0 1 24 222.5)">
         <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="14">Dowdell</tspan>
