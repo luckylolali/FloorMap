@@ -14,17 +14,27 @@ $(document).ready(function(){
 
     $("#roomPic").hide();
 
+    $('.building').on('click',function(event){
+        event.preventDefault();
+        originInfo();
+        loadSvg($(this).data('map'));
+        var id = $(this).attr("href");
+        $(id).find('li').removeClass('active');
+        $(id).find('li:first-child').addClass('active');
+    });
+
     $(".floor").on('click', function(event){
         event.preventDefault();
         originInfo();
         loadSvg($(this).data('map'));
-
+        $(this).parent().parent().find('li').removeClass('active');
+        $(this).parent().addClass('active');
 
     })
 
 });
 
-/*This function can use the original information at the info detail pane. */
+/*This function can show the original information at the info detail panel. */
 function originInfo(){
     var detail = $("#infoDetail");
     //detail.hide();
@@ -108,8 +118,6 @@ function loadSvg(filename){
             $( "#roomLink > a" ).on("click", function( event ) {
                 event.preventDefault();
             });
-
-
 
             //$(".detail").height($("#svgdata").height());
         }
