@@ -147,6 +147,21 @@
                 "(610) 660-2164"
             ]
         },
+        "room115":{
+            "title":"Susan Clayton",
+            "picture":"susanClayton.JPG",
+            "detail":[
+                "Circulation Services Manager<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:sclayton@sju.edu\">sclayton@sju.edu</a><br>",
+                "(610) 660-1926"
+            ]
+        },
+        "room116":{
+            "title":"Circulation Workroom",
+            "picture":"circulationDesk.JPG",
+            "detail":"to be filled..."
+        },
         "DComputer1":{
             "title":"Computers",
             "picture":"DComputer1.JPG",
@@ -532,6 +547,366 @@
             "title":"Carrells",
             "picture":"studyStation3.JPG",
             "detail":"Study station and chairs for individual study."
+        },
+        "s1": {
+            "title": "OVERSIZED BOOKS",
+            "picture": "oversized.JPG",
+            "detail": "Call No.<br>Folio A To Folio Z",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s2": {
+            "title": "OVERSIZED BOOKS",
+            "picture": "oversized.JPG",
+            "detail": "Call NO.<br>AC1.A67 To B1.M35",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s3": {
+            "title": "PHILOSOPHY",
+            "picture": "philosophy.JPG",
+            "detail": "Call No.<br>B1.M47 To B21.T48<br>B21.T91 To B738.S68",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s4": {
+            "title": "PHILOSOPHY",
+            "picture": "philosophy.JPG",
+            "detail": "Call No.<br>B740.174 To B851.w5<br>B851.W77 To B2430.T373 H9",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s5": {
+            "title": "PHILOSOPHY",
+            "picture": "philosophy.JPG",
+            "detail": "Call No.<br>B2430.T373 S4 To B3501.H45<br>B3580 N48 To BD232 J68",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s6": {
+            "title": "PSYCHOLOGY",
+            "picture": "psychology.JPG",
+            "detail": "Call No.<br>BD232 K79 To BF1 J66 J<br>BF1J66J  To BF 161 D46",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s7": {
+            "title": "PSYCHOLOGY",
+            "picture": "psychology.JPG",
+            "detail": "Call No.<br>BF 311 P4 To BF 697 A35<br>BF 161 F21M To BF 311 P4",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s8": {
+            "title": "PSYCHOLOGY",
+            "picture": "psychology.JPG",
+            "detail": "Call No.<br>BJ 1 E8 To BL 1 H5<br>BF 697 .A22 To BJ 1 .D38",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s9": {
+            "title": "PSYCHOLOGY",
+            "picture": "psychology.JPG",
+            "detail": "Call No.<br>BL 240.3 H38 To BM 205 .H43<br>BL 1 .H5 To BL 240.2 .Z9",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s10": {
+            "title": "PSYCHOLOGY",
+            "picture": "psychology.JPG",
+            "detail": "Call No.<br>BR 1A5 To BR 60 C807<br>BM 205 M67 To BR 1 A1 E55",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s11": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BR 60 .C8 tO BR 145 .S3<br>BR 145.2 B33 To BR 794 .C38",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s12": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BR794.G6 To BS531.M87<br>BS 531 .N32 To BS 2595.2 .M48",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s13": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BS2595.3P73 To BT301.S418<br>BT301.S54 To BV175.W67",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s14": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BV176.D58 To BX1E34<br>BX1.J6 To BX801.C78",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s15": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BX801.C7 To BX801.P6<br>BX801.P6 To BX922.W5",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s16": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BX923.H76 To BX1491.A1<br>BX1491.A43 To BX1970.A1E63",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s17": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BX 1970.A1 To BX 2350.M5<br>BX 2435.L42513 To BX 4655.A3<br>BX 2350.M54 To BX 2350.5M2<br>BX 2350.5 To BX 2435.H52",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s18": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BX 4655.A3 To BX 4705.C3134<br>BX4705.C33 To BX4705.N5<br>BX4705.N5 To BX5133.B87",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s19": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>BX5133.D6 To BX8947.I6<br>BX8952.L82 To CB245.K32",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s20": {
+            "title": "RELIGION",
+            "picture": "religion.JPG",
+            "detail": "Call No.<br>CB 245.K32 To CD 950.S3<br>CD950.S3 To CT9990.W19",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s21": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>D1.C27 To D1.J6<br>D1.J6 To D105.S39<br>D15.B61 To D105.S39",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s22": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>D106.B61 To D410.C38<br>D410.C39 To D521.M4<br>D106.B61 To D257.25.S34<br>D410.J64 To D521.M4",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s23": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>D 521.R45 To D 743.B13<br>D 820.P72 To D 972.M75<br>D 748.L3 To D 773.M86<br>D 773.M86 To D 820.P72",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s24": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>D 972.S5 To DA 32.C95S<br>DA 32.C9553 To DA 195.B344<br>DA 195.B344 To DA 355.A5 1821",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s25": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>DA 355.B44 To DA445.C45<br>DA445.C66 To DA506.A78",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s26": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>DA506.B25 To DA550.B86<br>DA550.B96 To DA566.7.A18",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s27": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>DA566.7.A18 To DA586.C63<br>DA 589.7.B76 To DA 750.S21<br>DA 750.S25 To DB 35.5B64",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s28": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>DB 35.5.B64 To DC 3.C45<br>DC 148.M18 To DC 600.L34<br>DC 6.C95 To DC 111.R67<br>DC 111.T47 To DC 148.L48",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s29": {
+            "title": "EUROPEAN HISTORY",
+            "picture": "europeanHistory.JPG",
+            "detail": "Call No.<br>DC 611.B395 To DD 21.5H34<br>DD 261.7H66 To DF 605.C43<br>DD 221.5339 To DD 247.S32L<br>DD 247.S335 To DD 261.4H23",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s30": {
+            "title": "WORLD HISTORY",
+            "picture": "worldHistory.JPG",
+            "detail": "Call No.<br>DF 605.C6 To DG 467.M15<br>DK 131.S95 To DK 266.A2<br>DH 523.E7 To DK 266.A2<br>DG 467.S18 To DH 521.M49",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s31": {
+            "title": "WORLD HISTORY",
+            "picture": "worldHistory.JPG",
+            "detail": "Call No.<br>DK 266.A2 To DK 275.K5<br>DQ 24.R77 To DR 577.T75<br>DK 4329.S8 To DQ 23.M5<br>DK 275.K5 To DK 4329.L85",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s32": {
+            "title": "WORLD HISTORY",
+            "picture": "worldHistory.JPG",
+            "detail": "Call No.<br>DR 701.S5 To DS 41.J6<br>DS 119.7.027 To DS 223.G56<br>DS 79.724.U6 To DS 119.7N657<br>DS 41.M533 To DS 79.724.U6",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s33": {
+            "title": "WORLD HISTORY",
+            "picture": "worldHistory.JPG",
+            "detail": "Call No.<br>DS 223.H67 To DS 557.A6<br>DS 777.55S67 To DT 12.G97<br>DS 557.A76 To DS 706.M296<br>DS 736.L35 To DS 777.55S49",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s34": {
+            "title": "WORLD HISTORY",
+            "picture": "worldHistory.JPG",
+            "detail": "Call No.<br>DT 12.J68 To DT 834.M3<br>E 169.1 C97D To E 171.M28<br>DT 846.T7 To E 98.M6<br>E 98.M6 To E 169.1C97",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s35": {
+            "title": "U.S. HISTORY",
+            "picture": "usHistory.JPG",
+            "detail": "Call No.<br>E 171.P46 To E 178.B86<br>E 178.R98 To E 183.8.I55<br>E183.8.I55 To E184.J5",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s36": {
+            "title": "U.S. HISTORY",
+            "picture": "usHistory.JPG",
+            "detail": "Call No.<br>E184.J5 To E185.615.L4<br>E185.615.L6 To E207.L2",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s37": {
+            "title": "U.S. HISTORY",
+            "picture": "usHistory.JPG",
+            "detail": "Call No.<br>E 207 L2 To E 302 M38<br>E 302.M74 To E 332.R93",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s38": {
+            "title": "U.S. HISTORY",
+            "picture": "usHistory.JPG",
+            "detail": "Call No.<br>E332.S2 To E415.9.M84<br>E 415.9 .P63d To E 457.91 1953<br>E 457.91 .L29 To E 746.7 .E93",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s39": {
+            "title": "U.S. HISTORY",
+            "picture": "usHistory.JPG",
+            "detail": "Call No.<br>E 664.H773.B6 To E 774.5.B27<br>E 744.5 .E45 To E785.T7<br>E 476.93 .P72 To E 664 .H74Y<br>E 786 .D86 To E 842 .W54",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
+        },
+        "s40": {
+            "title": "HISTORY OF THE AMERICAS",
+            "picture": "historyOfTheAmericas.JPG",
+            "detail": "Call No.<br>E 842.1 .F95 To F 128.35 .D74W<br>F 221 .W71 To F 375 .N5 K52<br>F 128.37.F457 To F 158.37.F22<br>F 158.37.N56 To F 221.W71",
+            "further": {
+                "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
+                "click": "Search the catalog"
+            }
         },
         "mathAndCs":{
             "title":"Math and Computer Science",

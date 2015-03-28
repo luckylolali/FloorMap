@@ -5,7 +5,7 @@
 	 y="0px" width="915px" height="510px" viewBox="0 0 915 510" enable-background="new 0 0 915 510" xml:space="preserve">
 <g id="outline">
 	
-		<rect id="computerArea" x="734.586" y="221.682" fill="none" stroke="#000000" stroke-miterlimit="5" width="124.521" height="187.973"/>
+		<rect id="computerArea" x="701.586" y="238.59" fill="none" stroke="#000000" stroke-miterlimit="5" width="124.521" height="178.065"/>
 	<polygon id="shelfArea" fill="none" stroke="#000000" stroke-miterlimit="10" points="137.25,429.546 8.951,429.546 8.951,143.111 
 		137.25,143.111 137.25,262.459 	"/>
 	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="831.059,7.851 224.971,7.851 225.468,101.34 	"/>
@@ -18,13 +18,13 @@
 	<polygon id="elevator" fill="none" stroke="#000000" stroke-miterlimit="10" points="469.335,148.084 521.849,147.289 
 		521.849,179.115 469.335,179.91 	"/>
 	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M277.086,404.682l1.89,96.479h607.182V143.61
-		c0,0-115.668-23.969-109.501,64.646"/>
+		c0,0-186.157-35.272-169.501,83.646"/>
 	<g>
 		<g>
 			<rect x="444.869" y="349.086" fill="none" stroke="#000000" width="27.251" height="27.052"/>
 			<g>
 				<path fill="#231815" stroke="#000000" d="M472.12,371.861c0,2.387-1.89,4.271-4.276,4.271h-18.599
-					c-2.387,0-4.276-1.89-4.276-4.271v-18.499c0-2.392,1.895-4.276,4.276-4.276h18.599c2.387,0,4.276,1.89,4.276,4.276V371.861
+					c-2.387,0-4.276-1.89-4.276-4.271v-18.499c0-2.394,1.896-4.276,4.276-4.276h18.599c2.387,0,4.276,1.89,4.276,4.276V371.861
 					L472.12,371.861z"/>
 				<g>
 					<polygon fill="#FFFFFF" stroke="#000000" points="457.997,351.075 457.997,372.955 447.952,372.955 447.952,355.948 					"/>
@@ -34,10 +34,10 @@
 							<polygon fill="#231815" stroke="#000000" points="451.632,357.838 454.517,357.838 457.104,364.203 456.604,364.502 
 								454.417,360.523 454.218,360.723 456.506,366.789 454.218,366.789 453.521,372.061 452.627,372.061 451.931,366.789 
 								449.742,366.789 452.03,360.821 451.73,360.523 449.643,364.502 449.146,364.203 							"/>
-							<path fill="#231815" stroke="#000000" d="M454.615,355.849c0,0.896-0.695,1.597-1.591,1.597
-								c-0.896,0-1.596-0.696-1.596-1.597c0-0.895,0.695-1.591,1.596-1.591C453.92,354.258,454.615,354.954,454.615,355.849z"/>
-							<path fill="#231815" stroke="#000000" d="M465.457,355.849c0,0.896-0.696,1.597-1.592,1.597
-								c-0.896,0-1.592-0.696-1.592-1.597c0-0.895,0.691-1.591,1.592-1.591C464.761,354.258,465.457,354.954,465.457,355.849z"/>
+							<path fill="#231815" stroke="#000000" d="M454.615,355.849c0,0.896-0.695,1.599-1.591,1.599
+								c-0.896,0-1.598-0.696-1.598-1.599c0-0.895,0.695-1.591,1.598-1.591C453.92,354.258,454.615,354.954,454.615,355.849z"/>
+							<path fill="#231815" stroke="#000000" d="M465.457,355.849c0,0.896-0.696,1.599-1.592,1.599
+								c-0.896,0-1.592-0.696-1.592-1.599c0-0.895,0.689-1.591,1.592-1.591C464.761,354.258,465.457,354.954,465.457,355.849z"/>
 						</g>
 						<polygon fill="#231815" stroke="#000000" points="461.578,357.838 465.954,357.838 466.948,358.435 466.948,365.795 
 							466.152,365.795 466.152,360.623 465.457,360.623 465.457,372.061 464.362,372.061 463.965,367.685 463.666,367.685 
@@ -87,7 +87,7 @@
 						515.781,168.572 515.781,168.572 515.781,178.717 513.395,178.717 513.395,168.572 511.505,168.572 511.505,178.717 
 						509.218,178.717 					"/>
 					<g>
-						<ellipse fill="#231815" stroke="#000000" stroke-width="0.373" cx="512.599" cy="153.753" rx="2.89" ry="2.785"/>
+						<ellipse fill="#231815" stroke="#000000" stroke-width="0.373" cx="512.599" cy="153.753" rx="2.892" ry="2.785"/>
 					</g>
 				</g>
 			</g>
@@ -211,10 +211,10 @@
 	<text transform="matrix(1 0 0 1 795 137.5)" font-family="'Avenir-Medium'" font-size="14">To The Post Side</text>
 </g>
 <g id="active">
-	<text transform="matrix(1 0 0 1 784.667 189.498)" font-family="'Avenir-Medium'" font-size="10">Reference</text>
-	<text transform="matrix(1 0 0 1 832.666 190.1641)" font-family="'Avenir-Medium'" font-size="10">Circulation</text>
-	<text transform="matrix(1 0 0 1 767.333 314.8311)" font-family="'Avenir-Medium'" font-size="14">Computer</text>
-	<text transform="matrix(1 0 0 1 767.333 331.6309)" font-family="'Avenir-Medium'" font-size="14">     Area</text>
+	<text transform="matrix(1.1564 0 0 1 725 208.9229)" font-family="'Avenir-Medium'" font-size="14">Reference</text>
+	<text transform="matrix(1.1564 0 0 1 803.0547 209.8838)" font-family="'Avenir-Medium'" font-size="14">Circulation</text>
+	<text transform="matrix(1.0556 0 0 1 734.3379 326.8291)" font-family="'Avenir-Medium'" font-size="14">Computer</text>
+	<text transform="matrix(1.0556 0 0 1 734.3379 342.7432)" font-family="'Avenir-Medium'" font-size="14">     Area</text>
 	<text transform="matrix(1 0 0 1 168.6675 332.166)" font-family="'Avenir-Medium'" font-size="14">  Microfilm</text>
 	<text transform="matrix(1 0 0 1 168.6675 348.9658)" font-family="'Avenir-Medium'" font-size="14">Workstation</text>
 	<text transform="matrix(1 0 0 1 633.334 322.166)" font-family="'Avenir-Medium'" font-size="10">Printer</text>
@@ -226,7 +226,7 @@
 	<text transform="matrix(1 0 0 1 421.6675 282.165)" font-family="'Avenir-Medium'" font-size="14">Library Instruction Lab</text>
 	<text transform="matrix(1 0 0 1 633 280.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 633 280.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 666.0957 280.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 674.0957 280.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 633 294.9004)" font-family="'Avenir-Medium'" font-size="12">  120</text>
 	<text transform="matrix(1 0 0 1 659.6875 294.9004)" font-family="'ArialMT'" font-size="12">     </text>
 	<text transform="matrix(1 0 0 1 571 367.5)" font-family="'ArialMT'" font-size="12">         </text>
@@ -239,22 +239,36 @@
 	<text transform="matrix(1 0 0 1 555.0957 386.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 522 400.9004)" font-family="'Avenir-Medium'" font-size="12"> 124</text>
 	<text transform="matrix(1 0 0 1 545.3516 400.9004)" font-family="'ArialMT'" font-size="12">     </text>
-    <text transform="matrix(1 0 0 1 152 160.5)">
-        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office</tspan>
-        <tspan x="0" y="14.4" font-family="'Avenir-Medium'" font-size="12"> 175</tspan>
-    </text>
-    <text transform="matrix(1 0 0 1 235 67.5)">
-        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office</tspan>
-        <tspan x="0" y="14.4" font-family="'Avenir-Medium'" font-size="12"> 172</tspan>
-    </text>
-    <text transform="matrix(1 0 0 1 230 241.5)">
-        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office</tspan>
-        <tspan x="0" y="14.4" font-family="'Avenir-Medium'" font-size="12"> 177</tspan>
-    </text>
-    <text transform="matrix(1 0 0 1 361 126.5)">
-        <tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office</tspan>
-        <tspan x="0" y="14.4" font-family="'Avenir-Medium'" font-size="12"> </tspan>
-    </text>
+	<text transform="matrix(1 0 0 1 152 160.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 152 160.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
+	<text transform="matrix(1 0 0 1 185.0957 160.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 152 174.9004)" font-family="'Avenir-Medium'" font-size="12"> 175</text>
+	<text transform="matrix(1 0 0 1 175.3521 174.9004)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1 0 0 1 235 67.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 235 67.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
+	<text transform="matrix(1 0 0 1 268.0957 67.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 235 81.9004)" font-family="'Avenir-Medium'" font-size="12"> 172</text>
+	<text transform="matrix(1 0 0 1 258.3521 81.9004)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1 0 0 1 230 241.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 230 241.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
+	<text transform="matrix(1 0 0 1 263.0957 241.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 230 255.9004)" font-family="'Avenir-Medium'" font-size="12"> 177</text>
+	<text transform="matrix(1 0 0 1 253.3521 255.9004)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1 0 0 1 361 126.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 361 126.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
+	<text transform="matrix(1 0 0 1 394.0957 126.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 361 140.9004)" font-family="'Avenir-Medium'" font-size="12"> </text>
+	<text transform="matrix(1 0 0 1 364.3359 140.9004)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1 0 0 1 826.666 259.166)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 826.666 259.166)" font-family="'Avenir-Medium'" font-size="12">Circulation</text>
+	<text transform="matrix(1 0 0 1 884.9014 259.166)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 826.666 273.5664)" font-family="'Avenir-Medium'" font-size="12">Workroom</text>
+	<text transform="matrix(1 0 0 1 884.1455 273.5664)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1.046 0 0 1 838.7617 314.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1.046 0 0 1 838.7617 314.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
+	<text transform="matrix(1.046 0 0 1 873.3809 314.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1.046 0 0 1 838.7617 328.9004)" font-family="'Avenir-Medium'" font-size="12">115</text>
+	<text transform="matrix(1.046 0 0 1 859.6992 328.9004)" font-family="'ArialMT'" font-size="12">     </text>
 	
 		<rect id="room122" x="610.961" y="377.829" fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" width="59.973" height="31.826"/>
 	
@@ -280,15 +294,15 @@
 	</g>
 	<rect id="atlases" x="628.117" y="250.834" fill="#1313BA" width="42.369" height="5.967"/>
 	<g id="mediaCollection">
-		<rect x="775.463" y="428.519" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.973"/>
+		<rect x="775.463" y="428.519" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.975"/>
 		<rect x="775.463" y="437.48" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.968"/>
 	</g>
 	<g id="quietArea1">
 		<rect x="669.74" y="446.454" fill="#32BAA6" width="82.848" height="48.733"/>
-		<rect x="563.223" y="446.454" fill="#32BAA6" width="82.852" height="48.733"/>
-		<rect x="776.557" y="446.454" fill="#32BAA6" width="82.852" height="48.733"/>
+		<rect x="563.223" y="446.454" fill="#32BAA6" width="82.854" height="48.733"/>
+		<rect x="776.557" y="446.454" fill="#32BAA6" width="82.854" height="48.733"/>
 		<rect x="349.59" y="446.454" fill="#32BAA6" width="82.848" height="48.733"/>
-		<rect x="456.307" y="446.454" fill="#32BAA6" width="82.852" height="48.733"/>
+		<rect x="456.307" y="446.454" fill="#32BAA6" width="82.854" height="48.733"/>
 	</g>
 	<g id="periodicals">
 		<rect x="762.036" y="446.454" fill="#C1272D" stroke="#000000" stroke-miterlimit="10" width="6.266" height="48.733"/>
@@ -297,13 +311,13 @@
 		<rect x="440.493" y="446.454" fill="#C1272D" stroke="#000000" stroke-miterlimit="10" width="6.266" height="48.733"/>
 	</g>
 	<g id="mathAndCs">
-		<rect id="s92" x="16.792" y="412.142" fill="#001473" width="100.352" height="5.972"/>
+		<rect id="s92" x="16.792" y="412.142" fill="#001473" width="100.352" height="5.974"/>
 		<rect id="s93" x="16.792" y="403.19" fill="#001473" width="100.352" height="5.967"/>
 		<rect id="s94" x="16.792" y="394.239" fill="#001473" width="100.352" height="5.967"/>
 		<rect id="s95" x="16.792" y="386.282" fill="#001473" width="100.352" height="5.968"/>
 		<rect id="s96" x="16.792" y="378.326" fill="#001473" width="100.352" height="5.967"/>
 		<rect id="s97" x="16.792" y="370.369" fill="#001473" width="100.352" height="5.968"/>
-		<rect id="s91" x="16.792" y="420.098" fill="#001473" width="100.352" height="5.973"/>
+		<rect id="s91" x="16.792" y="420.098" fill="#001473" width="100.352" height="5.975"/>
 	</g>
 	<g id="physics">
 		<rect id="s101" x="16.792" y="338.543" fill="#015C00" width="100.352" height="5.968"/>
@@ -343,60 +357,60 @@
 	<polygon id="microfilm" fill="#008B5E" stroke="#000000" stroke-miterlimit="10" points="276.887,404.682 239.591,404.682 
 		239.591,430.043 138.245,429.546 138.245,264.448 276.887,264.448 	"/>
 	<g id="Dcomputers">
-		<rect x="744.034" y="393.244" fill="#E6E700" width="8.752" height="12.433"/>
-		<rect x="744.034" y="357.44" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="339.538" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="317.956" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="300.055" fill="#E6E700" width="8.752" height="12.437"/>
-		<rect x="744.034" y="225.461" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="242.369" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="264.25" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="281.654" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="744.034" y="374.646" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="762.831" y="393.344" fill="#E6E700" width="8.753" height="12.438"/>
-		<rect x="762.831" y="357.54" fill="#E6E700" width="8.753" height="12.432"/>
-		<rect x="762.831" y="339.638" fill="#E6E700" width="8.753" height="12.437"/>
-		<rect x="762.831" y="318.056" fill="#E6E700" width="8.753" height="12.437"/>
-		<rect x="762.831" y="300.152" fill="#E6E700" width="8.753" height="12.433"/>
-		<rect x="762.831" y="225.561" fill="#E6E700" width="8.753" height="12.432"/>
-		<rect x="762.831" y="242.468" fill="#E6E700" width="8.753" height="12.432"/>
-		<rect x="762.831" y="264.35" fill="#E6E700" width="8.753" height="12.437"/>
-		<rect x="762.831" y="281.754" fill="#E6E700" width="8.753" height="12.432"/>
-		<rect x="762.831" y="374.746" fill="#E6E700" width="8.753" height="12.432"/>
-		<rect x="791.574" y="393.344" fill="#E6E700" width="8.752" height="12.438"/>
-		<rect x="791.574" y="357.54" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="339.638" fill="#E6E700" width="8.752" height="12.437"/>
-		<rect x="791.574" y="317.956" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="300.055" fill="#E6E700" width="8.752" height="12.437"/>
-		<rect x="791.574" y="225.461" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="242.369" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="264.25" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="281.654" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="791.574" y="374.646" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="810.372" y="393.443" fill="#E6E700" width="8.752" height="12.433"/>
-		<rect x="810.372" y="357.639" fill="#E6E700" width="8.752" height="12.438"/>
-		<rect x="810.372" y="339.737" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="810.372" y="318.056" fill="#E6E700" width="8.752" height="12.437"/>
-		<rect x="810.372" y="300.152" fill="#E6E700" width="8.752" height="12.433"/>
-		<rect x="810.372" y="264.35" fill="#E6E700" width="8.752" height="12.437"/>
-		<rect x="810.372" y="281.754" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="810.372" y="374.746" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="839.016" y="297.07" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="839.016" y="278.77" fill="#E6E700" width="8.752" height="12.438"/>
-		<rect x="839.016" y="260.271" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="839.413" y="323.426" fill="#E6E700" width="8.752" height="12.438"/>
-		<rect x="839.413" y="341.527" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="839.413" y="358.435" fill="#E6E700" width="8.752" height="12.438"/>
-		<rect x="839.016" y="375.74" fill="#E6E700" width="8.752" height="12.432"/>
-		<rect x="839.016" y="393.443" fill="#E6E700" width="8.752" height="12.433"/>
+		<rect x="711.034" y="401.109" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="711.034" y="367.192" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="350.233" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="329.789" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="711.034" y="312.831" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="711.034" y="242.169" fill="#E6E700" width="8.752" height="11.777"/>
+		<rect x="711.034" y="258.188" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="278.914" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="295.4" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="711.034" y="383.492" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="729.831" y="401.203" fill="#E6E700" width="8.753" height="11.783"/>
+		<rect x="729.831" y="367.287" fill="#E6E700" width="8.753" height="11.775"/>
+		<rect x="729.831" y="350.328" fill="#E6E700" width="8.753" height="11.782"/>
+		<rect x="729.831" y="329.884" fill="#E6E700" width="8.753" height="11.782"/>
+		<rect x="729.831" y="312.924" fill="#E6E700" width="8.753" height="11.777"/>
+		<rect x="729.831" y="242.264" fill="#E6E700" width="8.753" height="11.777"/>
+		<rect x="729.831" y="258.279" fill="#E6E700" width="8.753" height="11.777"/>
+		<rect x="729.831" y="279.009" fill="#E6E700" width="8.753" height="11.781"/>
+		<rect x="729.831" y="295.495" fill="#E6E700" width="8.753" height="11.776"/>
+		<rect x="729.831" y="383.586" fill="#E6E700" width="8.753" height="11.776"/>
+		<rect x="758.574" y="401.203" fill="#E6E700" width="8.752" height="11.783"/>
+		<rect x="758.574" y="367.287" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="758.574" y="350.328" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="758.574" y="329.789" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="758.574" y="312.831" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="758.574" y="242.169" fill="#E6E700" width="8.752" height="11.777"/>
+		<rect x="758.574" y="258.188" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="758.574" y="278.914" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="758.574" y="295.4" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="758.574" y="383.492" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="777.372" y="401.298" fill="#E6E700" width="8.752" height="11.777"/>
+		<rect x="777.372" y="367.381" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="777.372" y="350.423" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="777.372" y="329.884" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="777.372" y="312.924" fill="#E6E700" width="8.752" height="11.777"/>
+		<rect x="777.372" y="279.009" fill="#E6E700" width="8.752" height="11.781"/>
+		<rect x="777.372" y="295.495" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="777.372" y="383.586" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="806.016" y="310.005" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="806.016" y="292.668" fill="#E6E700" width="8.752" height="11.783"/>
+		<rect x="806.016" y="275.146" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="806.413" y="334.971" fill="#E6E700" width="8.752" height="11.783"/>
+		<rect x="806.413" y="352.118" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="806.413" y="368.135" fill="#E6E700" width="8.752" height="11.782"/>
+		<rect x="806.016" y="384.527" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="806.016" y="401.298" fill="#E6E700" width="8.752" height="11.777"/>
 	</g>
 	<g id="scannerAttached">
-		<rect x="810.372" y="225.561" fill="#E56D00" width="8.752" height="12.432"/>
-		<rect x="810.372" y="242.468" fill="#E56D00" width="8.752" height="12.432"/>
+		<rect x="777.372" y="242.264" fill="#E56D00" width="8.752" height="11.777"/>
+		<rect x="777.372" y="258.279" fill="#E56D00" width="8.752" height="11.777"/>
 	</g>
 	<g id="scanner">
-		<rect x="839.016" y="225.859" fill="#FF8345" width="8.752" height="12.432"/>
-		<rect x="839.016" y="242.369" fill="#FF8345" width="8.752" height="12.432"/>
+		<rect x="806.016" y="242.546" fill="#FF8345" width="8.752" height="11.777"/>
+		<rect x="806.016" y="258.188" fill="#FF8345" width="8.752" height="11.775"/>
 	</g>
 	
 		<rect id="room123" x="562.427" y="345.008" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.634" height="53.707"/>
@@ -405,7 +419,7 @@
 	
 		<rect id="room120" x="627.57" y="258.48" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="43.463" height="49.729"/>
 	
-		<rect id="room170" x="352.678" y="94.378" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="47.335" height="56.591"/>
+		<rect id="room170" x="352.678" y="94.378" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="47.333" height="56.591"/>
 	<rect id="room172" x="225.169" y="42.66" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="51.712" height="58.68"/>
 	
 		<rect id="room175" x="137.25" y="143.111" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="63.453" height="39.783"/>
@@ -419,22 +433,22 @@
 		<rect id="LibraryInstructionLab" x="400.014" y="221.682" fill="#E59C28" stroke="#000000" stroke-miterlimit="10" width="183.104" height="97.467"/>
 	<g>
 		<rect x="425.376" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.433"/>
-		<rect x="425.376" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.437"/>
+		<rect x="425.376" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.438"/>
 		<rect x="425.376" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 		<rect x="425.376" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 		<rect x="425.376" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
-		<rect x="456.604" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.758" height="12.433"/>
-		<rect x="456.604" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.758" height="12.437"/>
-		<rect x="456.604" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.758" height="12.432"/>
-		<rect x="456.604" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.758" height="12.432"/>
-		<rect x="456.604" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.758" height="12.432"/>
+		<rect x="456.604" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.433"/>
+		<rect x="456.604" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.438"/>
+		<rect x="456.604" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
+		<rect x="456.604" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
+		<rect x="456.604" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
 		<rect x="488.431" y="301.545" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.434"/>
 		<rect x="488.431" y="285.035" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.433"/>
 		<rect x="488.431" y="259.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
 		<rect x="488.431" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
 		<rect x="488.431" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
 		<rect x="552.58" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.433"/>
-		<rect x="552.58" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.437"/>
+		<rect x="552.58" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.438"/>
 		<rect x="552.58" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
 		<rect x="552.58" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
 		<rect x="520.356" y="301.545" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.434"/>
@@ -443,10 +457,13 @@
 		<rect x="520.356" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 		<rect x="520.356" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 	</g>
-	<path id="referenceDesk" fill="#0040A2" d="M785.508,202h45.551l0.441-53.032C831.5,148.968,781.516,149,785.508,202z"/>
-	<path id="circulationDesk" fill="#9E4ACE" d="M831.5,148.968c16.268-6.468,51.5-1.679,51.5-1.679V202h-51.941L831.5,148.968z"/>
+	<path id="referenceDesk" fill="#0040A2" d="M720.425,226.953h81.54l0.79-80.488C802.755,146.465,713.279,150.511,720.425,226.953z"
+		/>
+	<path id="circulationDesk" fill="#9E4ACE" d="M803.077,146.465c25.245-9.328,79.923,1.579,79.923,1.579v78.909h-80.608
+		L803.077,146.465z"/>
 	<rect id="studyStation" x="125.116" y="143.111" fill="#1AA3AD" width="12.134" height="286.435"/>
 	<rect id="studyStation1" x="667.154" y="7.851" fill="#19AF19" width="143.218" height="23.571"/>
+	<rect id="room116" x="826.666" y="226.953" fill="#9C4ACE" width="59.492" height="57.485"/>
+	<rect id="room115" x="827.666" y="284.874" fill="#828287" width="57.636" height="61.55"/>
 </g>
-
 </svg>

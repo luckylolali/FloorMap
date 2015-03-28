@@ -158,7 +158,7 @@
 </g>
 <g id="active">
 	<g id="studyStation">
-        <rect x="14.5" y="153.231" fill="#1AA3AD" width="10" height="273.269"/>
+		<rect x="14.5" y="153.231" fill="#1AA3AD" width="10" height="273.269"/>
 		<rect x="217.948" y="153.787" fill="#1AA3AD" width="10" height="117.712"/>
 		<rect x="217.948" y="336.552" fill="#1AA3AD" width="10" height="89.692"/>
 		<rect x="26.853" y="152.563" fill="#1AA3AD" width="175.702" height="10"/>
@@ -178,7 +178,7 @@
 	<rect id="s31" x="540.033" y="21.284" fill="#2E2989" width="7.956" height="105.649"/>
 	<rect id="s30" x="522.131" y="21.284" fill="#2E2989" width="7.957" height="105.649"/>
 	<rect id="s29" x="501.246" y="21.284" fill="#2D2F38" width="7.956" height="105.649"/>
-	<rect id="s28" x="481.355" y="21.284" fill="#2D2F38" width="7.955" height="105.649"/>
+	<rect id="s28" x="481.355" y="21.284" fill="#2D2F38" width="7.954" height="105.649"/>
 	<rect id="s27" x="462.459" y="21.284" fill="#2D2F38" width="7.956" height="105.649"/>
 	<rect id="s26" x="439.585" y="78.805" fill="#2D2F38" width="7.956" height="60.505"/>
 	<rect id="s25" x="418.699" y="78.805" fill="#2D2F38" width="7.956" height="60.505"/>
@@ -186,7 +186,7 @@
 	<rect id="s23" x="375.935" y="18.301" fill="#2D2F38" width="7.956" height="140.229"/>
 	<rect id="s22" x="352.065" y="18.301" fill="#2D2F38" width="7.957" height="140.229"/>
 	<rect id="s21" x="332.175" y="18.301" fill="#2D2F38" width="7.957" height="140.229"/>
-	<rect id="s20" x="310.295" y="71.954" fill="#2D2F38" width="7.957" height="86.577"/>
+	<rect id="s20" x="310.295" y="71.954" fill="#C1272D" width="7.957" height="86.577"/>
 	<rect id="s19" x="289.41" y="71.954" fill="#C1272D" width="7.957" height="73.163"/>
 	<rect id="s18" x="265.541" y="18.301" fill="#C1272D" width="7.956" height="140.229"/>
 	<rect id="s17" x="244.656" y="18.301" fill="#C1272D" width="7.956" height="70.114"/>
