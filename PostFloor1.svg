@@ -44,21 +44,13 @@
 	<line fill="none" stroke="#0B0B0B" stroke-width="2" stroke-miterlimit="10" x1="176.1" y1="25.6" x2="736.7" y2="26.4"/>
 	<line fill="none" stroke="#0B0B0B" stroke-width="2" stroke-miterlimit="10" x1="588.3" y1="47.1" x2="588.3" y2="187.4"/>
 	
-		<use xlink:href="#Children"  width="73.546" height="40.05" x="-36.773" y="-20.025" transform="matrix(0.5651 0 0 -0.7754 682.5703 290.8408)" overflow="visible"/>
+	<use xlink:href="#Children"  width="73.546" height="40.05" x="-36.773" y="-20.025" transform="matrix(0.5651 0 0 -0.7754 682.5703 290.8408)" overflow="visible"/>
 	<polygon fill="none" stroke="#0B0B0B" stroke-miterlimit="10" points="662.074,274.76 703.032,274.76 702.967,306.1 661.646,306.1 
 			"/>
-	<g>
-		<g>
-			<polyline fill="#231F20" stroke="#0B0B0B" stroke-miterlimit="10" points="661.365,285.275 647.479,288.168 647.479,286.064 
+	<polyline fill="#231F20" stroke="#0B0B0B" stroke-miterlimit="10" points="661.365,285.275 647.479,288.168 647.479,286.064
 				636.069,286.064 636.069,284.398 645.352,284.398 647.479,282.384 			"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<polyline fill="#231F20" stroke="#0B0B0B" stroke-miterlimit="10" points="649.957,294.74 649.957,296.757 661.365,296.757 
+	<polyline fill="#231F20" stroke="#0B0B0B" stroke-miterlimit="10" points="649.957,294.74 649.957,296.757 661.365,296.757
 				661.365,298.421 649.957,298.421 650.666,300.523 636.778,297.633 			"/>
-		</g>
-	</g>
 	<g id="Restrooms">
 		<g>
 			<rect x="797.9" y="105.6" fill="none" stroke="#0B0B0B" width="39.193" height="38.3"/>
@@ -148,27 +140,36 @@
 	<text transform="matrix(1 0 0 1 301 114.5)" font-family="'Avenir-Medium'" font-size="18">Open study Area</text>
 	<text transform="matrix(1 0 0 1 752 360.5)" font-family="'Avenir-Medium'" font-size="18">Café</text>
 	<text transform="matrix(1 0 0 1 282 460.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 282 474.9004)" font-family="'Avenir-Medium'" font-size="12">130</text>
+	<text transform="matrix(1 0 0 1 288 474.9004)" font-family="'Avenir-Medium'" font-size="12">130</text>
 	<text transform="matrix(1 0 0 1 103 345.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 103 359.9004)" font-family="'Avenir-Medium'" font-size="12">132</text>
+	<text transform="matrix(1 0 0 1 109 359.9004)" font-family="'Avenir-Medium'" font-size="12">132</text>
 	<text transform="matrix(1 0 0 1 104 284.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 104 298.9004)" font-family="'Avenir-Medium'" font-size="12">133</text>
+	<text transform="matrix(1 0 0 1 110 298.9004)" font-family="'Avenir-Medium'" font-size="12">133</text>
 	<text transform="matrix(1 0 0 1 380 460.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 380 474.9004)" font-family="'Avenir-Medium'" font-size="12">129</text>
+	<text transform="matrix(1 0 0 1 386 474.9004)" font-family="'Avenir-Medium'" font-size="12">129</text>
 	<text transform="matrix(1 0 0 1 105 455.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 105 469.9004)" font-family="'Avenir-Medium'" font-size="12"> 131</text>
-	<text transform="matrix(1 0 0 1 458 459.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 111 469.9004)" font-family="'Avenir-Medium'" font-size="12">131</text>
 	<text transform="matrix(1 0 0 1 458 459.5)" font-family="'Avenir-Medium'" font-size="12">Writing</text>
-	<text transform="matrix(1 0 0 1 497.9717 459.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 458 473.9004)" font-family="'Avenir-Medium'" font-size="12">Center</text>
-	<text transform="matrix(1 0 0 1 494.4316 473.9004)" font-family="'ArialMT'" font-size="12">     </text>
 	<text transform="matrix(1 0 0 1 607 109.5)" font-family="'Avenir-Medium'" font-size="14">Popular Reading</text>
+
 	<rect id="room141" x="15" y="149.1" fill="#29ABE2" stroke="#0B0B0B" stroke-miterlimit="10" width="67.3" height="42.1"/>
 	<rect id="room140" x="102.4" y="126.1" fill="#29ABE2" stroke="#0B0B0B" stroke-miterlimit="10" width="67.3" height="42.1"/>
 	<rect id="room143" x="15" y="64.9" fill="#29ABE2" stroke="#0B0B0B" stroke-miterlimit="10" width="67.3" height="42.1"/>
 	<rect id="room142" x="15" y="107" fill="#29ABE2" stroke="#0B0B0B" stroke-miterlimit="10" width="67.3" height="42.1"/>
 	<rect id="room144" x="102.4" y="84" fill="#29ABE2" stroke="#0B0B0B" stroke-miterlimit="10" width="67.3" height="42.1"/>
-	<rect id="computerArea" x="180" y="202" fill="none" stroke="#0B0B0B" stroke-miterlimit="10" width="378.5" height="205.5"/>
+    <rect id="room133" x="76.6" y="258.7" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" width="85.8" height="59.896"/>
+	<rect id="room132" x="76.6" y="318.7" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" width="85.8" height="58.7"/>
+	<polygon id="room130" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" points="247,416.9 308.608,417.617 308.667,439.4
+		345.612,438.715 345.667,505.566 247,504.9 	"/>
+	<polygon id="room129" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" points="380.667,437.9 380.594,417.189
+		441.335,416.566 441.335,505.566 345.667,505.9 345.768,438.423 	"/>
+	<rect id="room131a" x="162.1" y="416.2" fill="#828287" width="84.9" height="44.6"/>
+	<polygon id="room131b" fill="#828287" points="162.1,460.9 247,460.9 247,504.5 162.1,503.5 	"/>
+	<path id="room128" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" d="M441.302,416.9H516.4l-0.729,83.693
+		c0,0-44.664,5.307-73.914,5.307"/>
+
+    <rect id="computerArea" x="180" y="202" fill="none" stroke="#0B0B0B" stroke-miterlimit="10" width="378.5" height="205.5"/>
 	<g id="Win">
 		<rect x="523" y="247.5" fill="#E6E700" width="8.7" height="15"/>
 		<rect x="523" y="277.5" fill="#E6E700" width="8.7" height="15"/>
@@ -228,28 +229,16 @@
 		<rect x="273.4" y="322.9" fill="#B7B334" width="8.7" height="15"/>
 	</g>
 	<rect x="125.3" y="202.6" fill="none" stroke="#0B0B0B" stroke-miterlimit="10" width="37.1" height="56.1"/>
-	<rect id="room133" x="76.6" y="258.7" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" width="85.8" height="59.896"/>
-	<rect id="room132" x="76.6" y="318.7" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" width="85.8" height="58.7"/>
-	<polygon id="room130" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" points="247,416.9 308.608,417.617 308.667,439.4 
-		345.612,438.715 345.667,505.566 247,504.9 	"/>
-	<polygon id="room129" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" points="380.667,437.9 380.594,417.189 
-		441.335,416.566 441.335,505.566 345.667,505.9 345.768,438.423 	"/>
-	<rect id="room131a" x="162.1" y="416.2" fill="#828287" width="84.9" height="44.6"/>
-	<polygon id="room131b" fill="#828287" points="162.1,460.9 247,460.9 247,504.5 162.1,503.5 	"/>
-	<path id="room128" fill="#828287" stroke="#0B0B0B" stroke-miterlimit="10" d="M441.302,416.9H516.4l-0.729,83.693
-		c0,0-44.664,5.307-73.914,5.307"/>
 	<polygon fill="none" stroke="#0B0B0B" stroke-miterlimit="10" points="76.9,377.3 162.1,377.3 162.1,416.2 247,416.9 247,504.5 
 		76.6,503.8 	"/>
+
 	<polygon id="newAC" fill="#FAAC58" stroke="#0B0B0B" stroke-miterlimit="10" points="678.08,305.9 682.271,305.9 682.646,362.7 
 		677.734,362.7 	"/>
-	
-		<rect id="PostPrinter" x="308.667" y="416.2" fill="#109988" stroke="#0B0B0B" stroke-miterlimit="10" width="71.765" height="22.2"/>
+	<rect id="PostPrinter" x="308.667" y="416.2" fill="#109988" stroke="#0B0B0B" stroke-miterlimit="10" width="71.765" height="22.2"/>
 	<rect id="cafe" x="714" y="274.76" fill="#BE5AF9" stroke="#0B0B0B" stroke-miterlimit="10" width="115.7" height="155.541"/>
-	
-		<rect id="saintJohnsBible" x="622.332" y="199.45" fill="#1EA4D3" stroke="#0B0B0B" stroke-miterlimit="10" width="67.366" height="18.25"/>
+	<rect id="saintJohnsBible" x="622.332" y="199.45" fill="#1EA4D3" stroke="#0B0B0B" stroke-miterlimit="10" width="67.366" height="18.25"/>
 	<rect id="restArea" x="604" y="47.1" fill="#D63B1D" stroke="#0B0B0B" stroke-miterlimit="10" width="110" height="140.3"/>
-	
-		<rect id="openStudyArea1" x="180" y="30.167" fill="#118244" stroke="#0B0B0B" stroke-miterlimit="10" width="378.5" height="162.233"/>
+	<rect id="openStudyArea1" x="180" y="30.167" fill="#118244" stroke="#0B0B0B" stroke-miterlimit="10" width="378.5" height="162.233"/>
 	<path id="helpDesk" fill="#1ED340" stroke="#0B0B0B" stroke-miterlimit="10" d="M597.667,488.832V460.8h35.583v28.032
 		C633.25,488.832,616.334,494.832,597.667,488.832z"/>
 </g>

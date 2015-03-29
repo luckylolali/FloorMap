@@ -166,9 +166,9 @@
 		<rect x="265.541" y="176.432" fill="#1AA3AD" width="142.628" height="10"/>
 		<rect x="242.502" y="95.5" fill="#1AA3AD" width="10" height="63.031"/>
 	</g>
-	<rect id="s45" x="817.508" y="21.284" fill="#B20D4C" width="7.957" height="137.246"/>
-	<rect id="s44" x="799.606" y="21.284" fill="#B20D4C" width="7.956" height="105.649"/>
-	<rect id="s41" x="739.935" y="21.284" fill="#B20D4C" width="7.956" height="105.649"/>
+	<rect id="s45" x="817.508" y="21.284" fill="#F7931E" width="7.957" height="137.246"/>
+	<rect id="s44" x="799.606" y="21.284" fill="#F7931E" width="7.956" height="105.649"/>
+	<rect id="s41" x="739.935" y="21.284" fill="#F7931E" width="7.956" height="105.649"/>
 	<rect id="s40" x="720.044" y="21.284" fill="#F7931E" width="7.956" height="105.649"/>
 	<rect id="s39" x="700.153" y="21.284" fill="#F4EE21" width="7.956" height="105.649"/>
 	<rect id="s35" x="620.59" y="21.284" fill="#F4EE21" width="7.957" height="105.649"/>
@@ -178,7 +178,7 @@
 	<rect id="s31" x="540.033" y="21.284" fill="#2E2989" width="7.956" height="105.649"/>
 	<rect id="s30" x="522.131" y="21.284" fill="#2E2989" width="7.957" height="105.649"/>
 	<rect id="s29" x="501.246" y="21.284" fill="#2D2F38" width="7.956" height="105.649"/>
-	<rect id="s28" x="481.355" y="21.284" fill="#2D2F38" width="7.954" height="105.649"/>
+	<rect id="s28" x="481.355" y="21.284" fill="#2D2F38" width="7.953" height="105.649"/>
 	<rect id="s27" x="462.459" y="21.284" fill="#2D2F38" width="7.956" height="105.649"/>
 	<rect id="s26" x="439.585" y="78.805" fill="#2D2F38" width="7.956" height="60.505"/>
 	<rect id="s25" x="418.699" y="78.805" fill="#2D2F38" width="7.956" height="60.505"/>
@@ -192,8 +192,8 @@
 	<rect id="s17" x="244.656" y="18.301" fill="#C1272D" width="7.956" height="70.114"/>
 	<rect id="s38" x="679.268" y="21.284" fill="#F4EE21" width="7.956" height="105.649"/>
 	<rect id="s37" x="659.377" y="74.68" fill="#F4EE21" width="7.956" height="52.254"/>
-	<rect id="s42" x="759.825" y="74.68" fill="#B20D4C" width="7.956" height="52.254"/>
-	<rect id="s43" x="779.716" y="74.68" fill="#B20D4C" width="7.956" height="52.254"/>
+	<rect id="s42" x="759.825" y="74.68" fill="#F7931E" width="7.956" height="52.254"/>
+	<rect id="s43" x="779.716" y="74.68" fill="#F7931E" width="7.956" height="52.254"/>
 	<rect id="s36" x="638.492" y="74.68" fill="#F4EE21" width="7.956" height="52.254"/>
 	<rect id="s16" x="26.853" y="168.476" fill="#C1272D" width="173.049" height="7.956"/>
 	<rect id="s15" x="26.853" y="184.388" fill="#C1272D" width="173.049" height="7.956"/>

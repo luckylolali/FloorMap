@@ -12,9 +12,9 @@
 	<polyline id="stair_4_" fill="none" stroke="#000000" stroke-miterlimit="10" points="582.119,155.345 582.119,148.084 
 		667.154,148.084 667.154,182.894 582.119,182.894 582.119,174.241 	"/>
 	<line id="stair" fill="none" stroke="#000000" stroke-miterlimit="10" x1="582.119" y1="174.241" x2="582.119" y2="173.645"/>
-	<rect id="stair_1_" x="96.871" y="101.34" fill="none" stroke="#000000" stroke-miterlimit="10" width="129.293" height="41.771"/>
-	<rect id="stair_2_" x="876.212" y="7.851" fill="none" stroke="#000000" stroke-miterlimit="10" width="29.638" height="86.527"/>
-	<rect id="stair_3_" x="277.881" y="238.59" fill="none" stroke="#000000" stroke-miterlimit="10" width="36.898" height="91.62"/>
+	<rect id="stair1" x="96.871" y="101.34" fill="none" stroke="#000000" stroke-miterlimit="10" width="129.293" height="41.771"/>
+	<rect id="stair2" x="876.212" y="7.851" fill="none" stroke="#000000" stroke-miterlimit="10" width="29.638" height="86.527"/>
+	<rect id="stair3" x="277.881" y="238.59" fill="none" stroke="#000000" stroke-miterlimit="10" width="36.898" height="91.62"/>
 	<polygon id="elevator" fill="none" stroke="#000000" stroke-miterlimit="10" points="469.335,148.084 521.849,147.289 
 		521.849,179.115 469.335,179.91 	"/>
 	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M277.086,404.682l1.89,96.479h607.182V143.61
@@ -24,7 +24,7 @@
 			<rect x="444.869" y="349.086" fill="none" stroke="#000000" width="27.251" height="27.052"/>
 			<g>
 				<path fill="#231815" stroke="#000000" d="M472.12,371.861c0,2.387-1.89,4.271-4.276,4.271h-18.599
-					c-2.387,0-4.276-1.89-4.276-4.271v-18.499c0-2.394,1.896-4.276,4.276-4.276h18.599c2.387,0,4.276,1.89,4.276,4.276V371.861
+					c-2.387,0-4.276-1.89-4.276-4.271v-18.499c0-2.396,1.896-4.276,4.276-4.276h18.599c2.387,0,4.276,1.89,4.276,4.276V371.861
 					L472.12,371.861z"/>
 				<g>
 					<polygon fill="#FFFFFF" stroke="#000000" points="457.997,351.075 457.997,372.955 447.952,372.955 447.952,355.948 					"/>
@@ -34,10 +34,10 @@
 							<polygon fill="#231815" stroke="#000000" points="451.632,357.838 454.517,357.838 457.104,364.203 456.604,364.502 
 								454.417,360.523 454.218,360.723 456.506,366.789 454.218,366.789 453.521,372.061 452.627,372.061 451.931,366.789 
 								449.742,366.789 452.03,360.821 451.73,360.523 449.643,364.502 449.146,364.203 							"/>
-							<path fill="#231815" stroke="#000000" d="M454.615,355.849c0,0.896-0.695,1.599-1.591,1.599
-								c-0.896,0-1.598-0.696-1.598-1.599c0-0.895,0.695-1.591,1.598-1.591C453.92,354.258,454.615,354.954,454.615,355.849z"/>
-							<path fill="#231815" stroke="#000000" d="M465.457,355.849c0,0.896-0.696,1.599-1.592,1.599
-								c-0.896,0-1.592-0.696-1.592-1.599c0-0.895,0.689-1.591,1.592-1.591C464.761,354.258,465.457,354.954,465.457,355.849z"/>
+							<path fill="#231815" stroke="#000000" d="M454.615,355.849c0,0.896-0.695,1.601-1.591,1.601c-0.896,0-1.6-0.696-1.6-1.601
+								c0-0.895,0.695-1.591,1.6-1.591C453.92,354.258,454.615,354.954,454.615,355.849z"/>
+							<path fill="#231815" stroke="#000000" d="M465.457,355.849c0,0.896-0.696,1.601-1.592,1.601
+								c-0.896,0-1.592-0.696-1.592-1.601c0-0.895,0.688-1.591,1.592-1.591C464.761,354.258,465.457,354.954,465.457,355.849z"/>
 						</g>
 						<polygon fill="#231815" stroke="#000000" points="461.578,357.838 465.954,357.838 466.948,358.435 466.948,365.795 
 							466.152,365.795 466.152,360.623 465.457,360.623 465.457,372.061 464.362,372.061 463.965,367.685 463.666,367.685 
@@ -87,7 +87,7 @@
 						515.781,168.572 515.781,168.572 515.781,178.717 513.395,178.717 513.395,168.572 511.505,168.572 511.505,178.717 
 						509.218,178.717 					"/>
 					<g>
-						<ellipse fill="#231815" stroke="#000000" stroke-width="0.373" cx="512.599" cy="153.753" rx="2.892" ry="2.785"/>
+						<ellipse fill="#231815" stroke="#000000" stroke-width="0.373" cx="512.599" cy="153.753" rx="2.894" ry="2.785"/>
 					</g>
 				</g>
 			</g>
@@ -152,14 +152,10 @@
 		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="277.881" y1="266.46" x2="314.78" y2="266.152"/>
 		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="277.881" y1="261.07" x2="314.78" y2="260.764"/>
 		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="295.925" y1="260.764" x2="296.229" y2="308.113"/>
-		<g>
-			<polygon points="305.259,268.938 303.295,256.076 301.28,268.932 302.473,268.934 302.403,303.965 303.795,303.966 
-				303.866,268.936 			"/>
-		</g>
-		<g>
-			<polygon points="287.608,307.403 287.678,262.148 286.136,262.16 286.136,307.414 284.943,307.414 286.932,324.122 
-				288.901,307.404 			"/>
-		</g>
+		<polygon points="305.259,268.938 303.295,256.076 301.28,268.932 302.473,268.934 302.403,303.965 303.795,303.966 
+			303.866,268.936 		"/>
+		<polygon points="287.608,307.403 287.678,262.148 286.136,262.16 286.136,307.414 284.943,307.414 286.932,324.122 
+			288.901,307.404 		"/>
 	</g>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="131.979" y1="101.34" x2="131.979" y2="142.913"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="125.116" y1="101.439" x2="125.116" y2="143.012"/>
@@ -174,10 +170,8 @@
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="194.438" y1="101.439" x2="194.438" y2="143.012"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="187.575" y1="101.439" x2="187.575" y2="143.012"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="180.712" y1="101.439" x2="180.712" y2="143.012"/>
-	<g>
-		<polygon points="186.581,119.64 215.423,122.424 186.581,125.209 186.581,123.519 108.308,123.519 108.308,121.529 
-			186.581,121.529 		"/>
-	</g>
+	<polygon points="186.581,119.64 215.423,122.424 186.581,125.209 186.581,123.519 108.308,123.519 108.308,121.529 
+		186.581,121.529 	"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="876.212" y1="21.774" x2="905.85" y2="21.277"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="876.212" y1="26.449" x2="905.85" y2="25.952"/>
 	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="831.357" y1="7.552" x2="905.85" y2="7.055"/>
@@ -214,69 +208,57 @@
 	<text transform="matrix(1.1564 0 0 1 725 208.9229)" font-family="'Avenir-Medium'" font-size="14">Reference</text>
 	<text transform="matrix(1.1564 0 0 1 803.0547 209.8838)" font-family="'Avenir-Medium'" font-size="14">Circulation</text>
 	<text transform="matrix(1.0556 0 0 1 734.3379 326.8291)" font-family="'Avenir-Medium'" font-size="14">Computer</text>
-	<text transform="matrix(1.0556 0 0 1 734.3379 342.7432)" font-family="'Avenir-Medium'" font-size="14">     Area</text>
-	<text transform="matrix(1 0 0 1 168.6675 332.166)" font-family="'Avenir-Medium'" font-size="14">  Microfilm</text>
+	<text transform="matrix(1.0556 0 0 1 734.3379 342.7432)" font-family="'Avenir-Medium'" font-size="14">Area</text>
+	<text transform="matrix(1 0 0 1 168.6675 332.166)" font-family="'Avenir-Medium'" font-size="14">Microfilm</text>
 	<text transform="matrix(1 0 0 1 168.6675 348.9658)" font-family="'Avenir-Medium'" font-size="14">Workstation</text>
 	<text transform="matrix(1 0 0 1 633.334 322.166)" font-family="'Avenir-Medium'" font-size="10">Printer</text>
-	<text transform="matrix(1 0 0 1 633.334 334.166)" font-family="'Avenir-Medium'" font-size="10"> Area</text>
+	<text transform="matrix(1 0 0 1 637.334 334.166)" font-family="'Avenir-Medium'" font-size="10">Area</text>
 	<text transform="matrix(1 0 0 1 631.001 397.499)" font-family="'Avenir-Medium'" font-size="12">122</text>
 	<text transform="matrix(1 0 0 1 630.667 365.166)" font-family="'Avenir-Medium'" font-size="12">121</text>
 	<text transform="matrix(1 0 0 1 584.334 299.166)" font-family="'Avenir-Medium'" font-size="8">Conference</text>
-	<text transform="matrix(1 0 0 1 584.334 308.7656)" font-family="'Avenir-Medium'" font-size="8">     Room</text>
+	<text transform="matrix(1 0 0 1 592.334 308.7656)" font-family="'Avenir-Medium'" font-size="8">Room</text>
 	<text transform="matrix(1 0 0 1 421.6675 282.165)" font-family="'Avenir-Medium'" font-size="14">Library Instruction Lab</text>
-	<text transform="matrix(1 0 0 1 633 280.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 633 280.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 674.0957 280.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 633 294.9004)" font-family="'Avenir-Medium'" font-size="12">  120</text>
-	<text transform="matrix(1 0 0 1 659.6875 294.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 571 367.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 638 294.9004)" font-family="'Avenir-Medium'" font-size="12">120</text>
 	<text transform="matrix(1 0 0 1 571 367.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 604.0957 367.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 571 381.9004)" font-family="'Avenir-Medium'" font-size="12"> 123</text>
-	<text transform="matrix(1 0 0 1 594.3516 381.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 522 386.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 578 381.9004)" font-family="'Avenir-Medium'" font-size="12">123</text>
 	<text transform="matrix(1 0 0 1 522 386.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 555.0957 386.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 522 400.9004)" font-family="'Avenir-Medium'" font-size="12"> 124</text>
-	<text transform="matrix(1 0 0 1 545.3516 400.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 152 160.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 527 400.9004)" font-family="'Avenir-Medium'" font-size="12">124</text>
 	<text transform="matrix(1 0 0 1 152 160.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 185.0957 160.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 152 174.9004)" font-family="'Avenir-Medium'" font-size="12"> 175</text>
-	<text transform="matrix(1 0 0 1 175.3521 174.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 235 67.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 159 174.9004)" font-family="'Avenir-Medium'" font-size="12">175</text>
 	<text transform="matrix(1 0 0 1 235 67.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 268.0957 67.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 235 81.9004)" font-family="'Avenir-Medium'" font-size="12"> 172</text>
-	<text transform="matrix(1 0 0 1 258.3521 81.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 230 241.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 242 81.9004)" font-family="'Avenir-Medium'" font-size="12">172</text>
 	<text transform="matrix(1 0 0 1 230 241.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 263.0957 241.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 230 255.9004)" font-family="'Avenir-Medium'" font-size="12"> 177</text>
-	<text transform="matrix(1 0 0 1 253.3521 255.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 361 126.5)" font-family="'ArialMT'" font-size="12">         </text>
+	<text transform="matrix(1 0 0 1 237 255.9004)" font-family="'Avenir-Medium'" font-size="12">177</text>
 	<text transform="matrix(1 0 0 1 361 126.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1 0 0 1 394.0957 126.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1 0 0 1 361 140.9004)" font-family="'Avenir-Medium'" font-size="12"> </text>
-	<text transform="matrix(1 0 0 1 364.3359 140.9004)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 826.666 259.166)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 826.666 259.166)" font-family="'Avenir-Medium'" font-size="12">Circulation</text>
-	<text transform="matrix(1 0 0 1 884.9014 259.166)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 826.666 273.5664)" font-family="'Avenir-Medium'" font-size="12">Workroom</text>
-	<text transform="matrix(1 0 0 1 884.1455 273.5664)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1.046 0 0 1 838.7617 314.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1.046 0 0 1 838.7617 314.5)" font-family="'Avenir-Medium'" font-size="12">Office</text>
-	<text transform="matrix(1.046 0 0 1 873.3809 314.5)" font-family="'ArialMT'" font-size="12">         </text>
-	<text transform="matrix(1.046 0 0 1 838.7617 328.9004)" font-family="'Avenir-Medium'" font-size="12">115</text>
-	<text transform="matrix(1.046 0 0 1 859.6992 328.9004)" font-family="'ArialMT'" font-size="12">     </text>
+	<text transform="matrix(1.046 0 0 1 845.7617 328.9004)" font-family="'Avenir-Medium'" font-size="12">115</text>
+	<rect id="room116" x="826.666" y="226.953" fill="#9C4ACE" width="59.492" height="57.484"/>
+	<rect id="room115" x="827.666" y="284.874" fill="#828287" width="57.636" height="61.55"/>
 	
 		<rect id="room122" x="610.961" y="377.829" fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" width="59.973" height="31.826"/>
 	
 		<rect id="room121" x="610.961" y="345.008" fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" width="59.973" height="31.826"/>
 	
-		<rect id="DrexelPrinter" x="627.57" y="308.209" fill="#C47272" stroke="#000000" stroke-miterlimit="10" width="43.463" height="36.799"/>
-	
 		<rect id="room119" x="583.113" y="263.453" fill="#5BB900" stroke="#000000" stroke-miterlimit="10" width="44.457" height="81.555"/>
+	
+		<rect id="room123" x="562.427" y="345.008" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.634" height="53.707"/>
+	
+		<rect id="room124" x="513.792" y="368.878" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.635" height="40.777"/>
+	
+		<rect id="room120" x="627.57" y="258.48" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="43.463" height="49.729"/>
+	
+		<rect id="room170" x="352.678" y="94.378" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="47.333" height="56.591"/>
+	<rect id="room172" x="225.169" y="42.66" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="51.712" height="58.68"/>
+	
+		<rect id="room175" x="137.25" y="143.111" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="63.453" height="39.783"/>
+	
+		<rect id="room177" x="215.423" y="224.168" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="61.464" height="40.28"/>
+	<rect id="office" x="314.78" y="238.59" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="34.81" height="78.371"/>
+	
+		<rect id="DrexelPrinter" x="627.57" y="308.209" fill="#C47272" stroke="#000000" stroke-miterlimit="10" width="43.463" height="36.799"/>
 	<g id="referenceCollection">
 		<rect x="738.365" y="42.66" fill="#E54217" width="6.266" height="81.555"/>
 		<rect x="748.907" y="42.66" fill="#E54217" width="6.267" height="81.555"/>
@@ -294,7 +276,7 @@
 	</g>
 	<rect id="atlases" x="628.117" y="250.834" fill="#1313BA" width="42.369" height="5.967"/>
 	<g id="mediaCollection">
-		<rect x="775.463" y="428.519" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.975"/>
+		<rect x="775.463" y="428.519" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.977"/>
 		<rect x="775.463" y="437.48" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="86.925" height="5.968"/>
 	</g>
 	<g id="quietArea1">
@@ -310,38 +292,28 @@
 		<rect x="547.906" y="446.454" fill="#C1272D" stroke="#000000" stroke-miterlimit="10" width="6.266" height="48.733"/>
 		<rect x="440.493" y="446.454" fill="#C1272D" stroke="#000000" stroke-miterlimit="10" width="6.266" height="48.733"/>
 	</g>
-	<g id="mathAndCs">
-		<rect id="s92" x="16.792" y="412.142" fill="#001473" width="100.352" height="5.974"/>
-		<rect id="s93" x="16.792" y="403.19" fill="#001473" width="100.352" height="5.967"/>
-		<rect id="s94" x="16.792" y="394.239" fill="#001473" width="100.352" height="5.967"/>
-		<rect id="s95" x="16.792" y="386.282" fill="#001473" width="100.352" height="5.968"/>
-		<rect id="s96" x="16.792" y="378.326" fill="#001473" width="100.352" height="5.967"/>
-		<rect id="s97" x="16.792" y="370.369" fill="#001473" width="100.352" height="5.968"/>
-		<rect id="s91" x="16.792" y="420.098" fill="#001473" width="100.352" height="5.975"/>
-	</g>
-	<g id="physics">
-		<rect id="s101" x="16.792" y="338.543" fill="#015C00" width="100.352" height="5.968"/>
-		<rect id="s100" x="16.792" y="346.5" fill="#015C00" width="100.352" height="5.968"/>
-		<rect id="s99" x="16.792" y="354.456" fill="#015C00" width="100.352" height="5.968"/>
-		<rect id="s98" x="16.792" y="362.413" fill="#015C00" width="100.352" height="5.968"/>
-	</g>
-	<g id="chemistry">
-		<rect id="s104" x="16.792" y="315.668" fill="#D8200E" width="100.352" height="5.968"/>
-		<rect id="s106_1_" x="16.792" y="299.756" fill="#D8200E" width="100.352" height="5.967"/>
-		<rect id="s105" x="16.792" y="307.712" fill="#D8200E" width="100.352" height="5.968"/>
-		<rect id="s103" x="16.792" y="323.625" fill="#D8200E" width="100.352" height="5.968"/>
-		<rect id="s102" x="16.792" y="331.581" fill="#D8200E" width="100.352" height="5.968"/>
-	</g>
-	<g id="biology">
-		<rect id="s109" x="16.792" y="273.896" fill="#3B3D5B" width="100.352" height="5.967"/>
-		<rect id="s108" x="16.792" y="282.848" fill="#3B3D5B" width="100.352" height="5.969"/>
-		<rect id="s107" x="16.792" y="291.799" fill="#3B3D5B" width="100.352" height="5.967"/>
-	</g>
+	<rect id="s92" x="16.792" y="412.142" fill="#001473" width="100.352" height="5.976"/>
+	<rect id="s93" x="16.792" y="403.19" fill="#001473" width="100.352" height="5.967"/>
+	<rect id="s94" x="16.792" y="394.239" fill="#001473" width="100.352" height="5.967"/>
+	<rect id="s95" x="16.792" y="386.282" fill="#001473" width="100.352" height="5.968"/>
+	<rect id="s96" x="16.792" y="378.326" fill="#001473" width="100.352" height="5.967"/>
+	<rect id="s97" x="16.792" y="370.369" fill="#001473" width="100.352" height="5.968"/>
+	<rect id="s91" x="16.792" y="420.098" fill="#001473" width="100.352" height="5.977"/>
+	<rect id="s101" x="16.792" y="338.543" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s100" x="16.792" y="346.5" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s99" x="16.792" y="354.456" fill="#015C00" width="100.352" height="5.968"/>
+	<rect id="s98" x="16.792" y="362.413" fill="#015C00" width="100.352" height="5.968"/>
+	<rect id="s104" x="16.792" y="315.668" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s106" x="16.792" y="299.756" fill="#D8200E" width="100.352" height="5.967"/>
+	<rect id="s105" x="16.792" y="307.712" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s103" x="16.792" y="323.625" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s102" x="16.792" y="331.581" fill="#D8200E" width="100.352" height="5.968"/>
+	<rect id="s109" x="16.792" y="273.896" fill="#3B3D5B" width="100.352" height="5.967"/>
+	<rect id="s108" x="16.792" y="282.848" fill="#3B3D5B" width="100.352" height="5.969"/>
+	<rect id="s107" x="16.792" y="291.799" fill="#3B3D5B" width="100.352" height="5.967"/>
 	<rect id="s110" x="16.792" y="265.939" fill="#7000B9" width="100.352" height="5.969"/>
-	<g id="zoology">
-		<rect id="s112" x="16.792" y="250.027" fill="#FFEC17" width="100.352" height="5.967"/>
-		<rect id="s111" x="16.792" y="257.984" fill="#FFEC17" width="100.352" height="5.967"/>
-	</g>
+	<rect id="s112" x="16.792" y="250.027" fill="#FFEC17" width="100.352" height="5.967"/>
+	<rect id="s111" x="16.792" y="257.984" fill="#FFEC17" width="100.352" height="5.967"/>
 	<rect id="s113" x="16.792" y="241.076" fill="#003CD0" width="100.352" height="5.967"/>
 	<rect id="s114" x="16.792" y="232.125" fill="#003CD0" width="100.352" height="5.967"/>
 	<rect id="s115" x="16.792" y="224.168" fill="#003CD0" width="100.352" height="5.967"/>
@@ -357,18 +329,18 @@
 	<polygon id="microfilm" fill="#008B5E" stroke="#000000" stroke-miterlimit="10" points="276.887,404.682 239.591,404.682 
 		239.591,430.043 138.245,429.546 138.245,264.448 276.887,264.448 	"/>
 	<g id="Dcomputers">
-		<rect x="711.034" y="401.109" fill="#E6E700" width="8.752" height="11.776"/>
-		<rect x="711.034" y="367.192" fill="#E6E700" width="8.752" height="11.775"/>
-		<rect x="711.034" y="350.233" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="401.109" fill="#E6E700" width="8.752" height="11.774"/>
+		<rect x="711.034" y="367.192" fill="#E6E700" width="8.752" height="11.773"/>
+		<rect x="711.034" y="350.233" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="711.034" y="329.789" fill="#E6E700" width="8.752" height="11.776"/>
 		<rect x="711.034" y="312.831" fill="#E6E700" width="8.752" height="11.782"/>
 		<rect x="711.034" y="242.169" fill="#E6E700" width="8.752" height="11.777"/>
 		<rect x="711.034" y="258.188" fill="#E6E700" width="8.752" height="11.775"/>
 		<rect x="711.034" y="278.914" fill="#E6E700" width="8.752" height="11.775"/>
-		<rect x="711.034" y="295.4" fill="#E6E700" width="8.752" height="11.776"/>
-		<rect x="711.034" y="383.492" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="711.034" y="295.4" fill="#E6E700" width="8.752" height="11.774"/>
+		<rect x="711.034" y="383.492" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="729.831" y="401.203" fill="#E6E700" width="8.753" height="11.783"/>
-		<rect x="729.831" y="367.287" fill="#E6E700" width="8.753" height="11.775"/>
+		<rect x="729.831" y="367.287" fill="#E6E700" width="8.753" height="11.773"/>
 		<rect x="729.831" y="350.328" fill="#E6E700" width="8.753" height="11.782"/>
 		<rect x="729.831" y="329.884" fill="#E6E700" width="8.753" height="11.782"/>
 		<rect x="729.831" y="312.924" fill="#E6E700" width="8.753" height="11.777"/>
@@ -378,15 +350,15 @@
 		<rect x="729.831" y="295.495" fill="#E6E700" width="8.753" height="11.776"/>
 		<rect x="729.831" y="383.586" fill="#E6E700" width="8.753" height="11.776"/>
 		<rect x="758.574" y="401.203" fill="#E6E700" width="8.752" height="11.783"/>
-		<rect x="758.574" y="367.287" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="758.574" y="367.287" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="758.574" y="350.328" fill="#E6E700" width="8.752" height="11.782"/>
 		<rect x="758.574" y="329.789" fill="#E6E700" width="8.752" height="11.776"/>
 		<rect x="758.574" y="312.831" fill="#E6E700" width="8.752" height="11.782"/>
 		<rect x="758.574" y="242.169" fill="#E6E700" width="8.752" height="11.777"/>
 		<rect x="758.574" y="258.188" fill="#E6E700" width="8.752" height="11.775"/>
 		<rect x="758.574" y="278.914" fill="#E6E700" width="8.752" height="11.775"/>
-		<rect x="758.574" y="295.4" fill="#E6E700" width="8.752" height="11.776"/>
-		<rect x="758.574" y="383.492" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="758.574" y="295.4" fill="#E6E700" width="8.752" height="11.774"/>
+		<rect x="758.574" y="383.492" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="777.372" y="401.298" fill="#E6E700" width="8.752" height="11.777"/>
 		<rect x="777.372" y="367.381" fill="#E6E700" width="8.752" height="11.782"/>
 		<rect x="777.372" y="350.423" fill="#E6E700" width="8.752" height="11.776"/>
@@ -397,11 +369,11 @@
 		<rect x="777.372" y="383.586" fill="#E6E700" width="8.752" height="11.776"/>
 		<rect x="806.016" y="310.005" fill="#E6E700" width="8.752" height="11.776"/>
 		<rect x="806.016" y="292.668" fill="#E6E700" width="8.752" height="11.783"/>
-		<rect x="806.016" y="275.146" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="806.016" y="275.146" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="806.413" y="334.971" fill="#E6E700" width="8.752" height="11.783"/>
-		<rect x="806.413" y="352.118" fill="#E6E700" width="8.752" height="11.775"/>
+		<rect x="806.413" y="352.118" fill="#E6E700" width="8.752" height="11.773"/>
 		<rect x="806.413" y="368.135" fill="#E6E700" width="8.752" height="11.782"/>
-		<rect x="806.016" y="384.527" fill="#E6E700" width="8.752" height="11.776"/>
+		<rect x="806.016" y="384.527" fill="#E6E700" width="8.752" height="11.774"/>
 		<rect x="806.016" y="401.298" fill="#E6E700" width="8.752" height="11.777"/>
 	</g>
 	<g id="scannerAttached">
@@ -412,21 +384,6 @@
 		<rect x="806.016" y="242.546" fill="#FF8345" width="8.752" height="11.777"/>
 		<rect x="806.016" y="258.188" fill="#FF8345" width="8.752" height="11.775"/>
 	</g>
-	
-		<rect id="room123" x="562.427" y="345.008" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.634" height="53.707"/>
-	
-		<rect id="room124" x="513.792" y="368.878" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="48.635" height="40.777"/>
-	
-		<rect id="room120" x="627.57" y="258.48" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="43.463" height="49.729"/>
-	
-		<rect id="room170" x="352.678" y="94.378" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="47.333" height="56.591"/>
-	<rect id="room172" x="225.169" y="42.66" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="51.712" height="58.68"/>
-	
-		<rect id="room175" x="137.25" y="143.111" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="63.453" height="39.783"/>
-	
-		<rect id="room177" x="215.423" y="224.168" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="61.464" height="40.28"/>
-	
-		<rect id="office_3_" x="314.78" y="238.59" fill="#828287" stroke="#000000" stroke-miterlimit="10" width="34.81" height="78.371"/>
 	<rect id="DComputer1" x="314.78" y="330.398" fill="#E6E700" width="37.898" height="14.301"/>
 	<rect id="DVDPlayStation" x="276.881" y="330.21" fill="#5B2EFF" width="37.898" height="14.301"/>
 	
@@ -437,11 +394,11 @@
 		<rect x="425.376" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 		<rect x="425.376" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
 		<rect x="425.376" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.752" height="12.432"/>
-		<rect x="456.604" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.433"/>
-		<rect x="456.604" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.438"/>
-		<rect x="456.604" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
-		<rect x="456.604" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
-		<rect x="456.604" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.76" height="12.432"/>
+		<rect x="456.604" y="301.445" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.762" height="12.433"/>
+		<rect x="456.604" y="284.938" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.762" height="12.438"/>
+		<rect x="456.604" y="259.078" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.762" height="12.432"/>
+		<rect x="456.604" y="243.364" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.762" height="12.432"/>
+		<rect x="456.604" y="226.953" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.762" height="12.432"/>
 		<rect x="488.431" y="301.545" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.434"/>
 		<rect x="488.431" y="285.035" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.433"/>
 		<rect x="488.431" y="259.178" fill="none" stroke="#000000" stroke-miterlimit="10" width="8.753" height="12.432"/>
@@ -459,11 +416,9 @@
 	</g>
 	<path id="referenceDesk" fill="#0040A2" d="M720.425,226.953h81.54l0.79-80.488C802.755,146.465,713.279,150.511,720.425,226.953z"
 		/>
-	<path id="circulationDesk" fill="#9E4ACE" d="M803.077,146.465c25.245-9.328,79.923,1.579,79.923,1.579v78.909h-80.608
+	<path id="circulationDesk" fill="#9E4ACE" d="M803.077,146.465c53.335-6.584,79.923,1.579,79.923,1.579v78.909h-80.608
 		L803.077,146.465z"/>
 	<rect id="studyStation" x="125.116" y="143.111" fill="#1AA3AD" width="12.134" height="286.435"/>
 	<rect id="studyStation1" x="667.154" y="7.851" fill="#19AF19" width="143.218" height="23.571"/>
-	<rect id="room116" x="826.666" y="226.953" fill="#9C4ACE" width="59.492" height="57.485"/>
-	<rect id="room115" x="827.666" y="284.874" fill="#828287" width="57.636" height="61.55"/>
 </g>
 </svg>

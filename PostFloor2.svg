@@ -7,8 +7,7 @@
 	<text transform="matrix(1.3091 0 0 1 189.2402 379.9434)" font-family="'MyriadPro-Regular'" font-size="20">ATDL</text>
 	<rect id="stair_4_" x="2" y="5.5" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="162.729" height="56.556"/>
 	<rect id="stair_1_" x="732.943" y="5.5" fill="none" stroke="#333333" stroke-miterlimit="10" width="148.057" height="56.556"/>
-	
-		<rect id="toilet_2_" x="732.943" y="62.056" fill="none" stroke="#333333" stroke-miterlimit="10" width="148.057" height="126.579"/>
+	<rect id="toilet_2_" x="732.943" y="62.056" fill="none" stroke="#333333" stroke-miterlimit="10" width="148.057" height="126.579"/>
 	<line fill="none" stroke="#333333" stroke-width="2" stroke-miterlimit="10" x1="164.062" y1="26.371" x2="732.278" y2="26.371"/>
 	<path fill="none" stroke="#333333" stroke-miterlimit="10" d="M637.134,505.081"/>
 	<path fill="none" stroke="#333333" stroke-miterlimit="10" d="M880.659,260.677v166.146c0,0-73.688,42.573-174.659,50.039"/>
@@ -41,7 +40,7 @@
 				</g>
 			</g>
 		</g>
-		<g id="Arrow_30_1_">
+		<g>
 			<rect x="656.625" y="270.443" fill="none" stroke="#333333" width="38.748" height="28.131"/>
 		</g>
 	</g>
@@ -126,47 +125,41 @@
 	<text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
 </g>
 <g id="active">
-	<text transform="matrix(1 0 0 1 412 376.5)" font-family="'Avenir-Medium'" font-size="18">    Digital</text>
+	<text transform="matrix(1 0 0 1 434 376.5)" font-family="'Avenir-Medium'" font-size="18">Digital</text>
 	<text transform="matrix(1 0 0 1 412 398.0996)" font-family="'Avenir-Medium'" font-size="18">Media Zone</text>
 	<text transform="matrix(1 0 0 1 374 124.5)" font-family="'Avenir-Medium'" font-size="18">Open study Area</text>
 	<text transform="matrix(1 0 0 1 756 350.5)" font-family="'Avenir-Medium'" font-size="18">Lounge</text>
-	<text transform="matrix(1 0 0 1 334 249.5)" font-family="'Avenir-Medium'" font-size="14">Media</text>
-	<text transform="matrix(1 0 0 1 334 266.2998)" font-family="'Avenir-Medium'" font-size="14">Creation</text>
+	<text transform="matrix(1 0 0 1 338 249.5)" font-family="'Avenir-Medium'" font-size="14">Media</text>
+	<text transform="matrix(1 0 0 1 332 266.2998)" font-family="'Avenir-Medium'" font-size="14">Creation</text>
 	<text transform="matrix(1 0 0 1 530 249.5)" font-family="'Avenir-Medium'" font-size="14">Media</text>
-	<text transform="matrix(1 0 0 1 530 266.2998)" font-family="'Avenir-Medium'" font-size="14">Creation</text>
-	<text transform="matrix(1 0 0 1 412 248.5)" font-family="'Avenir-Medium'" font-size="14">Presentation</text>
+	<text transform="matrix(1 0 0 1 526 266.2998)" font-family="'Avenir-Medium'" font-size="14">Creation</text>
+	<text transform="matrix(1 0 0 1 420 248.5)" font-family="'Avenir-Medium'" font-size="14">Presentation</text>
 	<text transform="matrix(1 0 0 1 412 265.2998)" font-family="'Avenir-Medium'" font-size="14">Capture Room</text>
-	<text transform="matrix(1 0 0 1 23 115.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 23 115.5)" font-family="'Avenir-Medium'" font-size="16">Wachterhauser</text>
-	<text transform="matrix(1 0 0 1 131.3032 115.5)" font-family="'ArialMT'" font-size="12">         </text>
 	<text transform="matrix(1 0 0 1 23 137.0996)" font-family="'Avenir-Medium'" font-size="16">Seminar Room</text>
-	<text transform="matrix(1 0 0 1 128.2471 137.0996)" font-family="'ArialMT'" font-size="12">     </text>
-	<text transform="matrix(1 0 0 1 100 473.5)" font-family="'Avenir-Medium'" font-size="12">Office 231</text>
-    <text transform="matrix(1 0 0 1 209 473.5)" font-family="'Avenir-Medium'" font-size="12">Office 230</text>
+	<text transform="matrix(1 0 0 1 100 473.5)" font-family="'Avenir-Medium'" font-size="14">Office 231</text>
+    <text transform="matrix(1 0 0 1 207 473.5)" font-family="'Avenir-Medium'" font-size="14">Office 230</text>
 
-    <rect id="wsRoom" x="2" y="62.056" fill="#AD1515" stroke="#333333" stroke-miterlimit="10" width="162.729" height="126.579"/>
 	<rect x="2" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="86.699" height="67.329"/>
 	<rect x="88.699" y="218.259" fill="none" stroke="#333333" stroke-miterlimit="10" width="76.029" height="37.705"/>
 	<rect x="67.358" y="255.964" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="124.047" height="65.982"/>
 	<rect x="67.358" y="321.946" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="90.701" height="59.248"/>
 	<rect x="67.358" y="381.194" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="90.701" height="52.517"/>
-	
-		<rect id="room231" x="67.358" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="128.049" height="71.37"/>
-	
-		<rect id="room230" x="195.407" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="89.367" height="71.37"/>
 	<rect x="191.405" y="230.377" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="49.352" height="80.796"/>
 	<rect x="240.756" y="230.377" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="44.018" height="20.2"/>
 	<rect x="240.756" y="250.577" fill="#FFFFFF" stroke="#333333" stroke-miterlimit="10" width="44.018" height="57.904"/>
 	<line fill="none" stroke="#333333" stroke-miterlimit="10" x1="284.774" y1="309.152" x2="284.774" y2="434.384"/>
-	
-		<rect id="room233" x="324.789" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="70.693" height="48.479"/>
-	
-		<rect id="room234" x="395.482" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="122.714" height="48.479"/>
-	
-		<rect id="room235" x="518.196" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="69.354" height="48.479"/>
 	<rect x="796.967" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="84.033" height="71.368"/>
 	<rect x="754.285" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="42.682" height="36.357"/>
 	<rect x="754.285" y="224.992" fill="none" stroke="#333333" stroke-miterlimit="10" width="42.682" height="35.011"/>
+
+    <rect id="wsRoom" x="2" y="62.056" fill="#AD1515" stroke="#333333" stroke-miterlimit="10" width="162.729" height="126.579"/>
+    <rect id="room231" x="67.358" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="128.049" height="71.37"/>
+	<rect id="room230" x="195.407" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="89.367" height="71.37"/>
+	<rect id="room233" x="324.789" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="70.693" height="48.479"/>
+	<rect id="room234" x="395.482" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="122.714" height="48.479"/>
+	<rect id="room235" x="518.196" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="69.354" height="48.479"/>
+
 	<path id="digitMediaZone" fill="#E8E33F" d="M324.789,282.223v220.165c0,0,210.747-3.496,261.431-33.582V282.223H324.789z"/>
 	<rect id="openStudyArea2" x="185" y="38.705" fill="#118244" width="510.69" height="168.108"/>
 	<rect id="lounge" x="706" y="270.5" fill="#9B1FC9" width="162" height="152"/>
