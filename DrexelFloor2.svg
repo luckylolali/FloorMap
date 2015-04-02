@@ -182,6 +182,9 @@
 	<text transform="matrix(1 0 0 1 491 301.5)" font-family="'Avenir-Medium'" font-size="12">220</text>
 	<text transform="matrix(1 0 0 1 524 460.5)" font-family="'Avenir-Medium'" font-size="14">Quiet Area</text>
 	<text transform="matrix(1 0 0 1 486 226.5)" font-family="'Avenir-Medium'" font-size="14">Open Study Area</text>
+    <a xlink:href="PostFloor2.svg" xlink:title="Click Go to the Post side">
+        <text transform="matrix(1 0 0 1 795 177.5)" font-family="'Avenir-Medium'" font-size="14">To The Post Side</text>
+    </a>
 	<g id="studyStation">
 		<rect x="214.146" y="153.231" fill="#1AA3AD" width="9.867" height="273.269"/>
 		<rect x="14.5" y="153.231" fill="#1AA3AD" width="9.867" height="273.269"/>

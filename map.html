@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <title>SJU Library Floor Map</title>
     <!-- using the viewport meta tag to control layout on mobile browsers -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="main.css" />
-<!--    <script src="modernizr.custom.js"></script> -->
+    <script src="modernizr.custom.js"></script>
 
 </head>
 <body>
@@ -28,23 +28,23 @@
             <div class="collapse navbar-collapse" id="navbar-collapse">
                 <div class="tabbable navbar-right">
                     <ul class="nav nav-tabs ">
-                        <li class="active"><a class="building" data-map="DrexelFloor1.svg" href="#pane1" data-toggle="tab">Drexel Library</a></li>
-                        <li><a class="building" data-map="PostFloor1.svg" href="#pane2" data-toggle="tab">Post Learning Commons</a> </li>
+                        <li id="DL"class="active"><a class="floor" data-map="DrexelFloor1.svg" href="#pane1" data-toggle="tab">Drexel Library</a></li>
+                        <li id="PLC"><a class="floor" data-map="PostFloor1.svg" href="#pane2" data-toggle="tab">Post Learning Commons</a> </li>
 
                     </ul>
                     <div class="tab-content clearfix">
                         <div id="pane1" class="tab-pane active">
                             <ul class="nav nav-pills">
-                                <li class="active"><a href="#" class="floor" data-map="DrexelFloor1.svg">First Floor</a></li>
-                                <li><a href="#" class="floor" data-map="DrexelFloor2.svg">Second Floor</a></li>
-                                <li><a href="#" class="floor" data-map="DrexelFloor3.svg">Third Floor</a></li>
+                                <li id="DL1" class="active"><a href="#" class="floor" data-map="DrexelFloor1.svg">First Floor</a></li>
+                                <li id="DL2"><a href="#" class="floor" data-map="DrexelFloor2.svg">Second Floor</a></li>
+                                <li id="DL3"><a href="#" class="floor" data-map="DrexelFloor3.svg">Third Floor</a></li>
                             </ul>
                         </div>
                         <div id="pane2" class="tab-pane">
                             <ul class="nav nav-pills">
-                                <li class="active"><a href="#" class="floor" data-map="PostFloor1.svg">First Floor</a></li>
-                                <li><a href="#" class="floor" data-map="PostFloor2.svg">Second Floor</a></li>
-                                <li><a href="#" class="floor" data-map="PostFloor3.svg">Third Floor</a></li>
+                                <li id="PLC1" class="active"><a href="#" class="floor" data-map="PostFloor1.svg">First Floor</a></li>
+                                <li id="PLC2"><a href="#" class="floor" data-map="PostFloor2.svg">Second Floor</a></li>
+                                <li id="PLC3"><a href="#" class="floor" data-map="PostFloor3.svg">Third Floor</a></li>
                             </ul>
                         </div>
                     </div>
@@ -70,6 +70,7 @@
                 </div>
             </div>
         </div>
+        <div class="col-xs-12 nosvgcontainer"></div>
     </div>
     <div class="clean"></div>
     <footer class="footer navbar navbar-default navbar-fixed-bottom">
@@ -163,13 +164,139 @@
         </div>
     </div>
 
+    <div class="modal fade" id="PLCWinModal" tabindex="-1" role="dialog" aria-labelledby="PLCWinLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="PLCWinLabel">Software</h4>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li>Adobe Acrobat X Pro</li>
+                        <li>IBM SPSS Statistics 21</li>
+                        <li>ImageJ</li>
+                        <li>jGRASP</li>
+                        <li>Microsoft Expression</li>
+                        <li>Microsoft Office 2010</li>
+                        <li>Miscrsoft Visual Studio 2012</li>
+                        <li>MINITAB 14 Student</li>
+                        <li>NVIDIA Corporation</li>
+                        <li>Pharos</li>
+                        <li>QuickTime</li>
+                        <li>SAP Front End</li>
+                        <li>SAS</li>
+                        <li>SharePoint</li>
+                        <li>SigmaPlot</li>
+                        <li>Sketchpad</li>
+                        <li>WinZip</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="PLCMacModal" tabindex="-1" role="dialog" aria-labelledby="PLCMacLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="PLCMacLabel">Software</h4>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li>Adobe Acrobate Pro</li>
+                        <li>Adobe FormsCentral</li>
+                        <li>Blackboard Collaborate Launcher</li>
+                        <li>Fetch</li>
+                        <li>IBM: Commuter Utility/Python for SPSS Statistics/SPSSStatistics</li>
+                        <li>iBooks Author</li>
+                        <li>Inspiration 9</li>
+                        <li>Konodo Edit 9</li>
+                        <li>Microsoft Lync</li>
+                        <li>Microsoft Office Suite</li>
+                            <ul>
+                                <li>Microsoft Excel</li>
+                                <li>Microsoft Outlook</li>
+                                <li>Microsoft PowerPoint</li>
+                                <li>Microsoft Word</li>
+                                <li>Microsoft Database Utility</li>
+                                <li>Microsoft Lanuger Register</li>
+                                <li>Microsoft Office Reminders</li><li>Microsoft Query</li><li>Solver</li>
+                            </ul>
+                        <li>TextMate</li>
+                        <li>TextWrangler</li>
+                        <li>VLC media player</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="DLComputerModal" tabindex="-1" role="dialog" aria-labelledby="DLComputerLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="DLComputerLabel">Software</h4>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li>Adobe Acrobat X Pro</li>
+                        <li>Adobe Reader XI</li>
+                        <li>ArcGIS</li>
+                        <li>Business Explorer</li>
+                        <li>DNA Master</li>
+                        <li>IBM SPSS Statistics 21</li>
+                        <li>ImageJ</li>
+                        <li>jGRASP</li>
+                        <li>Maple 17</li>
+                        <li>Microsoft Expression</li>
+                        <li>Microsoft Office 2010</li>
+                        <li>Miscrsoft Visual Studio 2012</li>
+                        <li>MINITAB 14 Student</li>
+                        <li>Notepad++</li>
+                        <li>Pharos</li>
+                        <li>QuickTime</li>
+                        <li>SAP Front End</li>
+                        <li>SAS</li>
+                        <li>SharePoint</li>
+                        <li>SigmaPlot</li>
+                        <li>Sketchpad</li>
+                        <li>WinZip</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="main.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
- <!--   <script>
-        if(Modernizr.flexbox){
-            alert("we have flex box enable!");
+    <script>
+        var debug = false;
+
+        if(!Modernizr.svg || debug){
+            $('.nosvgcontainer').show();
+            $('.fill').removeClass('fill');
+            $('.main').hide();
+            $(".floor").on('click', function(event){
+                event.preventDefault();
+                //originInfo();
+                var map = $(this).data('map');
+                var pic = map.replace('svg','png');
+                var img = $('<img>').attr('src',pic).addClass('nosvg');
+                $('.nosvgcontainer').html(img);
+                //img.height($('.nosvgcontainer').height());
+                img.width($('.nosvgcontainer').width());
+            })
+        } else {
+            if(Modernizr.flexbox){
+                $(".detail").height($("#svgdata").height());
+            }
         }
-    </script> -->
+    </script>
 </body>
 </html>

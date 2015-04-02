@@ -147,6 +147,16 @@
                 "(610) 660-2164"
             ]
         },
+        "ILL":{
+            "title":"Alexandra Williams",
+            "picture":"alexWilliams.jpg",
+            "detail":[
+                "Interlibrary Loan Coordinator<br>",
+                "Contact:<br>",
+                "<a href=\"mailto:awilliam@sju.edu\">awilliam@sju.edu</a><br>",
+                "(610) 660-1907"
+            ]
+        },
         "room115":{
             "title":"Susan Clayton",
             "picture":"susanClayton.JPG",
@@ -165,7 +175,12 @@
         "DComputer1":{
             "title":"Computers",
             "picture":"DComputer1.JPG",
-            "detail":"to be filled..."
+            "detail":"Computer with Windows 7 Professional Operating System.",
+            "further":{
+                "link":"<a href=\"#DLComputerModal\" data-toggle=\"modal\" data-target=\"#DLComputerModal\"></a>",
+                "click":"Check the software installed"
+            }
+
         },
         "DVDPlayStation":{
             "title":"DVD Playstation",
@@ -200,7 +215,20 @@
         "Dcomputers":{
             "title":"Computer Area",
             "picture":"Dcomputers.JPG",
-            "detail":"to be filled..."
+            "detail":"Computer with Windows 7 Professional Operating System.",
+            "further":{
+                "link":"<a href=\"#DLComputerModal\" data-toggle=\"modal\" data-target=\"#DLComputerModal\"></a>",
+                "click":"Check the software installed"
+            }
+        },
+        "ATDL":{
+            "title":"Academic Technology and Distributed Learning department",
+            "picture":"ATDL.jpg",
+            "detail":"Promote and support the innovative use of academic technologies by the faculty to enhance teaching and learning, regardless of delivery modes.",
+            "further":{
+                "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+                "click":"Visit our website"
+            }
         },
         "room214":{
             "title":"Group Study Room (Room 214)",
@@ -240,7 +268,7 @@
         "CMC":{
             "title":"Curriculum Materials Center",
             "picture":"CMC.JPG",
-            "detail":"1 conference table, 4 small tables, 31 chairs"
+            "detail":"The CMC has a large selection of children's literature as well as a collection of textbooks and instructional materials for grades PreK-12."
         },
         "CampbellCollection":{
             "title":"Food Marketing Campbell Collection",
@@ -350,15 +378,32 @@
                 "click":"About me"
             }
         },
+        "room128":{
+            "title":"The Writing Center",
+            "picture":"loading.gif",
+            "detail":"Students may also make appointments by calling the Writing Center or by dropping by.",
+            "further":{
+                "link":"<a href=\"http://www.sju.edu/int/academics/cas/english/writingcenter/index.html\" target=\"_blank\"></a>",
+                "click":"Visit our website"
+            }
+        },
         "Win":{
             "title":"Windows Computers",
             "picture":"windows.JPG",
-            "detail":"to be filled..."
+            "detail":"Computer with Windows 7 Professional Operating System",
+            "further":{
+                "link":"<a href=\"#PLCWinModal\" data-toggle=\"modal\" data-target=\"#PLCWinModal\"></a>",
+                "click":"Check the software installed"
+            }
         },
         "Mac":{
             "title":"iMacs",
             "picture":"Mac.JPG",
-            "detail":"to be filled..."
+            "detail":"iMac Computers",
+            "further":{
+                "link":"<a href=\"#PLCMacModal\" data-toggle=\"modal\" data-target=\"#PLCMacModal\"></a>",
+                "click":"Check the software installed"
+            }
         },
         "newAC":{
             "title": "New Acquisitions",
@@ -383,7 +428,7 @@
         "restArea":{
             "title":"Popular Reading Lounge",
             "picture":"restArea.JPG",
-            "detail":"to be filled..."
+            "detail":"Popular reading book shelf and comfortable seats."
         },
         "openStudyArea1":{
             "title":"Open Study Area",
@@ -468,7 +513,7 @@
             }
         },
         "room234":{
-            "title":"Presentation Capture Suits",
+            "title":"Presentation Capture Suites",
             "picture":"presentationCaptureRoom.png",
             "detail":[
                 "The Presentation Capture Room is a private area for practicing, displaying, and recording presentations.",

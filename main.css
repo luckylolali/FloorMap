@@ -75,6 +75,15 @@ div.col-sm-9{
     width:100%;
 }
 
+.nosvgcontainer{
+    display: none;
+}
+
+.nosvg{
+    height: 100%;
+    margin: 0 auto;
+}
+
 html, body {
    height: 100%;
 }
@@ -110,7 +119,7 @@ html, body {
    .main{
 	flex-direction: column;
     -webkit-flex-direction: column; /* NEW CHROME */
-       -ms-flex-direction: column; /* TWEENER IE 10 */
+    -ms-flex-direction: column; /* TWEENER IE 10 */
     -webkit-align-self: flex-start;
    }
    .leftbar{

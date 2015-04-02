@@ -14,21 +14,21 @@ $(document).ready(function(){
 
     $("#roomPic").hide();
 
-    $('.building').on('click',function(event){
+ /*   $('.building').on('click',function(event){
         event.preventDefault();
         originInfo();
         loadSvg($(this).data('map'));
         var id = $(this).attr("href");
         $(id).find('li').removeClass('active');
         $(id).find('li:first-child').addClass('active');
-    });
+    });*/
 
     $(".floor").on('click', function(event){
         event.preventDefault();
         originInfo();
         loadSvg($(this).data('map'));
-        $(this).parent().parent().find('li').removeClass('active');
-        $(this).parent().addClass('active');
+        //$(this).parent().parent().find('li').removeClass('active');
+        //$(this).parent().addClass('active');
 
     })
 
@@ -45,6 +45,29 @@ function originInfo(){
 }
 
 function loadSvg(filename){
+    $('.active').removeClass('active');
+    /*Mark which floor is displaying */
+    if(filename.indexOf('D') >= 0){
+        $('#DL').addClass('active');
+        $('#pane1').addClass('active');
+        if(filename.indexOf("1") >= 0){
+            $('#DL1').addClass('active');
+        } else if(filename.indexOf('2') >= 0){
+            $('#DL2').addClass('active');
+        } else{
+            $('#DL3').addClass('active');
+        }
+    } else {
+        $('#PLC').addClass('active');
+        $('#pane2').addClass('active');
+        if(filename.indexOf("1") >= 0){
+            $('#PLC1').addClass('active');
+        } else if(filename.indexOf('2') >= 0){
+            $('#PLC2').addClass('active');
+        } else{
+            $('#PLC3').addClass('active');
+        }
+    }
     /*Show the detail infomation when a svg element is chosen. */
     var showDetail = function(){
         var roomNum = $(this).attr('id');
@@ -113,6 +136,13 @@ function loadSvg(filename){
                     originInfo();
                 }
 
+            });
+            /*Go to the other side of the building*/
+            $("#active > a").on('click', function(event){
+                event.preventDefault();
+                originInfo();
+                var link = $(this).attr("xlink:href");
+                loadSvg(link);
             });
 
             $( "#roomLink > a" ).on("click", function( event ) {
