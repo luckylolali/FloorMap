@@ -5,10 +5,6 @@
 .clean{
     min-height: 70px;
 }
-/*
-.map,.info{
-	height: 80%;
-}*/
 
 .act {
     fill-opacity: 0.2;
@@ -26,15 +22,10 @@
     text-align: center;
 }
 #roomPic > img{
-    //width: 100%;
     max-width: 100%;
     max-height: 250px;
     display: none;
 }
-
-/*#roomDetail > h5{
-    margin: 0;
-}*/
 
 svg {
     max-width: 100%;
@@ -82,6 +73,7 @@ div.col-sm-9{
 .nosvg{
     height: 100%;
     margin: 0 auto;
+    border: 1px solid #bce8f1;
 }
 
 html, body {

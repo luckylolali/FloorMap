@@ -70,7 +70,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-xs-12 nosvgcontainer"></div>
+        <div class="col-xs-12 nosvgcontainer">
+            <img src="pic/DrexelFloor1.png" class="nosvg">
+        </div>
     </div>
     <div class="clean"></div>
     <footer class="footer navbar navbar-default navbar-fixed-bottom">
@@ -273,30 +275,7 @@
 
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="main.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script>
-        var debug = false;
-
-        if(!Modernizr.svg || debug){
-            $('.nosvgcontainer').show();
-            $('.fill').removeClass('fill');
-            $('.main').hide();
-            $(".floor").on('click', function(event){
-                event.preventDefault();
-                //originInfo();
-                var map = $(this).data('map');
-                var pic = map.replace('svg','png');
-                var img = $('<img>').attr('src',pic).addClass('nosvg');
-                $('.nosvgcontainer').html(img);
-                //img.height($('.nosvgcontainer').height());
-                img.width($('.nosvgcontainer').width());
-            })
-        } else {
-            if(Modernizr.flexbox){
-                $(".detail").height($("#svgdata").height());
-            }
-        }
-    </script>
+    <script src="main.js"></script>
 </body>
 </html>

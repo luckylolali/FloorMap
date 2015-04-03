@@ -4,34 +4,39 @@
 var json = null;
 
 $(document).ready(function(){
-    //load json data
-    $.getJSON('roomInfo.json',function(result){
-        json = result;
-    });
+    if(!Modernizr.svg){
+        $('.fill').removeClass('fill');
+        $('.main').hide();
+        $('.nosvgcontainer').show();
+        $('.nosvgcontainer > img').width($('.nosvgcontainer').width());
+        $(".floor").on('click', function(event){
+            event.preventDefault();
+            var map = $(this).data('map');
+            markActiveClass(map);
+            var pic = map.replace('svg','png');
+            $('.nosvgcontainer').find('img').attr('src','pic/' + pic);
+        });
+    } else {
+        if(!Modernizr.flexbox){
+            $(".detail").height($("#svgdata").height());
+        } else {
+            //load JSON data
+            $.getJSON('roomInfo.json',function(result){
+                json = result;
+            });
 
-    //load default img
-    loadSvg("DrexelFloor1.svg");
+            //load default map
+            loadSvg("DrexelFloor1.svg");
 
-    $("#roomPic").hide();
+            $("#roomPic").hide();
 
- /*   $('.building').on('click',function(event){
-        event.preventDefault();
-        originInfo();
-        loadSvg($(this).data('map'));
-        var id = $(this).attr("href");
-        $(id).find('li').removeClass('active');
-        $(id).find('li:first-child').addClass('active');
-    });*/
-
-    $(".floor").on('click', function(event){
-        event.preventDefault();
-        originInfo();
-        loadSvg($(this).data('map'));
-        //$(this).parent().parent().find('li').removeClass('active');
-        //$(this).parent().addClass('active');
-
-    })
-
+            $(".floor").on('click', function(event){
+                event.preventDefault();
+                originInfo();
+                loadSvg($(this).data('map'))
+            })
+        }
+    }
 });
 
 /*This function can show the original information at the info detail panel. */
@@ -44,7 +49,7 @@ function originInfo(){
     detail.find(".room").empty();
 }
 
-function loadSvg(filename){
+function markActiveClass(filename){
     $('.active').removeClass('active');
     /*Mark which floor is displaying */
     if(filename.indexOf('D') >= 0){
@@ -68,6 +73,10 @@ function loadSvg(filename){
             $('#PLC3').addClass('active');
         }
     }
+}
+
+function loadSvg(filename){
+    markActiveClass(filename);
     /*Show the detail infomation when a svg element is chosen. */
     var showDetail = function(){
         var roomNum = $(this).attr('id');
@@ -105,8 +114,8 @@ function loadSvg(filename){
                 .attr("class", "act");
 
             $('#svgdata').empty().append(data);
-            $(".act").on("click",function(){
 
+            $(".act").on("click",function(){
                 var highLight = $(".highlight");
                 if(highLight.length > 0) {
                     //if this has a highlight class, remove it
@@ -144,12 +153,6 @@ function loadSvg(filename){
                 var link = $(this).attr("xlink:href");
                 loadSvg(link);
             });
-
-            $( "#roomLink > a" ).on("click", function( event ) {
-                event.preventDefault();
-            });
-
-            //$(".detail").height($("#svgdata").height());
         }
     })
 }
