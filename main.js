@@ -3,7 +3,13 @@
  */
 var json = null;
 
+var tags = new Array();
+
 $(document).ready(function(){
+    var hashTag = location.hash;
+    hashTag = hashTag.replace(/#*/, '');
+    tags = hashTag.split("&");
+    var current = tags[0] || "DrexelFloor1";
     if(!Modernizr.svg){
         $('.fill').removeClass('fill');
         $('.main').hide();
@@ -13,8 +19,8 @@ $(document).ready(function(){
             event.preventDefault();
             var map = $(this).data('map');
             markActiveClass(map);
-            var pic = map.replace('svg','png');
-            $('.nosvgcontainer').find('img').attr('src','pic/' + pic);
+            //var pic = map.replace('svg','png');
+            $('.nosvgcontainer').find('img').attr('src','pic/' + pic + '.png');
         });
     } else {
         if(!Modernizr.flexbox){
@@ -26,18 +32,22 @@ $(document).ready(function(){
             });
 
             //load default map
-            loadSvg("DrexelFloor1.svg");
+            loadSvg(current + '.svg');
 
-            $("#roomPic").hide();
+            //$("#roomPic").hide();
 
             $(".floor").on('click', function(event){
                 event.preventDefault();
                 originInfo();
-                loadSvg($(this).data('map'))
+                var map = $(this).data('map');
+                //set hash tag
+                window.location.hash = map;
+                loadSvg(map + '.svg');
             })
         }
     }
 });
+
 
 /*This function can show the original information at the info detail panel. */
 function originInfo(){
@@ -109,31 +119,46 @@ function loadSvg(filename){
         success: function(result){
             var data = $(result).find('svg');
             data.attr("width", "100%").attr("height", "100%");
-	        data.find("[id=active]")
+            data.find("[id=active]")
                 .find("[id]")
                 .attr("class", "act");
 
             $('#svgdata').empty().append(data);
+            originInfo();
+
+            if(tags[1] != null ){
+                var current = $('#'+ tags[1]);
+                $('#'+ tags[1]).attr("class", "act highlight");
+                showDetail.call(current);
+            }
 
             $(".act").on("click",function(){
                 var highLight = $(".highlight");
+                var hashTag = location.hash;
                 if(highLight.length > 0) {
+                    var end = hashTag.indexOf('&');
+                    hashTag = hashTag.slice(0,end);
                     //if this has a highlight class, remove it
                     if(/(^|\s)highlight(\s|$)/.test($(this).attr("class"))){
                         $(this).attr("class","act");
+
                     } else {
                         //remove highlight class from other element
                         $(".highlight").attr("class","act");
                         //add highlight class to this
                         $(this).attr("class", "act highlight");
+                        hashTag =hashTag + "&" + $(this).attr('id');
                         showDetail.call($(this));
                     }
 
                 } else {
                     $(this).attr("class", "act highlight");
+
+                    hashTag =hashTag + "&" + $(this).attr('id');
+
                     showDetail.call($(this));
                 }
-
+                location.hash = hashTag;
             });
             $(".act").on('mouseenter',showDetail);
 
