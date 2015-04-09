@@ -1,8 +1,9 @@
 /**
  * Created by Elaine on 1/22/15.
  */
-var json = null;
 
+var json = null;
+//store the floor and room hash tag info
 var tags = new Array();
 
 $(document).ready(function(){
@@ -19,7 +20,6 @@ $(document).ready(function(){
             event.preventDefault();
             var map = $(this).data('map');
             markActiveClass(map);
-            //var pic = map.replace('svg','png');
             $('.nosvgcontainer').find('img').attr('src','pic/' + pic + '.png');
         });
     } else {
@@ -30,19 +30,17 @@ $(document).ready(function(){
             $.getJSON('roomInfo.json',function(result){
                 json = result;
             });
-
             //load default map
             loadSvg(current + '.svg');
-
-            //$("#roomPic").hide();
 
             $(".floor").on('click', function(event){
                 event.preventDefault();
                 originInfo();
                 var map = $(this).data('map');
                 //set hash tag
-                window.location.hash = map;
+                //window.location.hash = map;
                 loadSvg(map + '.svg');
+                setHashTag();
             })
         }
     }
@@ -67,21 +65,35 @@ function markActiveClass(filename){
         $('#pane1').addClass('active');
         if(filename.indexOf("1") >= 0){
             $('#DL1').addClass('active');
+            tags[0] = "DrexelFloor1";
         } else if(filename.indexOf('2') >= 0){
             $('#DL2').addClass('active');
+            tags[0] = "DrexelFloor2";
         } else{
             $('#DL3').addClass('active');
+            tags[0] = "DrexelFloor3";
         }
     } else {
         $('#PLC').addClass('active');
         $('#pane2').addClass('active');
         if(filename.indexOf("1") >= 0){
             $('#PLC1').addClass('active');
+            tags[0] = "PostFloor1";
         } else if(filename.indexOf('2') >= 0){
             $('#PLC2').addClass('active');
+            tags[0] = "PostFloor2";
         } else{
             $('#PLC3').addClass('active');
+            tags[0] = "PostFloor3";
         }
+    }
+}
+
+function setHashTag(){
+    if(tags[1] != null){
+        location.hash = tags[0] + '&' + tags[1];
+    } else {
+        location.hash = tags[0]
     }
 }
 
@@ -124,42 +136,38 @@ function loadSvg(filename){
                 .attr("class", "act");
 
             $('#svgdata').empty().append(data);
+
             originInfo();
 
             if(tags[1] != null ){
                 var current = $('#'+ tags[1]);
-                $('#'+ tags[1]).attr("class", "act highlight");
+                current.attr("class", "act highlight");
                 showDetail.call(current);
             }
 
             $(".act").on("click",function(){
                 var highLight = $(".highlight");
-                var hashTag = location.hash;
                 if(highLight.length > 0) {
-                    var end = hashTag.indexOf('&');
-                    hashTag = hashTag.slice(0,end);
                     //if this has a highlight class, remove it
                     if(/(^|\s)highlight(\s|$)/.test($(this).attr("class"))){
                         $(this).attr("class","act");
-
+                        tags[1] = null;
                     } else {
                         //remove highlight class from other element
                         $(".highlight").attr("class","act");
                         //add highlight class to this
                         $(this).attr("class", "act highlight");
-                        hashTag =hashTag + "&" + $(this).attr('id');
+                        tags[1] = $(this).attr('id');
                         showDetail.call($(this));
                     }
-
                 } else {
                     $(this).attr("class", "act highlight");
-
-                    hashTag =hashTag + "&" + $(this).attr('id');
-
+                    tags[1] = $(this).attr('id');
                     showDetail.call($(this));
                 }
-                location.hash = hashTag;
+                setHashTag();
             });
+
             $(".act").on('mouseenter',showDetail);
 
             $(".act").on("mouseleave",function(){
@@ -175,8 +183,11 @@ function loadSvg(filename){
             $("#active > a").on('click', function(event){
                 event.preventDefault();
                 originInfo();
+                tags[1] = null;
+                setHashTag();
                 var link = $(this).attr("xlink:href");
                 loadSvg(link);
+                setHashTag();
             });
         }
     })
