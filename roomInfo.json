@@ -1713,6 +1713,11 @@
             "title": "Scanner",
             "picture": "scanner.JPG",
             "detail": "Touchable screen and scanner machines."
+        },
+        "scannerAttached":{
+            "title": "Scanner",
+            "picture": "scannerAttached.JPG",
+            "detail": "Computer linked with scanner."
         }
     }
 }

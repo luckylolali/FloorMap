@@ -24,6 +24,7 @@ $(document).ready(function(){
         });
     } else {
         if(!Modernizr.flexbox){
+            alert('flexbox is not supported.');
             $(".detail").height($("#svgdata").height());
         } else {
             //load JSON data
@@ -40,6 +41,7 @@ $(document).ready(function(){
                 //set hash tag
                 //window.location.hash = map;
                 loadSvg(map + '.svg');
+                tags[1] = null;
                 setHashTag();
             })
         }

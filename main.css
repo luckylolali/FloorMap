@@ -102,6 +102,12 @@ html, body {
     outline:0;
 }
 
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 
 /*responsive design for tablet*/
 @media screen and (max-width: 767px){
@@ -165,12 +171,21 @@ html, body {
     }
    .fill{
        min-height: 350px;
-       height: calc(100% + 20px);
+       /*height: calc(100% + 20px);*/
    }
 
    .leftbar{
        height:auto;
        min-height: 180px;
    }
+    .rightbar{
+        height: auto;
+        min-height: 170px;
+    }
+
+    #libHome{
+        padding-top: 25px;
+    }
+
 }
 
