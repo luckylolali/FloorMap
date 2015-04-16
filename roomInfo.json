@@ -274,11 +274,16 @@
             "title":"Food Marketing Campbell Collection",
             "picture":"CampbellCollection.JPG",
             "detail":[
-                "4 long tables, 32 chairs, 3 small tables, 12 chairs, various comfortable chairs<br>",
-                "17 workstations, 13 computers"
+                "Speak to our librarians:<br>",
+                "<h5>Elana Sisti</h5>",
+                "<a href=\"mailto:esisti@sju.edu\">esisti@sju.edu</a><br>",
+                "(610) 660-1195<br>",
+                "<h5>Sonia Jeremiah-Bennett</h5>",
+                "<a href=\"mailto:sbennett@sju.edu\">sbennett@sju.edu</a><br>",
+                "(610) 660-1195"
             ],
             "further": {
-                "link":"<a href=\"http://www.sju.edu/int/resources/libraries/campbell/index.html\" target=\"_blank\"></a>",
+                "link":"<br><a href=\"http://www.sju.edu/int/resources/libraries/campbell/index.html\" target=\"_blank\"></a>",
                 "click": "Further Info"
             }
         },

@@ -26,6 +26,10 @@
     max-height: 250px;
     display: none;
 }
+#roomDetail h5{
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
 
 svg {
     max-width: 100%;
