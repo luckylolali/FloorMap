@@ -3,17 +3,17 @@
         "room122":{
             "title":"Group Study Room (Room 122)",
             "picture":"room122.JPG",
-            "detail":"This group study room has a white board, VHS/DVD player, and monitor for collaborating on projects.<br/>6 seats."
+            "detail":"Contains a white board, VHS/DVD player, and monitor for collaborating on projects.<br/>6 seats."
         },
         "room121":{
             "title":"Group Study Room (Room 121)",
             "picture":"room121.JPG",
-            "detail":"This group study room has a white board for collaborating on projects.<br/>7 seats."
+            "detail":"Contains a white board for collaborating on projects.<br/>7 seats."
         },
         "DrexelPrinter":{
             "title":"Print Area",
             "picture":"drexelPrinter.JPG",
-            "detail":"This area have printers and copy machines."
+            "detail":"Printers and photocopiers."
         },
         "room119":{
             "title":"Conference Room",
@@ -193,9 +193,9 @@
             "detail":"to be filled..."
         },
         "referenceDesk":{
-            "title":"Reference Desk",
+            "title":"Research Help desk",
             "picture":"referenceDesk.JPG",
-            "detail":"to be filled..."
+            "detail":"Speak with a librarian"
         },
         "circulationDesk":{
             "title":"Circulation Desk",
@@ -203,12 +203,12 @@
             "detail":"to be filled..."
         },
         "studyStation":{
-            "title":"Carrells",
+            "title":"Carrels",
             "picture":"studyStation.JPG",
-            "detail":"Carrells for individual quiet study."
+            "detail":"Carrels for individual quiet study."
         },
         "studyStation1":{
-            "title":"Carrells",
+            "title":"Carrels",
             "picture":"studyStation1.JPG",
             "detail":"8 carrels, 8 chairs"
         },
@@ -233,13 +233,13 @@
         "room214":{
             "title":"Group Study Room (Room 214)",
             "picture":"room214.JPG",
-            "detail":"This group study room has a white board for collaborating on projects.<br/>12 seats."
+            "detail":"Contains a white board for collaborating on projects.<br/>12 seats."
         },
         "room215":{
             "title":"Thomas D. Marzik Study Room (Room 215)",
             "picture":"room215.JPG",
             "detail":[
-                "This group study room has a white board for collaborating on projects.<br/>",
+                "Contains a white board for collaborating on projects.<br/>",
                 "10 seats.<br/>",
                 "GIFT OF<br>",
                 "Linda and Randall M. Miller, Ph.D."
@@ -248,22 +248,22 @@
         "room216":{
             "title":"Group Study Room (Room 216)",
             "picture":"room216.JPG",
-            "detail":"This group study room has 5 seats for collaborating on projects."
+            "detail":"Contains 5 seats for collaborating on projects."
         },
         "room217":{
             "title":"Group Study Room (Room 217)",
             "picture":"room216.JPG",
-            "detail":"This group study room has 5 seats for collaborating on projects."
+            "detail":"Contains 5 seats for collaborating on projects."
         },
         "room219":{
             "title":"Group Study Room (Room 219)",
             "picture":"room216.JPG",
-            "detail":"This group study room has 6 seats for collaborating on projects."
+            "detail":"Contains 6 seats for collaborating on projects."
         },
         "room220":{
             "title":"Group Study Room (Room 220)",
             "picture":"room220.JPG",
-            "detail":"This group study room has a white board and a monitor for collaborating on projects.<br/>10 seats."
+            "detail":"Contains a white board and a monitor for collaborating on projects.<br/>10 seats."
         },
         "CMC":{
             "title":"Curriculum Materials Center",
@@ -300,27 +300,27 @@
         "room140":{
             "title": "Group Study Room (Room 140)",
             "picture": "room144.JPG",
-            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board for collaborating on projects.<br/>5 seats."
         },
         "room141":{
             "title": "Group Study Room (Room 141)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room142":{
             "title": "Group study Room (Room 142)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room143":{
             "title": "Group study Room (Room 143)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room144":{
             "title": "Group study Room (Room 144)",
             "picture": "room144.JPG",
-            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats"
+            "detail": "Contains a white board for collaborating on projects.<br/>5 seats"
         },
         "room130":{
             "title":"Naomi Cohen",
@@ -413,7 +413,7 @@
         "PostPrinter":{
             "title":"Print Area",
             "picture":"postPrinter.JPG",
-            "detail":"This area has 4 printers."
+            "detail":"Printers and photocopiers."
         },
         "cafe":{
             "title":"Café",
@@ -551,27 +551,27 @@
         "room340":{
             "title": "Group Study Room (Room 340)",
             "picture": "room144.JPG",
-            "detail": "This group study room has a white board for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board for collaborating on projects.<br/>5 seats."
         },
         "room341":{
             "title": "Group Study Room (Room 341)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>4 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>4 seats."
         },
         "room342":{
             "title": "Group study Room (Room 342)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room343":{
             "title": "Group study Room (Room 343)",
             "picture": "room142.JPG",
-            "detail": "This group study room has a white board and a monitor for collaborating on projects.<br/>5 seats."
+            "detail": "Contains a white board and a monitor for collaborating on projects.<br/>5 seats."
         },
         "room344":{
             "title": "Group study Room (Room 344)",
             "picture": "room144.JPG",
-            "detail": "This group study room has a white board for collaborating on projects.<br/>4 seats"
+            "detail": "Contains a white board for collaborating on projects.<br/>4 seats"
         },
         "GMHCollection":{
             "title":"Gerard Manley Hopkins, S.J. Special Collection",
@@ -589,14 +589,14 @@
             "detail":"to be filled..."
         },
         "studyStation3":{
-            "title":"Carrells",
+            "title":"Carrels",
             "picture":"studyStation3.JPG",
-            "detail":"Study station and chairs for individual study."
+            "detail":"Carrels for individual study."
         },
         "s1": {
             "title": "OVERSIZED BOOKS",
             "picture": "oversized.JPG",
-            "detail": "Call No.<br>Folio A To Folio Z",
+            "detail": "Call No.<br>Folio A to Folio Z",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -605,7 +605,7 @@
         "s2": {
             "title": "OVERSIZED BOOKS",
             "picture": "oversized.JPG",
-            "detail": "Call NO.<br>AC1.A67 To B1.M35",
+            "detail": "Call NO.<br>AC1.A67 to B1.M35",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -614,7 +614,7 @@
         "s3": {
             "title": "PHILOSOPHY",
             "picture": "philosophy.JPG",
-            "detail": "Call No.<br>B1.M47 To B21.T48<br>B21.T91 To B738.S68",
+            "detail": "Call No.<br>B1.M47 to B21.T48<br>B21.T91 to B738.S68",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -623,7 +623,7 @@
         "s4": {
             "title": "PHILOSOPHY",
             "picture": "philosophy.JPG",
-            "detail": "Call No.<br>B740.174 To B851.w5<br>B851.W77 To B2430.T373 H9",
+            "detail": "Call No.<br>B740.174 to B851.w5<br>B851.W77 to B2430.T373 H9",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -632,7 +632,7 @@
         "s5": {
             "title": "PHILOSOPHY",
             "picture": "philosophy.JPG",
-            "detail": "Call No.<br>B2430.T373 S4 To B3501.H45<br>B3580 N48 To BD232 J68",
+            "detail": "Call No.<br>B2430.T373 S4 to B3501.H45<br>B3580 N48 to BD232 J68",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -641,7 +641,7 @@
         "s6": {
             "title": "PSYCHOLOGY",
             "picture": "psychology.JPG",
-            "detail": "Call No.<br>BD232 K79 To BF1 J66 J<br>BF1J66J  To BF 161 D46",
+            "detail": "Call No.<br>BD232 K79 to BF1 J66 J<br>BF1J66J  to BF 161 D46",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -650,7 +650,7 @@
         "s7": {
             "title": "PSYCHOLOGY",
             "picture": "psychology.JPG",
-            "detail": "Call No.<br>BF 311 P4 To BF 697 A35<br>BF 161 F21M To BF 311 P4",
+            "detail": "Call No.<br>BF 311 P4 to BF 697 A35<br>BF 161 F21M to BF 311 P4",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -659,7 +659,7 @@
         "s8": {
             "title": "PSYCHOLOGY",
             "picture": "psychology.JPG",
-            "detail": "Call No.<br>BJ 1 E8 To BL 1 H5<br>BF 697 .A22 To BJ 1 .D38",
+            "detail": "Call No.<br>BJ 1 E8 to BL 1 H5<br>BF 697 .A22 to BJ 1 .D38",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -668,7 +668,7 @@
         "s9": {
             "title": "PSYCHOLOGY",
             "picture": "psychology.JPG",
-            "detail": "Call No.<br>BL 240.3 H38 To BM 205 .H43<br>BL 1 .H5 To BL 240.2 .Z9",
+            "detail": "Call No.<br>BL 240.3 H38 to BM 205 .H43<br>BL 1 .H5 to BL 240.2 .Z9",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -677,7 +677,7 @@
         "s10": {
             "title": "PSYCHOLOGY",
             "picture": "psychology.JPG",
-            "detail": "Call No.<br>BR 1A5 To BR 60 C807<br>BM 205 M67 To BR 1 A1 E55",
+            "detail": "Call No.<br>BR 1A5 to BR 60 C807<br>BM 205 M67 to BR 1 A1 E55",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -686,7 +686,7 @@
         "s11": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BR 60 .C8 tO BR 145 .S3<br>BR 145.2 B33 To BR 794 .C38",
+            "detail": "Call No.<br>BR 60 .C8 tO BR 145 .S3<br>BR 145.2 B33 to BR 794 .C38",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -695,7 +695,7 @@
         "s12": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BR794.G6 To BS531.M87<br>BS 531 .N32 To BS 2595.2 .M48",
+            "detail": "Call No.<br>BR794.G6 to BS531.M87<br>BS 531 .N32 to BS 2595.2 .M48",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -704,7 +704,7 @@
         "s13": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BS2595.3P73 To BT301.S418<br>BT301.S54 To BV175.W67",
+            "detail": "Call No.<br>BS2595.3P73 to BT301.S418<br>BT301.S54 to BV175.W67",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -713,7 +713,7 @@
         "s14": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BV176.D58 To BX1E34<br>BX1.J6 To BX801.C78",
+            "detail": "Call No.<br>BV176.D58 to BX1E34<br>BX1.J6 to BX801.C78",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -722,7 +722,7 @@
         "s15": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BX801.C7 To BX801.P6<br>BX801.P6 To BX922.W5",
+            "detail": "Call No.<br>BX801.C7 to BX801.P6<br>BX801.P6 to BX922.W5",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -731,7 +731,7 @@
         "s16": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BX923.H76 To BX1491.A1<br>BX1491.A43 To BX1970.A1E63",
+            "detail": "Call No.<br>BX923.H76 to BX1491.A1<br>BX1491.A43 to BX1970.A1E63",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -740,7 +740,7 @@
         "s17": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BX 1970.A1 To BX 2350.M5<br>BX 2435.L42513 To BX 4655.A3<br>BX 2350.M54 To BX 2350.5M2<br>BX 2350.5 To BX 2435.H52",
+            "detail": "Call No.<br>BX 1970.A1 to BX 2350.M5<br>BX 2435.L42513 to BX 4655.A3<br>BX 2350.M54 to BX 2350.5M2<br>BX 2350.5 to BX 2435.H52",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -749,7 +749,7 @@
         "s18": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BX 4655.A3 To BX 4705.C3134<br>BX4705.C33 To BX4705.N5<br>BX4705.N5 To BX5133.B87",
+            "detail": "Call No.<br>BX 4655.A3 to BX 4705.C3134<br>BX4705.C33 to BX4705.N5<br>BX4705.N5 to BX5133.B87",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -758,7 +758,7 @@
         "s19": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>BX5133.D6 To BX8947.I6<br>BX8952.L82 To CB245.K32",
+            "detail": "Call No.<br>BX5133.D6 to BX8947.I6<br>BX8952.L82 to CB245.K32",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -767,7 +767,7 @@
         "s20": {
             "title": "RELIGION",
             "picture": "religion.JPG",
-            "detail": "Call No.<br>CB 245.K32 To CD 950.S3<br>CD950.S3 To CT9990.W19",
+            "detail": "Call No.<br>CB 245.K32 to CD 950.S3<br>CD950.S3 to CT9990.W19",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -776,7 +776,7 @@
         "s21": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>D1.C27 To D1.J6<br>D1.J6 To D105.S39<br>D15.B61 To D105.S39",
+            "detail": "Call No.<br>D1.C27 to D1.J6<br>D1.J6 to D105.S39<br>D15.B61 to D105.S39",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -785,7 +785,7 @@
         "s22": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>D106.B61 To D410.C38<br>D410.C39 To D521.M4<br>D106.B61 To D257.25.S34<br>D410.J64 To D521.M4",
+            "detail": "Call No.<br>D106.B61 to D410.C38<br>D410.C39 to D521.M4<br>D106.B61 to D257.25.S34<br>D410.J64 to D521.M4",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -794,7 +794,7 @@
         "s23": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>D 521.R45 To D 743.B13<br>D 820.P72 To D 972.M75<br>D 748.L3 To D 773.M86<br>D 773.M86 To D 820.P72",
+            "detail": "Call No.<br>D 521.R45 to D 743.B13<br>D 820.P72 to D 972.M75<br>D 748.L3 to D 773.M86<br>D 773.M86 to D 820.P72",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -803,7 +803,7 @@
         "s24": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>D 972.S5 To DA 32.C95S<br>DA 32.C9553 To DA 195.B344<br>DA 195.B344 To DA 355.A5 1821",
+            "detail": "Call No.<br>D 972.S5 to DA 32.C95S<br>DA 32.C9553 to DA 195.B344<br>DA 195.B344 to DA 355.A5 1821",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -812,7 +812,7 @@
         "s25": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>DA 355.B44 To DA445.C45<br>DA445.C66 To DA506.A78",
+            "detail": "Call No.<br>DA 355.B44 to DA445.C45<br>DA445.C66 to DA506.A78",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -821,7 +821,7 @@
         "s26": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>DA506.B25 To DA550.B86<br>DA550.B96 To DA566.7.A18",
+            "detail": "Call No.<br>DA506.B25 to DA550.B86<br>DA550.B96 to DA566.7.A18",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -830,7 +830,7 @@
         "s27": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>DA566.7.A18 To DA586.C63<br>DA 589.7.B76 To DA 750.S21<br>DA 750.S25 To DB 35.5B64",
+            "detail": "Call No.<br>DA566.7.A18 to DA586.C63<br>DA 589.7.B76 to DA 750.S21<br>DA 750.S25 to DB 35.5B64",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -839,7 +839,7 @@
         "s28": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>DB 35.5.B64 To DC 3.C45<br>DC 148.M18 To DC 600.L34<br>DC 6.C95 To DC 111.R67<br>DC 111.T47 To DC 148.L48",
+            "detail": "Call No.<br>DB 35.5.B64 to DC 3.C45<br>DC 148.M18 to DC 600.L34<br>DC 6.C95 to DC 111.R67<br>DC 111.T47 to DC 148.L48",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -848,7 +848,7 @@
         "s29": {
             "title": "EUROPEAN HISTORY",
             "picture": "europeanHistory.JPG",
-            "detail": "Call No.<br>DC 611.B395 To DD 21.5H34<br>DD 261.7H66 To DF 605.C43<br>DD 221.5339 To DD 247.S32L<br>DD 247.S335 To DD 261.4H23",
+            "detail": "Call No.<br>DC 611.B395 to DD 21.5H34<br>DD 261.7H66 to DF 605.C43<br>DD 221.5339 to DD 247.S32L<br>DD 247.S335 to DD 261.4H23",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -857,7 +857,7 @@
         "s30": {
             "title": "WORLD HISTORY",
             "picture": "worldHistory.JPG",
-            "detail": "Call No.<br>DF 605.C6 To DG 467.M15<br>DK 131.S95 To DK 266.A2<br>DH 523.E7 To DK 266.A2<br>DG 467.S18 To DH 521.M49",
+            "detail": "Call No.<br>DF 605.C6 to DG 467.M15<br>DK 131.S95 to DK 266.A2<br>DH 523.E7 to DK 266.A2<br>DG 467.S18 to DH 521.M49",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -866,7 +866,7 @@
         "s31": {
             "title": "WORLD HISTORY",
             "picture": "worldHistory.JPG",
-            "detail": "Call No.<br>DK 266.A2 To DK 275.K5<br>DQ 24.R77 To DR 577.T75<br>DK 4329.S8 To DQ 23.M5<br>DK 275.K5 To DK 4329.L85",
+            "detail": "Call No.<br>DK 266.A2 to DK 275.K5<br>DQ 24.R77 to DR 577.T75<br>DK 4329.S8 to DQ 23.M5<br>DK 275.K5 to DK 4329.L85",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -875,7 +875,7 @@
         "s32": {
             "title": "WORLD HISTORY",
             "picture": "worldHistory.JPG",
-            "detail": "Call No.<br>DR 701.S5 To DS 41.J6<br>DS 119.7.027 To DS 223.G56<br>DS 79.724.U6 To DS 119.7N657<br>DS 41.M533 To DS 79.724.U6",
+            "detail": "Call No.<br>DR 701.S5 to DS 41.J6<br>DS 119.7.027 to DS 223.G56<br>DS 79.724.U6 to DS 119.7N657<br>DS 41.M533 to DS 79.724.U6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -884,7 +884,7 @@
         "s33": {
             "title": "WORLD HISTORY",
             "picture": "worldHistory.JPG",
-            "detail": "Call No.<br>DS 223.H67 To DS 557.A6<br>DS 777.55S67 To DT 12.G97<br>DS 557.A76 To DS 706.M296<br>DS 736.L35 To DS 777.55S49",
+            "detail": "Call No.<br>DS 223.H67 to DS 557.A6<br>DS 777.55S67 to DT 12.G97<br>DS 557.A76 to DS 706.M296<br>DS 736.L35 to DS 777.55S49",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -893,7 +893,7 @@
         "s34": {
             "title": "WORLD HISTORY",
             "picture": "worldHistory.JPG",
-            "detail": "Call No.<br>DT 12.J68 To DT 834.M3<br>E 169.1 C97D To E 171.M28<br>DT 846.T7 To E 98.M6<br>E 98.M6 To E 169.1C97",
+            "detail": "Call No.<br>DT 12.J68 to DT 834.M3<br>E 169.1 C97D to E 171.M28<br>DT 846.T7 to E 98.M6<br>E 98.M6 to E 169.1C97",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -902,7 +902,7 @@
         "s35": {
             "title": "U.S. HISTORY",
             "picture": "usHistory.JPG",
-            "detail": "Call No.<br>E 171.P46 To E 178.B86<br>E 178.R98 To E 183.8.I55<br>E183.8.I55 To E184.J5",
+            "detail": "Call No.<br>E 171.P46 to E 178.B86<br>E 178.R98 to E 183.8.I55<br>E183.8.I55 to E184.J5",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -911,7 +911,7 @@
         "s36": {
             "title": "U.S. HISTORY",
             "picture": "usHistory.JPG",
-            "detail": "Call No.<br>E184.J5 To E185.615.L4<br>E185.615.L6 To E207.L2",
+            "detail": "Call No.<br>E184.J5 to E185.615.L4<br>E185.615.L6 to E207.L2",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -920,7 +920,7 @@
         "s37": {
             "title": "U.S. HISTORY",
             "picture": "usHistory.JPG",
-            "detail": "Call No.<br>E 207 L2 To E 302 M38<br>E 302.M74 To E 332.R93",
+            "detail": "Call No.<br>E 207 L2 to E 302 M38<br>E 302.M74 to E 332.R93",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -929,7 +929,7 @@
         "s38": {
             "title": "U.S. HISTORY",
             "picture": "usHistory.JPG",
-            "detail": "Call No.<br>E332.S2 To E415.9.M84<br>E 415.9 .P63d To E 457.91 1953<br>E 457.91 .L29 To E 746.7 .E93",
+            "detail": "Call No.<br>E332.S2 to E415.9.M84<br>E 415.9 .P63d to E 457.91 1953<br>E 457.91 .L29 to E 746.7 .E93",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -938,7 +938,7 @@
         "s39": {
             "title": "U.S. HISTORY",
             "picture": "usHistory.JPG",
-            "detail": "Call No.<br>E 664.H773.B6 To E 774.5.B27<br>E 744.5 .E45 To E785.T7<br>E 476.93 .P72 To E 664 .H74Y<br>E 786 .D86 To E 842 .W54",
+            "detail": "Call No.<br>E 664.H773.B6 to E 774.5.B27<br>E 744.5 .E45 to E785.T7<br>E 476.93 .P72 to E 664 .H74Y<br>E 786 .D86 to E 842 .W54",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -947,7 +947,7 @@
         "s40": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>E 842.1 .F95 To F 128.35 .D74W<br>F 221 .W71 To F 375 .N5 K52<br>F 128.37.F457 To F 158.37.F22<br>F 158.37.N56 To F 221.W71",
+            "detail": "Call No.<br>E 842.1 .F95 to F 128.35 .D74W<br>F 221 .W71 to F 375 .N5 K52<br>F 128.37.F457 to F 158.37.F22<br>F 158.37.N56 to F 221.W71",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -956,7 +956,7 @@
         "s41": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>F 375.T23 To F 866.J27<br>F 866.M93 To F1219.3.R38<br>F1219.3.S57 To F1401.M53",
+            "detail": "Call No.<br>F 375.T23 to F 866.J27<br>F 866.M93 to F1219.3.R38<br>F1219.3.S57 to F1401.M53",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -965,7 +965,7 @@
         "s42": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>F1401.N65 To F1414.G35<br>F1414.G66 To F1543.8.N28",
+            "detail": "Call No.<br>F1401.N65 to F1414.G35<br>F1414.G66 to F1543.8.N28",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -974,7 +974,7 @@
         "s43": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>F1544.B58 To F2237.S68<br>F2258.C64 To F3081.G46",
+            "detail": "Call No.<br>F1544.B58 to F2237.S68<br>F2258.C64 to F3081.G46",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -983,7 +983,7 @@
         "s44": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>F 3081.H48 To G 1.N27<br>G 1.N27 To G 2446.S1.M3<br>G 5741.S2 To SN 24.B2",
+            "detail": "Call No.<br>F 3081.H48 to G 1.N27<br>G 1.N27 to G 2446.S1.M3<br>G 5741.S2 to SN 24.B2",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -992,7 +992,7 @@
         "s45": {
             "title": "HISTORY OF THE AMERICAS",
             "picture": "historyOfTheAmericas.JPG",
-            "detail": "Call No.<br>GT 75 To GV 561 .S735<br>GV 561 .S735 To GV 1853.3",
+            "detail": "Call No.<br>GT 75 to GV 561 .S735<br>GV 561 .S735 to GV 1853.3",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1001,7 +1001,7 @@
         "s46": {
             "title": "ECONOMICS",
             "picture": "economics.JPG",
-            "detail": "Call No.<br>H1.A2 To HA1.R35<br>HA1.R35 To HB171.K44",
+            "detail": "Call No.<br>H1.A2 to HA1.R35<br>HA1.R35 to HB171.K44",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1010,7 +1010,7 @@
         "s47": {
             "title": "ECONOMICS",
             "picture": "economics.JPG",
-            "detail": "Call No.<br>HB171.K45 To HC65.C59<br>HC68.K57 To HC240.J57",
+            "detail": "Call No.<br>HB171.K45 to HC65.C59<br>HC68.K57 to HC240.J57",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1019,7 +1019,7 @@
         "s48": {
             "title": "ECONOMICS",
             "picture": "economics.JPG",
-            "detail": "Call No.<br>HC240.K383 To HD30.28.Q53<br>HD30.28.R418 To HD874.S75",
+            "detail": "Call No.<br>HC240.K383 to HD30.28.Q53<br>HD30.28.R418 to HD874.S75",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1028,7 +1028,7 @@
         "s49": {
             "title": "BUSINESS",
             "picture": "business.JPG",
-            "detail": "Call No.<br>HD875.B5 To HD5723.A4532<br>HD5723.L64 To HD8073.G6",
+            "detail": "Call No.<br>HD875.B5 to HD5723.A4532<br>HD5723.L64 to HD8073.G6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1037,7 +1037,7 @@
         "s50": {
             "title": "BUSINESS",
             "picture": "business.JPG",
-            "detail": "Call No.<br>HD8073.G6 To HF1041.C73<br>HF1041.C73 To HF5415.W6",
+            "detail": "Call No.<br>HD8073.G6 to HF1041.C73<br>HF1041.C73 to HF5415.W6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1046,7 +1046,7 @@
         "s51": {
             "title": "BUSINESS",
             "picture": "business.JPG",
-            "detail": "Call No.<br>HF5415.1.B48 To HF5627.C73<br>HF5627.F69 To HG2567.S85",
+            "detail": "Call No.<br>HF5415.1.B48 to HF5627.C73<br>HF5627.F69 to HG2567.S85",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1055,7 +1055,7 @@
         "s52": {
             "title": "BUSINESS",
             "picture": "business.JPG",
-            "detail": "Call No.<br>HG2569.E6 To HG4751.V47<br>HG4905.S46 To HM1.A75",
+            "detail": "Call No.<br>HG2569.E6 to HG4751.V47<br>HG4905.S46 to HM1.A75",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1064,7 +1064,7 @@
         "s53": {
             "title": "SOCIOLOGY",
             "picture": "sociology.JPG",
-            "detail": "Call No.<br>HM1.A75 To HM131.P67<br>HM131.P73 To HN1.I53",
+            "detail": "Call No.<br>HM1.A75 to HM131.P67<br>HM131.P73 to HN1.I53",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1073,7 +1073,7 @@
         "s54": {
             "title": "SOCIOLOGY",
             "picture": "sociology.JPG",
-            "detail": "Call No.<br>HN1.I53 To HN79.G42<br>HN79.G42 To HQ503.J67",
+            "detail": "Call No.<br>HN1.I53 to HN79.G42<br>HN79.G42 to HQ503.J67",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1082,7 +1082,7 @@
         "s55": {
             "title": "SOCIOLOGY",
             "picture": "sociology.JPG",
-            "detail": "Call No.<br>HQ503.M58 To HQ793.A44<br>HQ796.A3 To HQ1236.5.G7",
+            "detail": "Call No.<br>HQ503.M58 to HQ793.A44<br>HQ796.A3 to HQ1236.5.G7",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1091,7 +1091,7 @@
         "s56": {
             "title": "SOCIOLOGY",
             "picture": "sociology.JPG",
-            "detail": "Call No.<br>HQ1236.5.L37 To HT1521.E78<br>HT1521.O85 To HV6025.G4",
+            "detail": "Call No.<br>HQ1236.5.L37 to HT1521.E78<br>HT1521.O85 to HV6025.G4",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1100,7 +1100,7 @@
         "s57": {
             "title": "SOCIOLOGY",
             "picture": "sociology.JPG",
-            "detail": "Call No.<br>HV6025.G44 To HV8719.S63<br>HV8742.U52 To HX653.B92",
+            "detail": "Call No.<br>HV6025.G44 to HV8719.S63<br>HV8742.U52 to HX653.B92",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1109,7 +1109,7 @@
         "s58": {
             "title": "POLITICAL SCIENCE",
             "picture": "politicalScience.JPG",
-            "detail": "Call No.<br>HX653.C3 To JC177.B3<br>JC177.P14C To JK128.B45",
+            "detail": "Call No.<br>HX653.C3 to JC177.B3<br>JC177.P14C to JK128.B45",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1118,7 +1118,7 @@
         "s59": {
             "title": "POLITICAL SCIENCE",
             "picture": "politicalScience.JPG",
-            "detail": "Call No.<br>JK128.M3 To JK2830.M34<br>JK2830.M34 To JV6455.R45",
+            "detail": "Call No.<br>JK128.M3 to JK2830.M34<br>JK2830.M34 to JV6455.R45",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1136,7 +1136,7 @@
         "s61": {
             "title": "POLITICAL SCIENCE",
             "picture": "politicalScience.JPG",
-            "detail": "Call No.<br>K1 To KF 4581<br>KF 4600 To KZD 3489",
+            "detail": "Call No.<br>K1 to KF 4581<br>KF 4600 to KZD 3489",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1145,7 +1145,7 @@
         "s62": {
             "title": "POLITICAL SCIENCE",
             "picture": "politicalScience.JPG",
-            "detail": "Call No.<br>L 10 .E9 To L 11 .15<br>L 11 .I74 To L 13.N27",
+            "detail": "Call No.<br>L 10 .E9 to L 11 .15<br>L 11 .I74 to L 13.N27",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1154,7 +1154,7 @@
         "s63": {
             "title": "EDUCATION",
             "picture": "education.JPG",
-            "detail": "Call No.<br>L 13.N To LB 275.L9<br>LB 275.O94 To LB 1051.R63",
+            "detail": "Call No.<br>L 13.N to LB 275.L9<br>LB 275.O94 to LB 1051.R63",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1163,7 +1163,7 @@
         "s64": {
             "title": "EDUCATION",
             "picture": "education.JPG",
-            "detail": "Call No.<br>LB 1051.R63 To LB 1537.W34<br>LB 1550.C15 To LB 1647.F55",
+            "detail": "Call No.<br>LB 1051.R63 to LB 1537.W34<br>LB 1550.C15 to LB 1647.F55",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1172,7 +1172,7 @@
         "s65": {
             "title": "EDUCATION",
             "picture": "education.JPG",
-            "detail": "Call No.<br>LB1647.N27 To LB 2331.63G55<br>LB 2331.63.R47 To LB 2822.82.R38",
+            "detail": "Call No.<br>LB1647.N27 to LB 2331.63G55<br>LB 2331.63.R47 to LB 2822.82.R38",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1181,7 +1181,7 @@
         "s66": {
             "title": "EDUCATION",
             "picture": "education.JPG",
-            "detail": "Call No.<br>LB 2833.A66 To LC 493.A8<br>LC 493.C4 To LF 625.G79",
+            "detail": "Call No.<br>LB 2833.A66 to LC 493.A8<br>LC 493.C4 to LF 625.G79",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1190,7 +1190,7 @@
         "s67": {
             "title": "FINE ARTS",
             "picture": "fineArts.JPG",
-            "detail": "Call No.<br>LF 724.B78 To N2 .S7<br>N2 .Z6 To NA 1.A67",
+            "detail": "Call No.<br>LF 724.B78 to N2 .S7<br>N2 .Z6 to NA 1.A67",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1199,7 +1199,7 @@
         "s68": {
             "title": "FINE ARTS",
             "picture": "fineArts.JPG",
-            "detail": "Call No.<br>NA 1.A67 To ND 1060.J33<br>ND 1130 To P 40.8",
+            "detail": "Call No.<br>NA 1.A67 to ND 1060.J33<br>ND 1130 to P 40.8",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1208,7 +1208,7 @@
         "s69": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>P 41 To PA 3131<br>PA 3132 To PA6931",
+            "detail": "Call No.<br>P 41 to PA 3131<br>PA 3132 to PA6931",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1217,7 +1217,7 @@
         "s70": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PA 6932 To PC 2074.75<br>PC 2075 To PE 1 .W8",
+            "detail": "Call No.<br>PA 6932 to PC 2074.75<br>PC 2075 to PE 1 .W8",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1226,7 +1226,7 @@
         "s71": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PE 1 .Y43 To PE 3727<br>PF 111 To PG 3347",
+            "detail": "Call No.<br>PE 1 .Y43 to PE 3727<br>PF 111 to PG 3347",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1235,7 +1235,7 @@
         "s72": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PG 3350 To PM 8999<br>PN 2 To PN 173",
+            "detail": "Call No.<br>PG 3350 to PM 8999<br>PN 2 to PN 173",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1244,7 +1244,7 @@
         "s73": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PN 175 To PN 1655<br>PN 1657 To PN 2266",
+            "detail": "Call No.<br>PN 175 to PN 1655<br>PN 1657 to PN 2266",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1253,7 +1253,7 @@
         "s74": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PN 2266 To PN 5123<br>PN 5124 To PQ 201",
+            "detail": "Call No.<br>PN 2266 to PN 5123<br>PN 5124 to PQ 201",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1262,7 +1262,7 @@
         "s75": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PQ 203.5 To PQ 2161 .H85<br>PQ 2161 .S3 To PQ 2611",
+            "detail": "Call No.<br>PQ 203.5 to PQ 2161 .H85<br>PQ 2161 .S3 to PQ 2611",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1271,7 +1271,7 @@
         "s76": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PQ 2613 To PQ 3989.2<br>PQ 4001 To PQ 6057 .G7",
+            "detail": "Call No.<br>PQ 2613 to PQ 3989.2<br>PQ 4001 to PQ 6057 .G7",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1280,7 +1280,7 @@
         "s77": {
             "title": "LANGUAGE AND LITERATURE",
             "picture": "language&literature.JPG",
-            "detail": "Call No.<br>PQ 6057 .G7 To PQ 6629<br>PQ 6631 To PQ9698.29",
+            "detail": "Call No.<br>PQ 6057 .G7 to PQ 6629<br>PQ 6631 to PQ9698.29",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1289,7 +1289,7 @@
         "s78": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 1 To PR 539<br>PR 541 To PR 1195",
+            "detail": "Call No.<br>PR 1 to PR 539<br>PR 541 to PR 1195",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1298,7 +1298,7 @@
         "s79": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 1203 To PR 2734<br>PR 2750 To PR 3318",
+            "detail": "Call No.<br>PR 1203 to PR 2734<br>PR 2750 to PR 3318",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1307,7 +1307,7 @@
         "s80": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 3325 To PR 3991<br>PR 4002 To PR 4489",
+            "detail": "Call No.<br>PR 3325 to PR 3991<br>PR 4002 to PR 4489",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1316,7 +1316,7 @@
         "s81": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 4494 To PR 4749<br>PR 4750 To PR 4989",
+            "detail": "Call No.<br>PR 4494 to PR 4749<br>PR 4750 to PR 4989",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1325,7 +1325,7 @@
         "s82": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 5006 To PR 5398<br>PR 5400 To PR 5795",
+            "detail": "Call No.<br>PR 5006 to PR 5398<br>PR 5400 to PR 5795",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1334,7 +1334,7 @@
         "s83": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 5810 To PR 6005<br>PR 6007 To PR 6025",
+            "detail": "Call No.<br>PR 5810 to PR 6005<br>PR 6007 to PR 6025",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1343,7 +1343,7 @@
         "s84": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PR 6027 To PR 9919.3<br>PS 1 To PS 352",
+            "detail": "Call No.<br>PR 6027 to PR 9919.3<br>PS 1 to PS 352",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1352,7 +1352,7 @@
         "s85": {
             "title": "ENGLISH LITERATURE",
             "picture": "englishLiterature.JPG",
-            "detail": "Call No.<br>PS 359 To PS 991<br>PS 1004 To PS 1850",
+            "detail": "Call No.<br>PS 359 to PS 991<br>PS 1004 to PS 1850",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1361,7 +1361,7 @@
         "s86": {
             "title": "AMERICAN LITERATURE",
             "picture": "americanLiterature.JPG",
-            "detail": "Call No.<br>PS 1852 To PS 2645<br>PS 2649 To PS 3505 .A87",
+            "detail": "Call No.<br>PS 1852 to PS 2645<br>PS 2649 to PS 3505 .A87",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1370,7 +1370,7 @@
         "s87": {
             "title": "AMERICAN LITERATURE",
             "picture": "americanLiterature.JPG",
-            "detail": "Call No.<br>PS 3505 .A87 To PS 3511 .A86<br>PS 3511 .A86 To PS 3515 .E343",
+            "detail": "Call No.<br>PS 3505 .A87 to PS 3511 .A86<br>PS 3511 .A86 to PS 3515 .E343",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1379,7 +1379,7 @@
         "s88": {
             "title": "AMERICAN LITERATURE",
             "picture": "americanLiterature.JPG",
-            "detail": "Call No.<br>PS 3515 .E37 To PS 3525 .A6549<br>PS 3525 .A315 To PS 3531 .P87",
+            "detail": "Call No.<br>PS 3515 .E37 to PS 3525 .A6549<br>PS 3525 .A315 to PS 3531 .P87",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1388,7 +1388,7 @@
         "s89": {
             "title": "AMERICAN LITERATURE",
             "picture": "americanLiterature.JPG",
-            "detail": "Call No.<br>PS 3515 .P87A16 To PS 3545<br>PS 3547 To PS 3663",
+            "detail": "Call No.<br>PS 3515 .P87A16 to PS 3545<br>PS 3547 to PS 3663",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1397,7 +1397,7 @@
         "s90": {
             "title": "GERMAN LITERATURE",
             "picture": "americanLiterature.JPG",
-            "detail": "Call No.<br>PT 36 To PT 2623<br>PT 2625 To PZ 4",
+            "detail": "Call No.<br>PT 36 to PT 2623<br>PT 2625 to PZ 4",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1406,7 +1406,7 @@
         "s91": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>Q1.E56 To Q1.S385",
+            "detail": "Call No.<br>Q1.E56 to Q1.S385",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1415,7 +1415,7 @@
         "s92": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>Q9.S25 To Q162.T48<br>Q162.W43 To Q327.I19",
+            "detail": "Call No.<br>Q9.S25 to Q162.T48<br>Q162.W43 to Q327.I19",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1424,7 +1424,7 @@
         "s93": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>Q327.K3 To QA1.A515<br>QA1.A516 To QA1.S6",
+            "detail": "Call No.<br>Q327.K3 to QA1.A515<br>QA1.A516 to QA1.S6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1433,7 +1433,7 @@
         "s94": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>QA1.S6 To QA36.C85<br>QA36.G45 To QA76.L4",
+            "detail": "Call No.<br>QA1.S6 to QA36.C85<br>QA36.G45 to QA76.L4",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1442,7 +1442,7 @@
         "s95": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>QA76.L4 To QA76.6.R8613<br>QA76.6.S1 To QA76.9.S84",
+            "detail": "Call No.<br>QA76.L4 to QA76.6.R8613<br>QA76.6.S1 to QA76.9.S84",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1451,7 +1451,7 @@
         "s96": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>AQ76.9.S88 To QA273.R84<br>QA273.R84 To QA433.S37",
+            "detail": "Call No.<br>AQ76.9.S88 to QA273.R84<br>QA273.R84 to QA433.S37",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1460,7 +1460,7 @@
         "s97": {
             "title": "MATH AND COMPUTER SCIENCE",
             "picture": "math&cs.JPG",
-            "detail": "Call No.<br>QA433.S65 To QB1.A9<br>QB1.S536 To QC1.P85",
+            "detail": "Call No.<br>QA433.S65 to QB1.A9<br>QB1.S536 to QC1.P85",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1469,7 +1469,7 @@
         "s98": {
             "title": "PHYSICS",
             "picture": "physics.JPG",
-            "detail": "Call No.<br>QC1.P85 To QC173.A3<br>QC173.A51 To QC350.062",
+            "detail": "Call No.<br>QC1.P85 to QC173.A3<br>QC173.A51 to QC350.062",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1478,7 +1478,7 @@
         "s99": {
             "title": "PHYSICS",
             "picture": "physics.JPG",
-            "detail": "Call No.<br>QC350.062 To QC721.P57<br>QC721.P57 To QD1.A5",
+            "detail": "Call No.<br>QC350.062 to QC721.P57<br>QC721.P57 to QD1.A5",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1487,7 +1487,7 @@
         "s100": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD1.A5 To QD1.C512<br>QD1.C513 To QD1.F58",
+            "detail": "Call No.<br>QD1.A5 to QD1.C512<br>QD1.C513 to QD1.F58",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1496,7 +1496,7 @@
         "s101": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD1.I59 To QD1.J94<br>QD1.J94 To QD1.J95",
+            "detail": "Call No.<br>QD1.I59 to QD1.J94<br>QD1.J94 to QD1.J95",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1505,7 +1505,7 @@
         "s102": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD1.J95 To QD22.P8<br>QD22.S73 To QD71.A53",
+            "detail": "Call No.<br>QD1.J95 to QD22.P8<br>QD22.S73 to QD71.A53",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1514,7 +1514,7 @@
         "s103": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD71.A53 To QD115.I61<br>QD115.M48 To QD197.H33",
+            "detail": "Call No.<br>QD71.A53 to QD115.I61<br>QD115.M48 to QD197.H33",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1523,7 +1523,7 @@
         "s104": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD241.J6 To QD241.J67<br>QD241.J67 To QD255.S91",
+            "detail": "Call No.<br>QD241.J6 to QD241.J67<br>QD241.J67 to QD255.S91",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1532,7 +1532,7 @@
         "s105": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD257.A8 To QD291.P31<br>QD291.557 To QD450.P58",
+            "detail": "Call No.<br>QD257.A8 to QD291.P31<br>QD291.557 to QD450.P58",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1541,7 +1541,7 @@
         "s106": {
             "title": "CHEMISTRY",
             "picture": "chemistry.JPG",
-            "detail": "Call No.<br>QD453.A22 To QD501.M51<br>QD501.M54 To QH1.N28",
+            "detail": "Call No.<br>QD453.A22 to QD501.M51<br>QD501.M54 to QH1.N28",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1550,7 +1550,7 @@
         "s107": {
             "title": "BIOLOGY",
             "picture": "biology.JPG",
-            "detail": "Call No.<br>QH9.B41 To QH301.B52<br>QH301.B61 To QH301.J75",
+            "detail": "Call No.<br>QH9.B41 to QH301.B52<br>QH301.B61 to QH301.J75",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1559,7 +1559,7 @@
         "s108": {
             "title": "BIOLOGY",
             "picture": "biology.JPG",
-            "detail": "Call No.<br>QH301.J75 To QH325.O61<br>QH325.O69 To QH505.J8",
+            "detail": "Call No.<br>QH301.J75 to QH325.O61<br>QH325.O69 to QH505.J8",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1568,7 +1568,7 @@
         "s109": {
             "title": "BIOLOGY",
             "picture": "biology.JPG",
-            "detail": "Call No.<br>QH505.J8 To QH570.J8<br>QH570.J8 To QH581.P9",
+            "detail": "Call No.<br>QH505.J8 to QH570.J8<br>QH570.J8 to QH581.P9",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1577,7 +1577,7 @@
         "s110": {
             "title": "BOTANY",
             "picture": "botany.JPG",
-            "detail": "Call No.<br>QH581.R64 To QK1.P73<br>QK1.P73 To QL463.A61",
+            "detail": "Call No.<br>QH581.R64 to QK1.P73<br>QK1.P73 to QL463.A61",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1586,7 +1586,7 @@
         "s111": {
             "title": "ZOOLOGY",
             "picture": "zoology.JPG",
-            "detail": "Call No.<br>QL463.B69 To QL785.M96<br>QL785.P9 To QP1.I559",
+            "detail": "Call No.<br>QL463.B69 to QL785.M96<br>QL785.P9 to QP1.I559",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1595,7 +1595,7 @@
         "s112": {
             "title": "ZOOLOGY",
             "picture": "zoology.JPG",
-            "detail": "Call No.<br>QP1.J72 To QP1.P45<br>QP1.P45 To QP187.M69",
+            "detail": "Call No.<br>QP1.J72 to QP1.P45<br>QP1.P45 to QP187.M69",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1604,7 +1604,7 @@
         "s113": {
             "title": "ZOOLOGY",
             "picture": "zoology.JPG",
-            "detail": "Call No.<br>QP187.R32 To QP351.J86<br>QP351.J86 To QP369.B76",
+            "detail": "Call No.<br>QP187.R32 to QP351.J86<br>QP351.J86 to QP369.B76",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1613,7 +1613,7 @@
         "s114": {
             "title": "MEDICINE",
             "picture": "medicine.JPG",
-            "detail": "Call No.<br>QP370.P76 To QP501.B47<br>QP501.B47 To QP501.J7",
+            "detail": "Call No.<br>QP370.P76 to QP501.B47<br>QP501.B47 to QP501.J7",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1622,7 +1622,7 @@
         "s115": {
             "title": "MEDICINE",
             "picture": "medicine.JPG",
-            "detail": "Call No.<br>QP501.J7 To QP620.N8<br>QP623.T7 To QR1.J6",
+            "detail": "Call No.<br>QP501.J7 to QP620.N8<br>QP623.T7 to QR1.J6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1631,7 +1631,7 @@
         "s116": {
             "title": "MEDICINE",
             "picture": "medicine.JPG",
-            "detail": "Call No.<br>QR1.J6 To QR177.R18<br>QR180.A24 To R11.B7",
+            "detail": "Call No.<br>QR1.J6 to QR177.R18<br>QR180.A24 to R11.B7",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1640,7 +1640,7 @@
         "s117": {
             "title": "MEDICINE",
             "picture": "medicine.JPG",
-            "detail": "Call No.<br>R11.B7 To R154.M97<br>R154.R9 To RA393.H38",
+            "detail": "Call No.<br>R11.B7 to R154.M97<br>R154.R9 to RA393.H38",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1649,7 +1649,7 @@
         "s118": {
             "title": "HEALTH CARE",
             "picture": "healthCare.JPG",
-            "detail": "Call No.<br>RA393.H4 To RA413.7U53<br>RA414.5.M4 To RA960.H6",
+            "detail": "Call No.<br>RA393.H4 to RA413.7U53<br>RA414.5.M4 to RA960.H6",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1658,7 +1658,7 @@
         "s119": {
             "title": "HEALTH CARE",
             "picture": "healthCare.JPG",
-            "detail": "Call No.<br>RA960.M685 To RC321.A54<br>RC321.A66 To RC467.P48",
+            "detail": "Call No.<br>RA960.M685 to RC321.A54<br>RC321.A66 to RC467.P48",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1667,7 +1667,7 @@
         "s120": {
             "title": "HEALTH CARE",
             "picture": "healthCare.JPG",
-            "detail": "Call No.<br>RC467.P69 To RC569.5.M83<br>RC569.P7 To RM182.D38",
+            "detail": "Call No.<br>RC467.P69 to RC569.5.M83<br>RC569.P7 to RM182.D38",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1676,7 +1676,7 @@
         "s121": {
             "title": "HEALTH CARE",
             "picture": "healthCare.JPG",
-            "detail": "Call No.<br>RM214.A6 To T1.F8<br>T1.F8 To TC623.H28",
+            "detail": "Call No.<br>RM214.A6 to T1.F8<br>T1.F8 to TC623.H28",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1685,7 +1685,7 @@
         "s122": {
             "title": "TECHNOLOGY AND ENVIOROMENT",
             "picture": "tech&enviro.JPG",
-            "detail": "Call No.<br>TC774.B68 To TK7885.A1<br>TK7885.A1 To TS1.I5",
+            "detail": "Call No.<br>TC774.B68 to TK7885.A1<br>TK7885.A1 to TS1.I5",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1694,7 +1694,7 @@
         "s123": {
             "title": "MANUFACTURING & MILITARY",
             "picture": "manu&library.JPG",
-            "detail": "Call No.<br>TS23.M45 To UB250.I577<br>UB250.M52 To Z671.L7",
+            "detail": "Call No.<br>TS23.M45 to UB250.I577<br>UB250.M52 to Z671.L7",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1703,7 +1703,7 @@
         "s124": {
             "title": "LIBRARY SCIENCE",
             "picture": "manu&library.JPG",
-            "detail": "Call No.<br>Z927.P2 To ZA4226.H83",
+            "detail": "Call No.<br>Z927.P2 to ZA4226.H83",
             "further": {
                 "link": "<a target=\"_blank\" href=\"http://catalog.sju.edu/\"></a>",
                 "click": "Search the catalog"
@@ -1712,7 +1712,7 @@
         "scanner":{
             "title": "Scanner",
             "picture": "scanner.JPG",
-            "detail": "Touchable screen and scanner machines."
+            "detail": "touchable screen and scanner machines."
         },
         "scannerAttached":{
             "title": "Scanner",
