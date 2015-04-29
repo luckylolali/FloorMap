@@ -11,6 +11,7 @@ $(document).ready(function(){
     hashTag = hashTag.replace(/#*/, '');
     tags = hashTag.split("&");
     var current = tags[0] || "DrexelFloor1";
+    //if browser doesn't support svg
     if(!Modernizr.svg){
         $('.fill').removeClass('fill');
         $('.main').hide();
@@ -23,6 +24,7 @@ $(document).ready(function(){
             $('.nosvgcontainer').find('img').attr('src','pic/' + pic + '.png');
         });
     } else {
+        //if browser doesn't support flex
         if(!Modernizr.flexbox){
             alert('flexbox is not supported.');
             $(".detail").height($("#svgdata").height());
@@ -59,6 +61,7 @@ function originInfo(){
     detail.find(".room").empty();
 }
 
+/*This function add the active class to the building and the floor when the nav tab is clicked*/
 function markActiveClass(filename){
     $('.active').removeClass('active');
     /*Mark which floor is displaying */
@@ -91,6 +94,7 @@ function markActiveClass(filename){
     }
 }
 
+/*Set value to location.hash */
 function setHashTag(){
     if(tags[1] != null){
         location.hash = tags[0] + '&' + tags[1];
@@ -99,12 +103,13 @@ function setHashTag(){
     }
 }
 
+/*Ajax function, load floor map and add event handler*/
 function loadSvg(filename){
     markActiveClass(filename);
     /*Show the detail infomation when a svg element is chosen. */
     var showDetail = function(){
         var roomNum = $(this).attr('id');
-        var room = json.rooms[roomNum];
+        var room = json[roomNum];
         //if this room has detail information
         if(room != undefined){
             var detail = $('#infoDetail');
@@ -112,7 +117,14 @@ function loadSvg(filename){
             detail.find('#roomPic').show();
             detail.find('img').attr('src','images/' + room.picture).show();
             $("#roomTitle").text(room.title);
-            $("#roomDetail").html(room.detail);
+
+            var description = room.detail;
+            if(description != undefined){
+                $("#roomDetail").html(description);
+            } else {
+                $("#roomDetail").empty();
+            }
+
             var link = room.further;
             if(link != undefined){
                 var theLink = $(link.link);
@@ -127,7 +139,7 @@ function loadSvg(filename){
         }
     };
 
-    $.ajax(filename, {
+    $.ajax("SVG/" + filename, {
         dataType: "xml",
         type: "GET",
         success: function(result){
@@ -189,7 +201,7 @@ function loadSvg(filename){
                 setHashTag();
                 var link = $(this).attr("xlink:href");
                 loadSvg(link);
-                setHashTag();
+                //setHashTag();
             });
         }
     })
