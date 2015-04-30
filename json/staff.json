@@ -1,0 +1,184 @@
+{
+    "room120":{
+        "title":"Michael Brooks",
+        "picture":"michaelBrooks.JPG",
+        "detail":[
+            "Technology Support Coordinator<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:brooks@sju.edu\">brooks@sju.edu</a><br>",
+            "(610) 660-1908"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=35379\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room124":{
+        "title":"Cynthia Slater",
+        "picture":"cynthiaSlater.JPG",
+        "detail":[
+            "Business Reference Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:cslater@sju.edu\">cslater@sju.edu</a><br>",
+            "(610) 660-1139"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10789\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room123":{
+        "title":"Jimmy Chen",
+        "picture":"jimmyChen.JPG",
+        "detail":[
+            "Library Systems Manager<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:zchen@sju.edu\">zchen@sju.edu</a><br>",
+            "(610) 660-1914"
+        ]
+    },
+    "room172":{
+        "title":"Kristine Mudrick",
+        "picture":"kristineMudrick.JPG",
+        "detail":[
+            "Associate Director for Resources Management<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:kmudrick@sju.edu\">kmudrick@sju.edu</a><br>",
+            "(610) 660-3215"
+        ]
+    },
+    "room175":{
+        "title":"Susan Cheney",
+        "picture":"susanCheney.JPG",
+        "detail":[
+            "ILS Administrator / Catalog Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:scheney@sju.edu\">scheney@sju.edu</a><br>",
+            "(610) 660-1976"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10791\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room170":{
+        "title":"Daniel Holden",
+        "picture":"danielHolden.JPG",
+        "detail":[
+            "Serials and Electronic Resources Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:dholden@sju.edu\">dholden@sju.edu</a><br>",
+            "(610) 660-1984"
+        ]
+    },
+    "room177":{
+        "title":"Christopher Dixon",
+        "picture":"christopherDixon.JPG",
+        "detail":[
+            "Archival Research Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:cdixon@sju.edu\">cdixon@sju.edu</a><br>",
+            "(610) 660-2164"
+        ]
+    },
+    "ILL":{
+        "title":"Alexandra Williams",
+        "picture":"alexWilliams.jpg",
+        "detail":[
+            "Interlibrary Loan Coordinator<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:awilliam@sju.edu\">awilliam@sju.edu</a><br>",
+            "(610) 660-1907"
+        ]
+    },
+    "room115":{
+        "title":"Susan Clayton",
+        "picture":"susanClayton.JPG",
+        "detail":[
+            "Circulation Services Manager<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:sclayton@sju.edu\">sclayton@sju.edu</a><br>",
+            "(610) 660-1926"
+        ]
+    },
+    "room130":{
+        "title":"Naomi Cohen",
+        "picture":"NaomiCohen.JPG",
+        "detail":[
+            "Education Resources / Reference Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:ncohen@sju.edu\">ncohen@sju.edu</a><br>",
+            "(610) 660-1057"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=1393\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room131a":{
+        "title":"Elena Sisti",
+        "picture":"elenaSisti.JPG",
+        "detail":[
+            "Food Marketing Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:esisti@sju.edu\">esisti@sju.edu</a><br>",
+            "(610) 660-1195"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10800\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room131b":{
+        "title":"Catherine Collins",
+        "picture":"catherineCollins.JPG",
+        "detail":[
+            "Reference Librarian<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:ccollins@sju.edu\">ccollins@sju.edu</a><br>",
+            "(610) 660-1910"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10794\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room132":{
+        "title":"Stephanie Riley",
+        "picture":"stephanieRiley.JPG",
+        "detail":[
+            "Library Instruction and Outreach Specialist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:sriley@sju.edu\">sriley@sju.edu</a><br>",
+            "(610) 660-1913"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10799\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    },
+    "room230":{
+        "title":"Marian Courtney",
+        "picture":"marianCourtney.JPG",
+        "detail":[
+            "Library Operations Manager<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:mcourtne@sju.edu\">mcourtne@sju.edu</a><br>",
+            "(610) 660-1905"
+        ]
+    },
+    "room231":{
+        "title":"Anne Krakow",
+        "picture":"anneKrakow.JPG",
+        "detail":[
+            "Library Director<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:akrakow@sju.edu\">akrakow@sju.edu</a><br>",
+            "(610) 660-1905"
+        ],
+        "further":{
+            "link":"<a href=\"http://guides.sju.edu/prf.php?account_id=10792\" target=\"_blank\"></a>",
+            "click":"About me"
+        }
+    }
+}

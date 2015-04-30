@@ -1,0 +1,72 @@
+{
+    "room223":{
+        "title":"Stephanie Mosher",
+        "picture":"MosherStephanie.jpeg",
+        "detail":[
+            "Digital Media Technologist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:smosher@sju.edu\">smosher@sju.edu</a><br>",
+            "(610) 660-3383"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room224":{
+        "title":"Karen Pinto",
+        "picture":"PintoKaren.jpeg",
+        "detail":[
+            "Digital Media Technologist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:kpinto@sju.edu\">kpinto@sju.edu</a><br>",
+            "(610) 660-1499"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room225":{
+        "title":"Dr. David Lees",
+        "picture":"LeesDavid.jpg",
+        "detail":[
+            "Executive Director<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:lees@sju.edu\">lees@sju.edu</a><br>",
+            "(610) 660-1773"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room226":{
+        "title":"Joe Montcalmo",
+        "picture":"MontcalmoJoe.jpeg",
+        "detail":[
+            "Senior Director, Instructional Technology & Design Services<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:jmontcal@sju.edu\">jmontcal@sju.edu</a><br>",
+            "(610) 660-3258"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room227":{
+        "title":"Al Labonis",
+        "picture":"LabonisAl.jpeg",
+        "detail":[
+            "Manager, Learning Management System<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:labonis@sju.edu\">labonis@sju.edu</a><br>",
+            "(610) 660-1772"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    }
+}

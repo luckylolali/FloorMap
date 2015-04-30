@@ -1,0 +1,29 @@
+{
+  "name": "library-floor-map",
+  "version": "1.0.0",
+  "description": "library floor indoor map",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckylolali/FloorMap.git"
+  },
+  "author": "Elaine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckylolali/FloorMap/issues"
+  },
+  "homepage": "https://github.com/luckylolali/FloorMap#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsonmin": "^0.2.4",
+    "grunt-merge-json": "^0.9.5"
+  }
+}

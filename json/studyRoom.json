@@ -1,0 +1,154 @@
+{
+    "room121":{
+        "title":"Group Study Room 121",
+        "picture":"room121.JPG",
+        "detail":"Contains a white board.<br/>Seats 7."
+    },
+    "room122":{
+        "title":"Group Study Room 122",
+        "picture":"room122.JPG",
+        "detail":"Contains a white board, VHS/DVD player, and monitor.<br/>Seats 6."
+    },
+    "room119":{
+        "title":"Conference Room",
+        "picture":"conferenceRoom.JPG",
+        "detail":"Conference room contains VHS/DVD player, and monitor for small group meeting."
+    },
+    "room214":{
+        "title":"Gutenberg Room (Room 214)",
+        "picture":"room214.JPG",
+        "detail":"Contains a white board.<br/>Seats 12."
+    },
+    "room215":{
+        "title":"Thomas D. Marzik Study Room (Room 215)",
+        "picture":"room215.JPG",
+        "detail":[
+            "Contains a white board.<br/>",
+            "Seats 10.<br/>",
+            "GIFT OF<br>",
+            "Linda and Randall M. Miller, Ph.D."
+        ]
+    },
+    "room216":{
+        "title":"Group Study Room 216",
+        "picture":"room216.JPG",
+        "detail":"Seats 5."
+    },
+    "room217":{
+        "title":"Group Study Room 217",
+        "picture":"room216.JPG",
+        "detail":"Seats 5."
+    },
+    "room219":{
+        "title":"Group Study Room 219",
+        "picture":"room216.JPG",
+        "detail":"Seats 6."
+    },
+    "room220":{
+        "title":"Group Study Room 220",
+        "picture":"room220.JPG",
+        "detail":"Contains a white board and a monitor.<br/>Seats 10."
+    },
+    "room140":{
+        "title": "Group Study Room 140",
+        "picture": "room144.JPG",
+        "detail": "Contains a white board.<br/>Seats 5."
+    },
+    "room141":{
+        "title": "Group Study Room 141",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 5."
+    },
+    "room142":{
+        "title": "Group study Room 142",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 5."
+    },
+    "room143":{
+        "title": "Group study Room 143",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 5."
+    },
+    "room144":{
+        "title": "Group study Room 144",
+        "picture": "room144.JPG",
+        "detail": "Contains a white board.<br/>Seats 5."
+    },
+    "wsRoom":{
+        "title":"Wachterhauser Seminar Room",
+        "picture":"wsRoom.JPG",
+        "detail":[
+            "GIFT OF<br>",
+            "Mary V.Z. Wachterhauser, Esq.<br>",
+            "and<br>",
+            "Brice R. Wachterhauser, Ph.D."
+        ]
+    },
+    "room233":{
+        "title":"Media Creation",
+        "picture":"mediaCreation.png",
+        "detail":[
+            "The Media Production Suites provide faculty with the private space, equipment, and digital resources to produce creative multimedia content.<br>",
+            "<a href=\"#mediaCreationModal\" data-toggle=\"modal\" data-target=\"#mediaCreationModal\">Check the equipment and software</a>"
+        ],
+        "further":{
+            "link":"<a href=\"http://sju.edu/int/academics/resources/atdl/schedule.html\" target=\"_blank\"></a>",
+            "click":"Schedule an Appointment or Room"
+        }
+    },
+    "room234":{
+        "title":"Presentation Capture Suites",
+        "picture":"presentationCaptureRoom.png",
+        "detail":[
+            "The Presentation Capture Room is a private area for practicing, displaying, and recording presentations.",
+            "<h5>Types of Production</h5>",
+            "<ul>",
+            "<li>Practicing and recording presentations</li>",
+            "<li>Creating digital lectures</li>",
+            "<li>Collaborative presentations</li>",
+            "</ul>",
+            "<a href=\"#presentCaptureModal\" data-toggle=\"modal\" data-target=\"#presentCaptureModal\">Check the equipment</a>"
+        ],
+        "further":{
+            "link":"<a href=\"http://sju.edu/int/academics/resources/atdl/schedule.html\" target=\"_blank\"></a>",
+            "click":"Schedule an Appointment or Room"
+        }
+    },
+    "room235":{
+        "title":"Media Creation",
+        "picture":"mediaCreation.png",
+        "detail":[
+            "The Media Production Suites provide faculty with the private space, equipment, and digital resources to produce creative multimedia content.<br>",
+            "<a href=\"#mediaCreationModal\" data-toggle=\"modal\" data-target=\"#mediaCreationModal\">Check the equipment and software</a>"
+        ],
+        "further":{
+            "link":"<a href=\"http://sju.edu/int/academics/resources/atdl/schedule.html\" target=\"_blank\"></a>",
+            "click":"Schedule an Appointment or Room"
+        }
+    },
+    "room340":{
+        "title": "Group Study Room 340",
+        "picture": "room144.JPG",
+        "detail": "Contains a white board.<br/>Seats 5."
+    },
+    "room341":{
+        "title": "Group Study Room 341",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 4."
+    },
+    "room342":{
+        "title": "Group study Room 342",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 5."
+    },
+    "room343":{
+        "title": "Group study Room 343",
+        "picture": "room142.JPG",
+        "detail": "Contains a white board and a monitor.<br/>Seats 5."
+    },
+    "room344":{
+        "title": "Group study Room 344",
+        "picture": "room144.JPG",
+        "detail": "Contains a white board.<br/>Seats 4"
+    }
+}

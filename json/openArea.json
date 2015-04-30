@@ -1,0 +1,64 @@
+{
+    "quietArea1":{
+        "title":"Quiet Study Area",
+        "picture":"quietStudyArea.JPG"
+    },
+    "studyStation":{
+        "title":"Carrels",
+        "picture":"studyStation.JPG",
+        "detail":"Carrels for individual quiet study."
+    },
+    "studyStation1":{
+        "title":"Carrels",
+        "picture":"studyStation1.JPG",
+        "detail":"Carrels for individual study."
+    },
+    "quietArea2":{
+        "title":"Quiet Study Area",
+        "picture":"quietArea2.JPG"
+    },
+    "studyDesk":{
+        "title":"Study Desk",
+        "picture":"studyDesk.JPG",
+        "detail":"Round tables between book shelves."
+    },
+    "studyArea2":{
+        "title":"Open Study Area",
+        "picture":"studyArea2.JPG"
+    },
+    "restArea":{
+        "title":"Popular Reading Lounge",
+        "picture":"restArea.JPG",
+        "detail":"Popular reading book shelf and comfortable seats."
+    },
+    "openStudyArea1":{
+        "title":"Open Study Area",
+        "picture":"openStudyArea1.JPG"
+    },
+    "openStudyArea2":{
+        "title":"Open study Area",
+        "picture":"openStudyArea2.JPG"
+    },
+    "lounge":{
+        "title":"Lounge",
+        "picture":"lounge2.JPG",
+        "detail":"Flexible soft seating"
+    },
+    "GMHCollection":{
+        "title":"Gerard Manley Hopkins, S.J. Special Collections",
+        "picture":"GMHSpecialCollection.JPG"
+    },
+    "GSLounge":{
+        "title":"Griffiths Scholars Lounge",
+        "picture":"GScholarsLounge.JPG"
+    },
+    "DSCLounge":{
+        "title":"Durant Special Collections Lounge",
+        "picture":"DSCLounge.JPG"
+    },
+    "studyStation3":{
+        "title":"Carrels",
+        "picture":"studyStation3.JPG",
+        "detail":"Carrels for individual study."
+    }
+}

@@ -29,7 +29,7 @@
 								806.127,123.485 805.885,123.751 808.666,131.633 805.936,131.633 805.057,138.501 803.952,138.501 803.072,131.633 
 								800.343,131.633 803.166,123.911 802.879,123.485 800.236,128.668 799.597,128.218 							"/>
 							<path fill="#231F20" stroke="#333333" d="M806.402,117.355c0,1.156-0.896,2.095-1.985,2.095
-								c-1.094,0-1.979-0.939-1.979-2.095c0-1.148,0.894-2.09,1.979-2.09S806.402,116.208,806.402,117.355z"/>
+								c-1.094,0-1.979-0.939-1.979-2.095c0-1.148,0.895-2.09,1.979-2.09S806.402,116.208,806.402,117.355z"/>
 							<path fill="#231F20" stroke="#333333" d="M819.77,117.355c0,1.156-0.889,2.095-1.979,2.095c-1.099,0-1.988-0.939-1.988-2.095
 								c0-1.148,0.896-2.09,1.988-2.09C818.881,115.265,819.77,116.208,819.77,117.355z"/>
 						</g>
@@ -122,12 +122,12 @@
 		"/>
 	<polygon points="647.024,422.757 650.629,422.757 646.09,451.36 641.54,422.757 645.145,422.757 645.145,405.64 647.023,405.64 	
 		"/>
-
 	<rect x="88.699" y="218.259" fill="none" stroke="#333333" stroke-miterlimit="10" width="76.029" height="37.705"/>
 	<rect x="2" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="86.699" height="67.329"/>
 	<rect x="754.285" y="224.992" fill="none" stroke="#333333" stroke-miterlimit="10" width="42.682" height="35.011"/>
 	<rect x="754.285" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="42.682" height="36.357"/>
 	<rect x="796.967" y="188.635" fill="none" stroke="#333333" stroke-miterlimit="10" width="84.033" height="71.368"/>
+    <rect x="158.059" y="321.946" fill="none" stroke="#333333" stroke-miterlimit="10" width="126.715" height="111.765"/>
 </g>
 <g id="active">
 	<text transform="matrix(1 0 0 1 434 376.5)" font-family="'Avenir-Medium'" font-size="18">Digital</text>
@@ -144,22 +144,24 @@
 	<text transform="matrix(1 0 0 1 23 137.0996)" font-family="'Avenir-Medium'" font-size="16">Seminar Room</text>
 	<text transform="matrix(1 0 0 1 100 473.5)" font-family="'Avenir-Medium'" font-size="14">Office 231</text>
 	<text transform="matrix(1 0 0 1 207 473.5)" font-family="'Avenir-Medium'" font-size="14">Office 230</text>
-	<text transform="matrix(1.3091 0 0 1 96 356.9434)" font-family="'Avenir-Medium'" font-size="16">ATDL</text>
-	<text transform="matrix(1.3091 0 0 1 164 356.9434)" font-family="'Avenir-Medium'" font-size="16">OFFICE</text>
-    <a xlink:href="DrexelFloor2.svg" xlink:title="Go to the Drexel side">
-        <text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
+	<text transform="matrix(1 0 0 1 114 284.166)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  225</tspan></text>
+	<text transform="matrix(1 0 0 1 199.3335 284.166)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  224</tspan></text>
+	<text transform="matrix(1 0 0 1 246.667 284.2227)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  223</tspan></text>
+	<text transform="matrix(1 0 0 1 97.667 348.5703)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  226</tspan></text>
+	<text transform="matrix(1 0 0 1 97.667 403.2373)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  227</tspan></text>
+	<text transform="matrix(1.3091 0 0 1 195 356.9434)" font-family="'Avenir-Medium'" font-size="16">ATDL</text>
+	<text transform="matrix(1.3091 0 0 1 183 408.9434)" font-family="'Avenir-Medium'" font-size="16">OFFICE</text>
+	<a xlink:href="DrexelFloor2.svg"  xlink:title="Go to the Drexel side">
+		<text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
 	</a>
-    <g id="ATDL">
-		<rect x="67.358" y="255.964" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="124.047" height="65.982"/>
-		<rect x="67.358" y="321.946" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="90.701" height="59.248"/>
-		<rect x="67.358" y="381.194" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="90.701" height="52.517"/>
-		<rect x="191.405" y="245.377" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="49.352" height="76.796"/>
-		<rect x="240.756" y="265.577" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="44.018" height="56.904"/>
-		<rect x="240.756" y="245.377" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="44.018" height="20.2"/>
-		<rect x="158.059" y="321.946" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="126.715" height="111.765"/>
-	</g>
+	<rect id="room225" x="67.358" y="255.964" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="124.047" height="65.982"/>
+	<rect id="room226" x="67.358" y="321.946" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="90.701" height="59.248"/>
+	<rect id="room227" x="67.358" y="381.194" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="90.701" height="52.517"/>
+	<rect id="room224" x="191.405" y="255.964" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="49.352" height="66.209"/>
+	<rect id="room223" x="240.756" y="255.964" fill="#BC5616" stroke="#333333" stroke-miterlimit="10" width="44.018" height="66.518"/>
+
+
 	<rect id="wsRoom" x="2" y="62.056" fill="#AD1515" stroke="#333333" stroke-miterlimit="10" width="162.729" height="126.579"/>
-	
 	<rect id="room231" x="67.358" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="128.049" height="71.37"/>
 	<rect id="room230" x="195.407" y="433.711" fill="#828287" stroke="#333333" stroke-miterlimit="10" width="89.367" height="71.37"/>
 	<rect id="room233" x="324.789" y="230.377" fill="#2E20ED" stroke="#333333" stroke-miterlimit="10" width="70.693" height="48.479"/>

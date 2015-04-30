@@ -1,0 +1,146 @@
+{
+    "microfilm":{
+        "title":"Microfilm Workstation",
+        "picture":"microfilm.JPG"
+    },
+    "room116":{
+        "title":"Circulation Workroom",
+        "picture":"circulationDesk.JPG"
+    },
+    "DComputer1":{
+        "title":"Computers",
+        "picture":"DComputer1.JPG",
+        "detail":"Computer with Windows 7 Professional Operating System.",
+        "further":{
+            "link":"<a href=\"#DLComputerModal\" data-toggle=\"modal\" data-target=\"#DLComputerModal\"></a>",
+            "click":"Check the software installed"
+        }
+    },
+    "DVDPlayStation":{
+        "title":"DVD Playstation",
+        "picture":"DVDPlayStation.JPG"
+    },
+    "LibraryInstructionLab":{
+        "title":"Library Instruction Lab",
+        "picture":"LibraryInstructionLab.JPG",
+        "detail":"Quiet computer lab when not reserved for an instruction session"
+    },
+    "referenceDesk":{
+        "title":"Research Help desk",
+        "picture":"referenceDesk.JPG",
+        "detail":"Speak with a librarian"
+    },
+    "circulationDesk":{
+        "title":"Library Service Desk",
+        "picture":"circulationDesk.JPG"
+    },
+    "Dcomputers":{
+        "title":"Computer Area",
+        "picture":"Dcomputers.JPG",
+        "detail":"Computer with Windows 7 Professional Operating System.",
+        "further":{
+            "link":"<a href=\"#DLComputerModal\" data-toggle=\"modal\" data-target=\"#DLComputerModal\"></a>",
+            "click":"Check the software installed"
+        }
+    },
+    "DrexelPrinter":{
+        "title":"Print Area",
+        "picture":"drexelPrinter.JPG",
+        "detail":"Printers and photocopiers."
+    },
+    "room119":{
+        "title":"Conference Room",
+        "picture":"conferenceRoom.JPG",
+        "detail":"Conference room contains VHS/DVD player, and monitor for small group meeting."
+    },
+    "CMC":{
+        "title":"Curriculum Materials Center",
+        "picture":"CMC.JPG",
+        "detail":"The CMC has a large selection of children's literature as well as a collection of textbooks and instructional materials for grades PreK-12."
+    },
+    "CampbellCollection":{
+        "title":"Food Marketing Campbell Collection",
+        "picture":"CampbellCollection.JPG",
+        "detail":[
+            "Speak to our librarians:<br>",
+            "<h5>Elana Sisti</h5>",
+            "<a href=\"mailto:esisti@sju.edu\">esisti@sju.edu</a><br>",
+            "(610) 660-1195<br>",
+            "<h5>Sonia Jeremiah-Bennett</h5>",
+            "<a href=\"mailto:sbennett@sju.edu\">sbennett@sju.edu</a><br>",
+            "(610) 660-1195"
+        ],
+        "further": {
+            "link":"<br><a href=\"http://www.sju.edu/int/resources/libraries/campbell/index.html\" target=\"_blank\"></a>",
+            "click": "Further Info"
+        }
+    },
+    "room128":{
+        "title":"The Writing Center",
+        "picture":"loading.gif",
+        "detail":"Students may also make appointments by calling the Writing Center or by dropping by.",
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/cas/english/writingcenter/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "Win":{
+        "title":"Windows Computers",
+        "picture":"windows.JPG",
+        "detail":"Computer with Windows 7 Professional Operating System",
+        "further":{
+            "link":"<a href=\"#PLCWinModal\" data-toggle=\"modal\" data-target=\"#PLCWinModal\"></a>",
+            "click":"Check the software installed"
+        }
+    },
+    "Mac":{
+        "title":"iMacs",
+        "picture":"Mac.JPG",
+        "detail":"iMac Computers",
+        "further":{
+            "link":"<a href=\"#PLCMacModal\" data-toggle=\"modal\" data-target=\"#PLCMacModal\"></a>",
+            "click":"Check the software installed"
+        }
+    },
+    "newAC":{
+        "title": "New Acquisitions",
+        "picture": "newAC.JPG",
+        "detail": "This shelf contains the new acquisition books."
+    },
+    "PostPrinter":{
+        "title":"Print Area",
+        "picture":"postPrinter.JPG",
+        "detail":"Printers and photocopiers."
+    },
+    "cafe":{
+        "title":"Café",
+        "picture":"café.JPG"
+    },
+    "saintJohnsBible":{
+        "title":"Saint John's Bible",
+        "picture":"saintJohnsBible.JPG"
+    },
+    "helpDesk":{
+        "title":"Help Desk",
+        "picture":"helpDesk.JPG"
+    },
+    "digitMediaZone":{
+        "title":"Digital Media Zone",
+        "picture":"digitalMediaZone.png",
+        "detail":"The DMZ offers open space and privacy for students and faculty to engage in creative expression through teaching, learning, and collaborating. The DMZ is equipped with cutting-edge technologies and equipment for your audio, video, graphics, 3D, and animation projects.",
+        "further":{
+            "link":"<a href=\"#DMZModal\" data-toggle=\"modal\" data-target=\"#DMZModal\"></a>",
+            "click":"Check the equipment and software"
+        }
+    },
+    "scanner":{
+        "title": "Scanner",
+        "picture": "scanner.JPG",
+        "detail": "touchable screen and scanner machines."
+    },
+    "scannerAttached":{
+        "title": "Scanner",
+        "picture": "scannerAttached.JPG",
+        "detail": "Computer linked with scanner."
+    }
+}
