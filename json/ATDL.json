@@ -68,5 +68,104 @@
             "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
             "click":"Visit our website"
         }
+    },
+    "room161":{
+        "title":"Gerri Maletta",
+        "picture":"MalettaGerri.jpeg",
+        "detail":[
+            "Senior Administrative Assistant II<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:gcooper@sju.edu\">gcooper@sju.edu</a><br>",
+            "(610) 660-3250"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room162":{
+        "title":"Chontel Delaney",
+        "picture":"DelaneyChontel.jpeg",
+        "detail":[
+            "Instructional Design Specialist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:cdelaney@sju.edu\">cdelaney@sju.edu</a><br>",
+            "(610) 660-3312"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room163":{
+        "title":"Mary Ann McMenamin",
+        "picture":"McMenaminMaryAnn.jpeg",
+        "detail":[
+            "Copyright & Compliance Officer<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:mstrecke@sju.edu\">mstrecke@sju.edu</a><br>",
+            "(610) 660-3257"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room164":{
+        "title":"Don Lowing",
+        "picture":"LowingDon.jpeg",
+        "detail":[
+            "Senior Digital Media Technologist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:dlowing@sju.edu\">dlowing@sju.edu</a><br>",
+            "(610) 660-3254"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room165":{
+        "title":"Andy Starr",
+        "picture":"StarrAndy.jpeg",
+        "detail":[
+            "Faculty Engagement, Innovation, & Technology Management<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:astarr@sju.edu\">astarr@sju.edu</a><br>",
+            "(610) 660-1769"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room166":{
+        "title":"Kathy Scarpato",
+        "picture":"ScarpatoKathy.jpeg",
+        "detail":[
+            "Instructional Design Specialist<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:kscarpat@sju.edu\">kscarpat@sju.edu</a><br>",
+            "(610) 660-3266"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
+    },
+    "room170":{
+        "title":"Ben Jezyk",
+        "picture":"JezykBen.jpeg",
+        "detail":[
+            "Director of Technical Services<br>",
+            "Contact:<br>",
+            "<a href=\"mailto:bjezyk@sju.edu\">bjezyk@sju.edu</a><br>",
+            "(610) 660-3251"
+        ],
+        "further":{
+            "link":"<a href=\"http://www.sju.edu/int/academics/resources/atdl/index.html\" target=\"_blank\"></a>",
+            "click":"Visit our website"
+        }
     }
+
 }

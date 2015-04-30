@@ -150,7 +150,7 @@
 	<text transform="matrix(1 0 0 1 97.667 348.5703)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  226</tspan></text>
 	<text transform="matrix(1 0 0 1 97.667 403.2373)"><tspan x="0" y="0" font-family="'Avenir-Medium'" font-size="12">Office </tspan><tspan x="7" y="14.4" font-family="'Avenir-Medium'" font-size="12">  227</tspan></text>
 	<text transform="matrix(1.3091 0 0 1 195 356.9434)" font-family="'Avenir-Medium'" font-size="16">ATDL</text>
-	<text transform="matrix(1.3091 0 0 1 183 408.9434)" font-family="'Avenir-Medium'" font-size="16">OFFICE</text>
+	<text transform="matrix(1.3091 0 0 1 183 408.9434)" font-family="'Avenir-Medium'" font-size="16">OFFICES</text>
 	<a xlink:href="DrexelFloor2.svg"  xlink:title="Go to the Drexel side">
 		<text transform="matrix(1 0 0 1 594 466.5)" font-family="'Avenir-Medium'" font-size="14">To The Drexel Side</text>
 	</a>
